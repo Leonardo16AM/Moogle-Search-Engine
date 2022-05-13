@@ -102,7 +102,10 @@ public class model{
     public string recomendation(string s){
         string ret="";
         var norm=string_utils.normalize_text_with_quotation(s);
+        Console.WriteLine("mmmmmmmmmmmmmmm");
         string_utils.print_list(norm);
+
+
         for(int i=0;i<norm.Count;i++){
             double min_dist=100;
             string real=norm[i];
@@ -114,12 +117,12 @@ public class model{
             }
             if(norm[i].Length==1){
                 if(string_utils.is_letter(norm[i][0])){
-                    ret+=" "+real;
+                    ret+=" +"+real;
                 }else{
-                    ret+=norm[i];
+                    ret+=char.Parse(norm[i]);
                 }
             }else{
-                ret+=" "+real;
+                if(norm[i].Length!=0)ret+=" "+real;
             }
         }
         return ret;
@@ -127,10 +130,15 @@ public class model{
 
     public void build_from_txts(){
 
-        files=txt_reader.ls("../Content");
+        files=txt_reader.ls("../Content0.1");
+
+
 
         for(int i=0;i<files.Count;i++){
             string text=txt_reader.read(files[i]);  
+
+            Console.WriteLine(files[i]);
+
             original_texts.Add(text);
             texts.Add(string_utils.normalize_text(text));
 
@@ -149,6 +157,7 @@ public class model{
         word_set.CopyTo(wrds);
         words=string_utils.to_list(wrds);
         for(int i=0;i<words.Count;i++){
+            Console.WriteLine(words[i]);
             wordindex[words[i]]=i;
             wordcount.Add(0);
         }
@@ -163,10 +172,12 @@ public class model{
                 }   
             }
         }
+        Console.WriteLine("-------------->creating vectors");
         
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
         }
+        Console.WriteLine("--------------->vectors created");
     }
 
     public string naive_search(string s){

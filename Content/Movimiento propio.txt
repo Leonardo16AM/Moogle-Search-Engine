@@ -1,0 +1,49 @@
+Movimiento propio
+
+El movimiento propio de una estrella es la medida del cambio de su posición en el cielo en el tiempo después de que se descarta el movimiento impropio. Es una medida indirecta de la velocidad transversal de la estrella con respecto a la Tierra. Esta contrasta con la velocidad radial, que es la medida del cambio de la distancia desde o hacia el espectador en el tiempo. A lo largo de los años podemos observar que las estrellas se mueven, también podemos observar aunque a simple vista, tenemos que tener mucha atención al observar.
+La Estrella de Barnard tiene el mayor(las estrellas se mueven) movimiento propio de todas las estrellas conocidas. Se mueve 10,3 arcosegundos por año.
+Introducción
+
+Durante siglos, las estrellas parecen mantener posiciones casi fijas una con respecto a otras, de modo que forman las mismas constelaciones durante el tiempo histórico. La Osa Mayor, por ejemplo, tiene casi la misma forma ahora que hace cientos de años. Sin embargo, observaciones exactas a largo plazo muestran que las constelaciones cambian de forma, aunque muy despacio, y que cada estrella tiene un movimiento independiente.
+
+Este movimiento es causado por el movimiento verdadero de las estrellas en relación con el Sol y el sistema solar en el espacio. Es medido por dos cantidades: el ángulo de movimiento propio y el movimiento propio mismo. La primera cantidad indica la dirección del movimiento propio sobre la esfera celeste (0 grados significan movimiento al norte, 90 grados al este, etcétera), y la segunda cantidad da la magnitud del movimiento, en arcosegundos por año
+
+La Estrella de Barnard tiene el movimiento propio más grande de todas las estrellas, y se mueve 10.3 arcosegundos por año. Un gran movimiento propio es por lo general una indicación de que una estrella está relativamente cerca del Sol. Esto es verdad en el caso para la Estrella de Barnard que, a una distancia de aproximadamente 6 años luz es, después del Sol y Alpha Centauri la estrella conocida más cercana Tierra (aunque es una enana roja, demasiado débil para ser vista sin un telescopio o binoculares poderosos, con una magnitud aparente de 9.54).
+
+Un movimiento propio de 1 arcsec por año a una distancia de 1 año luz corresponde a una velocidad relativa transversal de 1.45 km/s. Para la estrella de Barnard esto resulta 90 km/s; incluyendo la velocidad radial de 111 km/s (que es perpendicular a la velocidad transversal) da un movimiento verdadero de 142 km/s. El movimiento verdadero o absoluto es más difícil de medir que el movimiento propio, dado que la velocidad transversal verdadera implica el producto del movimiento propio por la distancia; es decir que mediciones de la velocidad verdadera dependen de mediciones de distancia, que son difíciles en general. Actualmente, la estrella cercana con la velocidad verdadera mayor (en relación con el Sol) es Wolf 424 que se mueve a 555 km/s.
+Utilidad en astronomía
+
+Las estrellas con movimiento propio grande tienden a ser cercanas; la mayor parte de las estrellas son bastante lejanas por lo que sus movimientos propios parecen ser muy pequeños, de orden unas milésimas de arcsegundo por año. Es posible construir muestras casi completas de estrellas con movimiento propio alto comparando imágenes fotográficas del cielo tomadas con años de diferencia. En el pasado, la búsqueda de objetos con alto movimiento propio fue emprendida usando comparadores de parpadeo para examinar imágenes ocularmente, pero técnicas modernas como la diferenciación de imágenes lo hacen en la actualidad automáticamente reenviando datos de imágenes digitalizadas. Como el sesgo de selección de las muestras de movimiento propio alto resultantes es bien entendido y bien cuantificado, es posible usarlas para construir un censo imparcial de la población estelar cercana. Los estudios de este tipo muestran que la población local de estrellas consiste en gran parte en estrellas intrínsecamente ligeras, como del tipo enana roja.
+Historia
+
+El movimiento propio fue descubierto en 1718 por Edmund Halley, quien notó que Sirius, Arcturus y Aldebarán estaban más de medio grado corridas de las posiciones tabuladas por el astrónomo griego Hiparco de Nicea aproximadamente 1850 años antes.
+
+En una investigación publicada en 2005, se hizo la primera medida del movimiento propio de una galaxia (Triangulum).
+Estrellas con alto movimiento propio
+
+Las siguientes son estrellas con el movimiento propio más alto del catálogo Hipparcos. No incluye estrellas como la Estrella de Teegarden, demasiado débil para figurar en este catálogo.
+Movimiento propio de 61 Cygni mostrando su posición con intervalos de un año.
+
+    Estrella de Barnard
+    Estrella de Kapteyn
+    Groombridge 1830
+    Lacaille 9352
+    CD -37 15492 (Gliese 1)
+    HIP 67593
+    61 Cygni A & B
+    Lalande 21185
+    Épsilon Indi
+    Gliese 412
+
+Referencias
+
+    Distant galaxy's subtle sidling measured - space - 03 March 2005 - New Scientist
+
+    Reid, Neill (23 de febrero de 2002). «Meeting the neighbours: NStars and 2MASS». Space Telescope Science Institute. Archivado desde el original el 20 de febrero de 2007. Consultado el 10 de agosto de 2006.
+
+Enlaces externos
+
+    Hipparcos: High Proper Motion Stars
+    The 150 Stars in the Hipparcos Catalogue with Largest Proper Motion
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

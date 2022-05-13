@@ -87,10 +87,9 @@ public static class string_utils{
         // Converts a string to a list of lowercase strings with quotation marks
        
         string ktext="";
-        ktext+=text[0];
-        for(int i=1;i<text.Length;i++){
-            if( is_letter(text[i-1]) && (text[i]=='.'||text[i]==','||text[i]==';'||text[i]==':'||text[i]=='!'||text[i]=='^'||text[i]=='~'||text[i]=='*') ){
-                ktext+=' '+text[i]+' ';
+        for(int i=0;i<text.Length;i++){
+            if( !is_letter(text[i]) ){
+                ktext+=" "+text[i]+" ";
             }else{
                 ktext+=text[i];
             }

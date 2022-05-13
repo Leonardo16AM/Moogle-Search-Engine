@@ -1,0 +1,311 @@
+Idioma pemón
+
+El idioma pemón pertenece a la familia de idiomas caribes. Es hablado ante todo por la etnia pemona, de aproximadamente treinta mil personas, en el Sureste de Venezuela particularmente en el Parque nacional Canaima (Estado Bolívar), en el estado de Roraima en Brasil y en Guyana. Algunas de sus palabras se han incorporado a la forma de hablar de los habitantes de esa área del país.
+pemón
+pemón
+Hablado en	Venezuela
+ Brasil
+ Guyana
+Hablantes	30 000
+Familia	
+
+Lenguas caribes
+ Caribe-Amazónico
+  Nor-amazónico
+   pemón
+Escritura	Latino
+Estatus oficial
+Oficial en	 Venezuela
+Códigos
+ISO 639-3	aoc
+Clasificación
+Idioma pemón entre los idiomas caribes.
+
+El pemón es parte de la familia caribe, de la rama guayanesa, sub-rama Kapón. Está emparentado cercanamente con el akawaio, el macushi y el patamona y en menor grado con idiomas tales como el yekuana.
+Distribución
+
+El pemón es el idioma caribe con más hablantes. Se habla en los municipios Sifontes y Gran Sabana del estado Bolívar de Venezuela, en Guyana y en Roraima, Brasil. El macushí o macuxi, hablado en Brasil, es a veces considerado como un dialecto del pemón. La Gran Sabana es el sitio con el mayor número de hablantes de la lengua pemona.
+Dialectos
+
+Hay tres dialectos pemones mutuamente intelegibles:
+
+    arekuna: dialecto de la zona norte y centro, hablado por un 45% de la población.
+    kamarakoto: dialecto de Kamarata y Urimán, en la zona noroccidental, en el Bajo Caroní y Bajo Paragua.
+    taurepán: dialecto del sur (de la Gran Sabana)
+
+Estos dialectos se diferencian a nivel fonético, gramatical y lexical.
+Historia
+
+El Taurepan tiene un origen común con una serie de idiomas conocidos como lenguas caribes. Dichos idiomas se habrían derivado de un idioma proto-caribe hipotético cuya existencia se estima remontarse a 3700 años atrás. Esta familia es una de las mayores en América y habría tenido su extensión máxima en el momento del contacto con los europeos.
+
+El idioma aun conserva un gran parecido con otros idiomas caribes hablados actualmente en Venezuela y con otros que se extinguieran en los siglos pasados como el tamanaco o el chaima. En siglos anteriores los misioneros católicos realizaron estudios de idiomas caribes relacionados, como el tamanaco y el chaima. El taurepan ha sido ante todo un idioma sin tradición escrita. Solo en el siglo XX comenzó a cambiar esto.
+
+El antropólogo y explorador Theodor Koch-Grünberg fue probablemente la primera persona en publicar estudios sobre este idioma. Fray Cesáreo de Armellada desarrolló la primera gramática del taurepan a mediados del siglo XX (1943), así como un diccionario, que han recibido varias ediciones. De Armellada también publicó varios volúmenes de cuentos en taurepan y castellano.
+
+La constitución de 1999 declaró al idioma taurepan como uno de los idiomas oficiales del país, aunque esto no ha tenido muchas repercusiones. Los alumnos de primaria reciben algunas clases en taurepan, aunque la educación se desarrolla ante todo en castellano. Anualmente hay un concurso de lectura en cuatro idiomas en la ciudad de Santa Elena de Uairén y el taurepan es uno de estos idiomas. No hay prensa escrita en taurepan. Hay radios locales en la Gran Sabana que tienen programas en este idioma. En Santa Elena de Uairén es común encontrar personas que hablen taurepan.
+Influencia en otros idiomas
+
+El taurepan ha dado algunas palabras al idioma castellano. Una de ellas es "tepuy" (tüpü). Una familia de coleópteros aléfagos ha recibido como nombre el término "Meruidae", del pemón "meru" o "cascada".
+
+Numerosos topónimos de la Guayana venezolana son de origen pemón. Entre otros, se cuentan: Roraima, Kamoirán, Uairén (Wairen), Kukenán, Icabarú, Caroní, Auyán Tepui, kari´ña, Kavanayén, Canaima (Kanaima), aunque caroni se piensa que es de origen Arawak.
+Tepuy, del pemón tüpü, es una palabra que ha pasado a designar en español y otros idiomas el tipo de montañas halladas en el Macizo Guayanés
+Fonología
+Vocales
+
+El pemón tiene los siguientes fonemas vocálicos:
+
+a: /a/
+
+e: /e/ o /ε:
+
+i: /i/
+
+ï: /i/
+
+ü:
+
+o: /o/ u /ø/
+
+ö: /ø/ o /ə/
+
+u: /u/
+
+Aún hay textos que solo usan las letras castellanas, sin hacer diferencia de manera clara entre fonemas tales como /o/ u /ø/.
+Consonantes
+
+Existen las siguientes consonantes:
+
+b, ch, d, k, m, n, ñ, p, r, s, t, v, w, y
+Morfología y sintaxis
+
+El pemón, a diferencia del castellano, no tiene artículos. En vez de preposiciones, se usan por lo general postposiciones.
+Substantivos
+Número
+
+El número se indica muy pocas veces en pemón. En general se usa el sufijo -damük para el plural de los seres vivos, mientras que se usa -ton para los objetos inanimados. La variante kamarakota no usa esta forma para humanos, sino -ton.
+morok 	morokdamük
+pez 	peces
+
+Se usan otros sufijos para expresar pluralidad: -kon, -non, -on, -san, -ton.
+dakon 	dakonnon
+hermano 	hermanos
+Género
+
+El género en pemón no se indica con afixos. Para indicar el género de los animales se les añade la terminación -´pachi.
+
+perro: arinmaraka
+
+perro: arinmaraka pachi
+
+Solo ciertas palabras se distinguen para referirse a seres vivos masculinos o femeninos, que también son dependientes del género de quien se diga. Ej:
+
+mumu: hijo, si se trata del hijo del varón
+
+yenchi: hija, si se trata de la hija del varón
+
+rume: para hijo o hija de la hembra.
+Diminutivos y aumentativos
+
+El sufijo principal para expresar un diminutivo es -rü'kö. Hay diversos sufixos que expresan el aumentativo: potorü (de padre), yun (padre), pai (cabeza), entre otros.
+kaikuse 	kaikuserü'kö 	kaikusepotorü
+tigre 	tigrito 	tigrote
+Adjetivos
+
+Los adjetivos pemones usualmente se anteponen al sustantivo, al contrario de lo que ocurre en español.
+
+nosan yöi: palo largo.
+
+Los adjetivos pueden nominalizarse dependiendo de su posición.
+
+Pueden llevar una terminación de plural, aunque la misma no es tan frecuente como en español:
+
+chuviyü: rojo, chuviyüton: rojos
+Comparación
+
+En pemón se puede comparar utilizando el adverbio yentai. Este se coloca usualmente al final de la oración, siguiendo la fórmula S + A + S + yentai (frase nominal + adjetivo + frase nominal + más)
+Waira 	tekatunsen 	mauray 	yentai
+Danta 	corredor 	cachicamo 	más
+
+La danta es más corredora que el cachicamo.
+Pronombres
+
+La siguiente tabla representa los pronombres y afijos nominales.
+	pronombre 	sujeto S
+1s 	yuurö 	-V
+2s 	amörö 	a-V
+3s 	mö'rö 	i-V
+1&2 	yuurötokon 	X-V-kon
+1&3 	inna 	
+3p 	amörönokon 	a-V-kn
+Verbos
+
+Los verbos suelen ir al final de la oración o entre el objeto directo y el sujeto. Hay prefijos y sufijos para identificar la persona y el número. Los pronombres se anexan al verbo.
+Presente
+
+El presente transitivo regular tiene las siguientes formas:
+persona 	afijos 	ejemplo 	castellano
+1p. sing 	-da 	konekada 	hago
+2p. sing 	-uya 	konekauya 	haces
+3p. sing 	-ya 	konekaya 	hace
+1p. plur 	-inada 	konekainada 	hacemos
+2p. plur 	-uyanokon 	konekauyanokon 	hacéis
+3p. plur 	-toda 	konekatoda 	hacen
+
+El verbo ser/estar se puede expresar por medio de dos verbos diferentes. Uno es regular y el otro no:
+Persona 	echi 	e 	español
+1. sing 	(yurö)echi 	edai 	soy
+2. sing 	avechi 	medai 	eres
+3. sing 	amöröechi 	amöröman 	es
+1. plural 	innaechi 	innaman 	somos
+1. plural 	yurönokonechi 	yurönokonman 	somos
+2. plural 	avechikon/amörökonechi 	medatöi 	sois
+2. plural 	toechi 	toman 	son
+Pretérito
+
+El pretérito sintético tiene las siguientes formas:
+persona 	afijos 	ejemplo 	castellano
+1p. sing 	-i 	entanai 	comí
+2p. sing 	me-X-i 	mentanai 	comiste
+3p. sing 	ne-X-i 	nentanai 	comió
+1p. plur 	(ina) ne-X-i 	(ina) nentanai 	comimos
+2p. plur 	me-X-töu 	mentanatöu 	comisteis
+3p. plur 	(to) ne-X-i 	(to) nentanai 	comieron
+
+El pretérito perfecto puede expresarse con la raíz seguida del sufijo -sak:
+
+    e'neiika: enojarse
+
+    e'neikasak da'tai: cuando me enojo
+
+Futuro
+
+El futuro no se indica con una forma verbal específica. Se pueden usar sufijos que expresan matices de futuro (intención).
+
+    -kupü: tapui ataremo kupü (se va a caer la casa)
+    -ina: chikö chimokaina (voy a sacar la nigua)
+    -se: mörö enöse (vamos a comerlo)
+
+Imperativo
+
+El pemón puede indicar en sus formas imperativas si la acción ha de realizarse en otra parte o si el receptor debe ir al interlocutor para realizarla.
+persona 	afijos 	ejemplo 	castellano
+2p. sing 	-kö 	konekakö 	haz
+2p. plural 	-tök 	konekatök 	haced
+2p. singular en otro sitio 	-ta 	konekata 	vete a hacerlo
+2p. plural en otro sitio 	-tantök 	konekantök 	vete a hacerlo
+2p. singular viniendo al sitio del interlocutor 	-tane'ke 	konekatane'ke 	ven a hacerlo
+2p. plural viniendo al sitio del interlocutor 	-tane'tek 	konekatane'tek 	venid a hacerlo
+Postposiciones
+
+El pemón, como muchos idiomas americanos de diversas familias, usa postpociones en vez de preposiciones.
+
+En la siguiente tabla se pueden ver algunos ejemplos de las mismas.
+Pemón 	Castellano 	Ejemplo
+dai 	a través de 	
+dak 	a 	
+dakarö 	hasta 	
+dannak 	hacia adentro 	
+da'rö 	con 	
+dasanau 	entre 	
+dau 	en, dentro 	
+dawörö 	a través de, según 	
+do'no 	debajo 	
+winökai 	hacia 	
+kuretak 	entre (verbos de movimiento) 	
+nai 	durante 	
+poro 	por, sobre, por encima de 	
+töpai 	desde 	
+wak 	a (con términos de agua, o contenidos líquidos) 	
+woi 	alrededor 	
+Adverbios
+
+Muchos adverbios no se diferencian por su forma de adjetivos o substantivos. Uno de los sufijos adverbializadores más comunes es -pe.
+
+Ejemplos: emadope: primeramente yataretika: al terminar
+
+Otros adverbios son demostrativos: tare: aquí seporo: por aquí
+Numerales
+
+El idioma pemón tiene un sistema de numeración que solo llega hasta la veintena. Normalmente se usan los numerales castellanos para cantidades más allá de 5. Los numerales en pemón son los siguientes:
+numeral 	pemón 	explicación
+1 	teukin, toikin 	
+2 	saküne, saknankon, sak, saare, asare 	sak: pareja
+3 	eseura-woné, eseurau, essei-rau, eseurawe-nan, eseurá-woné 	
+4 	nauru, sakrere, sakörö roné 	doble de 2
+5 	mia toikin, teukin yenin 	mano, 5 dedos
+6 	teukin pia tenna tamotai, mia teukin 	1 a otra mano
+7 	sakne pia tenna temotai, mia saküne 	2 a una mano
+8 	eseurawene mia pona temotai 	3 a una mano
+9 	sakrere mia pona temotai 	4 a una mano
+10 	mia tamenawere, yenna-to kaichare, yenna to-pe 	ambas manos, todos los dedos
+
+Sintaxis
+
+El idioma pemón es un idioma SOV alternado con OVS.
+
+El pemón es una lengua ergativa.
+
+Algunos ejemplos:
+	José-da 	Juan 	erema 		> José ve a Juan
+
+Las siguientes frases con equivalentes:
+	Sabauke 	a- 	rona 	-da 		> Te lavo con jabón
+	a- 	rona 	-da 	sabauke 		> Te lavo con jabón
+
+Sabauke se forma con el substantivo sabau (jabón) y la postposición -ke (con o valor instrumental).
+Léxico
+
+El pemón tiene un gran parecido léxico a otros idiomas caribes, en especial aquellos de Guayana y la costa occidental de Venezuela. Abajo aparecen algunas palabras de los extintos chaima y tamanaco, que fueron registradas por Alexander von Humboldt en su viaje a Venezuela, junto con el equivalente en pemón y en castellano.
+pemón 	chaima 	tamanaco 	castellano
+yuurö 	ure 	ure 	yo
+tuna 	tuna 	tuna 	agua
+conopo 	conopo 	canepo 	lluvia
+puturu 	poturu 	puturo 	conocimiento
+apok 	apoto 	u-apto 	fuego
+kapüi 	nuna 	nuna 	luna, mes
+wan 	guane 	uane 	miel
+aute 	ata 	aute 	casa
+
+El léxico pemón también ha recibido influencia de diversos idiomas autóctonos y europeos.
+pemón 	idioma origen 	original 	significado
+kamicha 	español 	camisa 	camisa
+kareta 	español 	carta 	carta por extensión otro tipo de papel
+prata 	español 	plata 	dinero, plata
+rin 	inglés 	ring 	anillo
+kasupara 	aruaca 	kasupara 	machete
+karivina 	portugués 	galinha 	gallina
+Algunas expresiones
+
+    Öik adeseik?: ¿Cómo te llamas?
+
+    Waküperö medan?: ¿Cómo está Usted?
+
+    Waküperö medatöu?: ¿Cómo están Ustedes?
+
+Enlaces externos
+
+    Gramática del pemón
+    Informaciones generales sobre el pemón (en inglés)
+    Sitio sobre la cultura pemona con textos y grabaciones en pemón
+
+Literatura
+Gramáticas y diccionarios
+
+    Álvarez, José (2008): Cláusulas relativas, nominalización y constituyentes en Pemón (Caribe) Revista de Ciencias Humanas y Sociales., Nº. 57. Págs. 114-143. ISSN 1012-1587.
+
+    Armellada, Cesáreo de (Fray) y Olza, Jesús,s.j. (1999): Gramática de la lengua pemón (morfosintaxis) Caracas. Publicaciones Ucab, Vicariato Apostólico del Caroní y Universidad Católica del Táchira. pp. 289.
+
+    Armellada, Cesáreo de (Fray) y Gutiérrez Salazar, M. (Mons.) (2007): Diccionario pemón-castellano-castellano-pemón. Pp. 305. Cuarta edición. Hermanos Menores Capuchinos. UCAB. ISBN 978-980-244-512-7.
+
+    Gutiérrez Salazar, Msr Mariano (2001): Gramática Didáctica de la Lengua Pemón. Caracas. ISBN 980-244-282-8.
+
+    Koch-Grünberg, Theodor (2010): Vom Roraima zum Orinoco 5 Volume Set: Vom Roraima zum Orinoco: Ergebnisse einer Reise in Nordbrasilien und Venezuela in den Jahren 1911-1913: Volume 4. Cambridge Library Collection - Linguistics. ISBN 978-1108006286.
+
+Referencias
+
+    [Armellada, Cesáreo de (Fray) y Olza, Jesús,s.j. (1999): Gramática de la lengua pemón (morfosintaxis) Caracas. Publicaciones Ucab, Vicariato Apostólico del Caroní y Universidad Católica del Táchira. pp. 272-275]
+    Glosario de Astronomía de los Caribes de Venezuela
+    La Transitividad en Japrería: artículo que relaciona ese idioma con otros idiomas caribes
+    de travail/Ergativite/1kGildea.pdf
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.
