@@ -99,9 +99,10 @@ public class model{
         return ret;
     }
 
-    public string real_query(string s){
+    public string recomendation(string s){
         string ret="";
-        var norm=string_utils.normalize_text(s);
+        var norm=string_utils.normalize_text_with_quotation(s);
+        string_utils.print_list(norm);
         for(int i=0;i<norm.Count;i++){
             double min_dist=100;
             string real=norm[i];
@@ -111,7 +112,15 @@ public class model{
                     min_dist=string_utils.distance(norm[i],words[j]);
                 }
             }
-            ret+=" "+real;
+            if(norm[i].Length==1){
+                if(string_utils.is_letter(norm[i][0])){
+                    ret+=" "+real;
+                }else{
+                    ret+=norm[i];
+                }
+            }else{
+                ret+=" "+real;
+            }
         }
         return ret;
     }
@@ -129,9 +138,6 @@ public class model{
             vectrs[i].full_text=text;
         }
         
-
-
-
         HashSet<string>word_set = new HashSet<string>();
         for(int i=0;i<texts.Count;i++)
             for(int j=0;j<texts[i].Count;j++){
@@ -158,8 +164,6 @@ public class model{
             }
         }
         
-
-
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
         }

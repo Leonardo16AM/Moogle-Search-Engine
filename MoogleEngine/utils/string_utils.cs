@@ -77,6 +77,43 @@ public static class string_utils{
         return lst;
     }   
 
+
+    
+    public static bool is_letter(char mander){  
+        return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z');
+    }
+
+    public static List<string> normalize_text_with_quotation(string text){        
+        // Converts a string to a list of lowercase strings with quotation marks
+       
+        string ktext="";
+        ktext+=text[0];
+        for(int i=1;i<text.Length;i++){
+            if( is_letter(text[i-1]) && (text[i]=='.'||text[i]==','||text[i]==';'||text[i]==':'||text[i]=='!'||text[i]=='^'||text[i]=='~'||text[i]=='*') ){
+                ktext+=' '+text[i]+' ';
+            }else{
+                ktext+=text[i];
+            }
+        }   
+
+        text=ktext;
+       
+        char[] delimiters = {' ', '\t', '\n' };
+        string[] ntext=text.Split(delimiters);
+
+        List<string> lst=new List<string>();
+            
+        for(int i=0;i<ntext.Length;i++){
+            string s=ntext[i];
+            s=s.ToLower();
+            lst.Add(s);
+        }
+
+        return lst;
+    }   
+
+
+
     public static List<string> get_word_list(List<string> list){        
         // return list of different strings
         List<string>ret=new List<string>();

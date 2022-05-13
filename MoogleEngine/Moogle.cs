@@ -10,7 +10,7 @@ public static class Moogle{
         model.print();
 
 
-        string real_query=model.real_query(query);
+        string real_query=model.recomendation(query);
 
         SearchItem[] items = new SearchItem[3] {
             new SearchItem("Hello World", model.naive_search(query), 0.9f),
