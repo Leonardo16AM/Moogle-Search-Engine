@@ -159,7 +159,7 @@ public static class string_utils{
     }   
     public static void print_list(List<string>lis){        
         for(int i=0;i<lis.Count;i++){
-                Console.WriteLine(lis[i]);
+                Console.Write(lis[i]+" ");
         }
     }   
 

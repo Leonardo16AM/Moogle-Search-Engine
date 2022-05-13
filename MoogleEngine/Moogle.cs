@@ -7,7 +7,7 @@ public static class Moogle{
 
         model model= new model();
         model.build_from_txts();
-        model.print();
+        // model.print();
 
 
         string real_query=model.recomendation(query);

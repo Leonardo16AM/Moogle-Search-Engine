@@ -73,17 +73,6 @@ public class model{
 
 
     public vector create_vector(List<string> s){
-        for(int i=0;i<s.Count;i++){
-            double min_dist=100;
-            string real=s[i];
-            for(int j=0;j<words.Count;j++){
-                if(string_utils.distance(s[i],words[j])<min_dist){
-                    real=words[j];
-                    min_dist=string_utils.distance(s[i],words[j]);
-                }
-            }
-            s[i]=real;
-        }
         vector ret=new vector();
 
         for(int i=0;i<s.Count;i++){
@@ -102,8 +91,6 @@ public class model{
     public string recomendation(string s){
         string ret="";
         var norm=string_utils.normalize_text_with_quotation(s);
-        Console.WriteLine("mmmmmmmmmmmmmmm");
-        string_utils.print_list(norm);
 
 
         for(int i=0;i<norm.Count;i++){
@@ -130,14 +117,12 @@ public class model{
 
     public void build_from_txts(){
 
-        files=txt_reader.ls("../Content0.1");
+        files=txt_reader.ls("../Content");
 
 
 
         for(int i=0;i<files.Count;i++){
             string text=txt_reader.read(files[i]);  
-
-            Console.WriteLine(files[i]);
 
             original_texts.Add(text);
             texts.Add(string_utils.normalize_text(text));
@@ -157,7 +142,6 @@ public class model{
         word_set.CopyTo(wrds);
         words=string_utils.to_list(wrds);
         for(int i=0;i<words.Count;i++){
-            Console.WriteLine(words[i]);
             wordindex[words[i]]=i;
             wordcount.Add(0);
         }
@@ -172,17 +156,29 @@ public class model{
                 }   
             }
         }
-        Console.WriteLine("-------------->creating vectors");
-        
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
         }
-        Console.WriteLine("--------------->vectors created");
     }
 
     public string naive_search(string s){
         
         List<string>norm_vector=string_utils.normalize_text(s);
+
+
+        
+        for(int i=0;i<norm_vector.Count;i++){
+            double min_dist=100;
+            string real=norm_vector[i];
+            for(int j=0;j<words.Count;j++){
+                if(string_utils.distance(norm_vector[i],words[j])<min_dist){
+                    real=words[j];
+                    min_dist=string_utils.distance(norm_vector[i],words[j]);
+                }
+            }
+            norm_vector[i]=real;
+        }
+
         List<string>famil=new List<string>();
         
 
@@ -202,11 +198,7 @@ public class model{
                 ans=ang;
                 best=i;
             }
-            Console.WriteLine(ang);
-            string_utils.print_list(vectrs[i].words);
         }
-        Console.WriteLine(best);
-
         return original_texts[best];
     }
 
