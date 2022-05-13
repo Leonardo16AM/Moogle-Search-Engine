@@ -37,30 +37,32 @@ public class trie{
             u=pos;
         }
         end[u]=true;
+        node_string[u]=s;
         return u;
     }
 
-    private List<string> dfs(int node){
+    private List<string> dfs(int node,int dist){
         List<string> ret= new List<string>();
+        if(dist>1)return ret;
         if(end[node]){
             ret.Add(node_string[node]);
         }        
         for(int i=0;i<graph[node].Count;i++){
             int v=graph[node][i];
-            ret=string_utils.join_lists(ret,dfs(v));
+            ret=string_utils.join_lists(ret,dfs(v,dist+1));
         }
         return ret;
     }
 
-    public List<string> family_words(string s,int deep=4){
+    public List<string> family_words(string s,int deep=0){
         int node=insert(s);
         int orig_node=node;
         while( deep>0 && node!=0 ){
             node=parent[node];   
             deep--;
         }
-        if(node==0)return dfs(orig_node);
-        return dfs(node);
+        if(node==0)return dfs(orig_node,0);
+        return dfs(node,0);
     }
 
 

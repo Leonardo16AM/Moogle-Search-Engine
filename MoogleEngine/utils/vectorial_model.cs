@@ -73,17 +73,6 @@ public class model{
 
 
     public vector create_vector(List<string> s){
-        for(int i=0;i<s.Count;i++){
-            double min_dist=100;
-            string real=s[i];
-            for(int j=0;j<words.Count;j++){
-                if(string_utils.distance(s[i],words[j])<min_dist){
-                    real=words[j];
-                    min_dist=string_utils.distance(s[i],words[j]);
-                }
-            }
-            s[i]=real;
-        }
         vector ret=new vector();
 
         for(int i=0;i<s.Count;i++){
@@ -102,7 +91,8 @@ public class model{
     public string recomendation(string s){
         string ret="";
         var norm=string_utils.normalize_text_with_quotation(s);
-        string_utils.print_list(norm);
+
+
         for(int i=0;i<norm.Count;i++){
             double min_dist=100;
             string real=norm[i];
@@ -114,12 +104,12 @@ public class model{
             }
             if(norm[i].Length==1){
                 if(string_utils.is_letter(norm[i][0])){
-                    ret+=" "+real;
+                    ret+=" +"+real;
                 }else{
-                    ret+=norm[i];
+                    ret+=char.Parse(norm[i]);
                 }
             }else{
-                ret+=" "+real;
+                if(norm[i].Length!=0)ret+=" "+real;
             }
         }
         return ret;
@@ -129,8 +119,11 @@ public class model{
 
         files=txt_reader.ls("../Content");
 
+
+
         for(int i=0;i<files.Count;i++){
             string text=txt_reader.read(files[i]);  
+
             original_texts.Add(text);
             texts.Add(string_utils.normalize_text(text));
 
@@ -163,7 +156,6 @@ public class model{
                 }   
             }
         }
-        
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
         }
@@ -172,9 +164,22 @@ public class model{
     public string naive_search(string s){
         
         List<string>norm_vector=string_utils.normalize_text(s);
-        List<string>famil=new List<string>();
-        
 
+
+        
+        for(int i=0;i<norm_vector.Count;i++){
+            double min_dist=100;
+            string real=norm_vector[i];
+            for(int j=0;j<words.Count;j++){
+                if(string_utils.distance(norm_vector[i],words[j])<min_dist){
+                    real=words[j];
+                    min_dist=string_utils.distance(norm_vector[i],words[j]);
+                }
+            }
+            norm_vector[i]=real;
+        }
+
+        List<string>famil=new List<string>();
         for(int i=0;i<norm_vector.Count;i++){
             famil=string_utils.join_lists(famil,suffix_trie.family_words(norm_vector[i]));
         }
@@ -182,6 +187,13 @@ public class model{
 
 
         vector v=create_vector(norm_vector);
+
+        string_utils.print_list(norm_vector);
+        for(int i=0;i<v.vec.Count;i++){
+            if(v.vec[i]>0.0000001){
+                Console.WriteLine($"{words[i]} : {v.vec[i]}");
+            }
+        }
 
         int best=0;
         double ans=100.0;
@@ -191,11 +203,7 @@ public class model{
                 ans=ang;
                 best=i;
             }
-            Console.WriteLine(ang);
-            string_utils.print_list(vectrs[i].words);
         }
-        Console.WriteLine(best);
-
         return original_texts[best];
     }
 
