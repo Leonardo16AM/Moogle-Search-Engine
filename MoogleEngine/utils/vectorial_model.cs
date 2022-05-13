@@ -1,48 +1,5 @@
 // Code by Leonardo Artiles Montero 2022
 
-public class vector{
-    public string full_text="";
-    public List<string> words=new List<string>();
-    public Dictionary<string,int> wordcount= new Dictionary<string,int>();
-    public List<double> vec=new List<double>();
-
-
-
-    public bool find(string s){
-        return wordcount.ContainsKey(s);
-    }
-
-    public int frecuency(string s){
-        if(wordcount.ContainsKey(s))return wordcount[s];
-        else return 0;
-    }
-
-    
-
-    public double dot_product(vector B){
-        double dot=0;
-        for(int i=0;i<vec.Count;i++){
-            dot += B.vec[i] * vec[i];
-        }
-        return dot;
-    }
-
-    public double module(){
-        double dot=0;
-        for(int i=0;i<vec.Count;i++){
-            dot += vec[i] * vec[i];
-        }
-        return Math.Sqrt(dot);
-    }
-
-    public double angle(vector B){
-        return Math.Acos( dot_product(B)/(module()*B.module()) );
-    }
-
-}
-
-
-
 
 
 
@@ -69,6 +26,10 @@ public class model{
             ret.vec[i]=f*Math.Log(words.Count/df );
         }
         return ret;
+    }
+
+    private bool compare_vect(vector a, vector b){
+        return a.angle_with<b.angle_with; 
     }
 
 
@@ -128,7 +89,6 @@ public class model{
             texts.Add(string_utils.normalize_text(text));
 
             vectrs.Add(new vector());
-            vectrs[i].full_text=text;
         }
         
         HashSet<string>word_set = new HashSet<string>();
@@ -158,15 +118,16 @@ public class model{
         }
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
+            string text=txt_reader.read(files[i]);  
+            vectrs[i].path=files[i];
+            vectrs[i].full_text=text;
         }
     }
 
-    public string naive_search(string s){
+    public List<vector> naive_search(string s){
         
         List<string>norm_vector=string_utils.normalize_text(s);
-
-
-        
+    
         for(int i=0;i<norm_vector.Count;i++){
             double min_dist=100;
             string real=norm_vector[i];
@@ -195,16 +156,18 @@ public class model{
             }
         }
 
-        int best=0;
-        double ans=100.0;
-        for(int i=0;i<texts.Count;i++){
-            double ang=vectrs[i].angle(v);
-            if(ang<ans){
-                ans=ang;
-                best=i;
-            }
+        for(int i=0;i<vectrs.Count;i++){
+            vectrs[i].angle_with=vectrs[i].angle(v);;
         }
-        return original_texts[best];
+
+        vectrs.Sort(delegate(vector a,vector b){if(a.angle_with<b.angle_with)return -1;else return 1;});
+        
+        var ret=new List<vector>();
+        for(int i=0;i<3;i++){
+            ret.Add(vectrs[i]);
+        }
+
+        return ret;
     }
 
 
@@ -215,7 +178,6 @@ public class model{
             Console.WriteLine("_________________________________________");
         }
 
-        
         Console.WriteLine("\n============= Printing model.texts ==============");
         for(int i=0;i<texts.Count;i++){
             for(int j=0;j<texts[i].Count;j++)
@@ -228,29 +190,23 @@ public class model{
             Console.WriteLine(files[i]);
             Console.WriteLine("_________________________________________");
         }
+
         Console.WriteLine("\n============= Printing model.words ==============");
         for(int i=0;i<words.Count;i++){
             Console.WriteLine($" {wordindex[words[i]] } - {words[i]} : { wordcount[wordindex[words[i]]] }");
             Console.WriteLine("_________________________________________");
         }
 
-
         Console.WriteLine("\n============= Printing model.vectrs ==============");
         for(int i=0;i<vectrs.Count;i++){
-            
             for(int j=0;j<vectrs[i].vec.Count;j++){
                 Console.WriteLine($" {words[j] }({vectrs[i].vec[j]}) ");
             }
-        
             if(i!=0){
                 Console.WriteLine($"\n{vectrs[i].angle(vectrs[i-1]) }");
             }
             Console.WriteLine("\n_________________________________________");
-        
         }
-
-
-
     }
 
 
