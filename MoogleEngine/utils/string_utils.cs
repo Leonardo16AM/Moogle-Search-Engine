@@ -161,6 +161,7 @@ public static class string_utils{
         for(int i=0;i<lis.Count;i++){
                 Console.Write(lis[i]+" ");
         }
+        Console.WriteLine();
     }   
 
 }

@@ -180,8 +180,6 @@ public class model{
         }
 
         List<string>famil=new List<string>();
-        
-
         for(int i=0;i<norm_vector.Count;i++){
             famil=string_utils.join_lists(famil,suffix_trie.family_words(norm_vector[i]));
         }
@@ -189,6 +187,13 @@ public class model{
 
 
         vector v=create_vector(norm_vector);
+
+        string_utils.print_list(norm_vector);
+        for(int i=0;i<v.vec.Count;i++){
+            if(v.vec[i]>0.0000001){
+                Console.WriteLine($"{words[i]} : {v.vec[i]}");
+            }
+        }
 
         int best=0;
         double ans=100.0;
