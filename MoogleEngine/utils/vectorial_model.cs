@@ -99,6 +99,23 @@ public class model{
         return ret;
     }
 
+    public string real_query(string s){
+        string ret="";
+        var norm=string_utils.normalize_text(s);
+        for(int i=0;i<norm.Count;i++){
+            double min_dist=100;
+            string real=norm[i];
+            for(int j=0;j<words.Count;j++){
+                if(string_utils.distance(norm[i],words[j])<min_dist){
+                    real=words[j];
+                    min_dist=string_utils.distance(norm[i],words[j]);
+                }
+            }
+            ret+=" "+real;
+        }
+        return ret;
+    }
+
     public void build_from_txts(){
 
         files=txt_reader.ls("../Content");
