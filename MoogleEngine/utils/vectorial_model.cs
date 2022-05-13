@@ -99,6 +99,32 @@ public class model{
         return ret;
     }
 
+    public string recomendation(string s){
+        string ret="";
+        var norm=string_utils.normalize_text_with_quotation(s);
+        string_utils.print_list(norm);
+        for(int i=0;i<norm.Count;i++){
+            double min_dist=100;
+            string real=norm[i];
+            for(int j=0;j<words.Count;j++){
+                if(string_utils.distance(norm[i],words[j])<min_dist){
+                    real=words[j];
+                    min_dist=string_utils.distance(norm[i],words[j]);
+                }
+            }
+            if(norm[i].Length==1){
+                if(string_utils.is_letter(norm[i][0])){
+                    ret+=" "+real;
+                }else{
+                    ret+=norm[i];
+                }
+            }else{
+                ret+=" "+real;
+            }
+        }
+        return ret;
+    }
+
     public void build_from_txts(){
 
         files=txt_reader.ls("../Content");
@@ -112,9 +138,6 @@ public class model{
             vectrs[i].full_text=text;
         }
         
-
-
-
         HashSet<string>word_set = new HashSet<string>();
         for(int i=0;i<texts.Count;i++)
             for(int j=0;j<texts[i].Count;j++){
@@ -141,8 +164,6 @@ public class model{
             }
         }
         
-
-
         for(int i=0;i<texts.Count;i++){
             vectrs[i]=create_vector(texts[i]);  
         }
