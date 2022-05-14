@@ -5,9 +5,10 @@
 public static class Moogle{
     public static SearchResult Query(string query) {
         Console.WriteLine("===================Making a new search=======================");
+
+
         model model= new model();
         model.build_from_txts();
-        // model.print();
 
         List<vector> result= model.naive_search(query);
 
