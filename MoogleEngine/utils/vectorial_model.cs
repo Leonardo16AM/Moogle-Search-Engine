@@ -28,11 +28,6 @@ public class model{
         return ret;
     }
 
-    private bool compare_vect(vector a, vector b){
-        return a.angle_with<b.angle_with; 
-    }
-
-
     public vector create_vector(List<string> s){
         vector ret=new vector();
 
@@ -52,7 +47,6 @@ public class model{
     public string recomendation(string s){
         string ret="";
         var norm=string_utils.normalize_text_with_quotation(s);
-
 
         for(int i=0;i<norm.Count;i++){
             double min_dist=100;
@@ -79,8 +73,6 @@ public class model{
     public void build_from_txts(){
 
         files=txt_reader.ls("../Content");
-
-
 
         for(int i=0;i<files.Count;i++){
             string text=txt_reader.read(files[i]);  
@@ -122,6 +114,10 @@ public class model{
             vectrs[i].path=files[i];
             vectrs[i].full_text=text;
         }
+
+        var kdt=new kdtree();
+        kdt.build(ref kdt.root,vectrs,0);
+        kdt.print(kdt.root);
     }
 
     public List<vector> naive_search(string s){

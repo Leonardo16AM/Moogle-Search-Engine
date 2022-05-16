@@ -22,7 +22,6 @@ public static class string_utils{
                         dp[i,j] = 1 + Math.Min( dp[i-1,j] , Math.Min(dp[i-1,j-1],dp[i,j-1]) );
                     }
                 }
-
             }
         }
         
@@ -77,8 +76,6 @@ public static class string_utils{
         return lst;
     }   
 
-
-    
     public static bool is_letter(char mander){  
         return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z');
     }
@@ -150,7 +147,6 @@ public static class string_utils{
 
 
     public static List<string> to_list(string[] s){        
-        
         List<string>ret=new List<string>();
         for(int i=0;i<s.Length;i++){
                 ret.Add(s[i]);
@@ -163,6 +159,4 @@ public static class string_utils{
         }
         Console.WriteLine();
     }   
-
 }
-

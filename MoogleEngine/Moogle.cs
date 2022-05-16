@@ -4,6 +4,7 @@
 
 public static class Moogle{
     public static SearchResult Query(string query) {
+
         Console.WriteLine("===================Making a new search=======================");
 
 
@@ -14,6 +15,8 @@ public static class Moogle{
 
 
         string real_query=model.recomendation(query);
+        
+        
         SearchItem[] items = new SearchItem[3] {
             new SearchItem(result[0].path.Substring(11), result[0].full_text, 0.9f),
             new SearchItem(result[1].path.Substring(11), result[1].full_text, 0.5f),
