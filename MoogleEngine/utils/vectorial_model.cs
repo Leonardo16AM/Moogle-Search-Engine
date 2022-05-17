@@ -12,6 +12,7 @@ public class model{
     public Dictionary<string,int> wordindex= new Dictionary<string,int>(); //index of every word in dict
     List<vector>vectrs = new List<vector>(); //separated vectors
     trie suffix_trie=new trie();
+    kdtree kdt=new kdtree();
 
     public vector TFIDF(vector vc){
         vector ret =vc;
@@ -41,8 +42,19 @@ public class model{
         }
 
         ret=TFIDF(ret);
+        ret.normalize();
         return ret;
     }
+
+
+    public vector create_vector_str(string s){
+        List<string>norm=string_utils.normalize_text(s);
+        vector ret=create_vector(norm);
+        ret.full_text=s;
+        return ret;
+    }
+
+
 
     public string recomendation(string s){
         string ret="";
@@ -59,7 +71,7 @@ public class model{
             }
             if(norm[i].Length==1){
                 if(string_utils.is_letter(norm[i][0])){
-                    ret+=" +"+real;
+                    ret+="  "+real;
                 }else{
                     ret+=char.Parse(norm[i]);
                 }
@@ -115,13 +127,11 @@ public class model{
             vectrs[i].full_text=text;
         }
 
-        var kdt=new kdtree();
         kdt.build(ref kdt.root,vectrs,0);
-        kdt.print(kdt.root);
+        // kdt.print(kdt.root);
     }
 
-    public List<vector> naive_search(string s){
-        
+    public List<string>prepare_string(string s){
         List<string>norm_vector=string_utils.normalize_text(s);
     
         for(int i=0;i<norm_vector.Count;i++){
@@ -141,8 +151,12 @@ public class model{
             famil=string_utils.join_lists(famil,suffix_trie.family_words(norm_vector[i]));
         }
         norm_vector=famil;
+        return norm_vector;
+    }
 
 
+    public List<vector> naive_search(string s){
+        List<string>norm_vector=prepare_string(s);
         vector v=create_vector(norm_vector);
 
         string_utils.print_list(norm_vector);

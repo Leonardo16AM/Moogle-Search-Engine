@@ -46,6 +46,13 @@ public static class string_utils{
     }
 
 
+    public static bool is_letter(char mander){  
+        return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z')||
+        mander=='á'||mander=='é'||mander=='í'||mander=='ó'||mander=='ú'||mander=='ñ'||
+        mander=='Á'||mander=='Á'||mander=='Í'||mander=='Ó'||mander=='Ú'||mander=='Ñ';
+    }
+
+
     public static List<string> normalize_text(string text){        
         // Converts a string to a list of lowercase strings
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n' };
@@ -62,24 +69,13 @@ public static class string_utils{
             s=s.ToLower();
             string stri="";
             for(int j=0;j<s.Length;j++){
-                if(s[j]=='á')stri+="a";
-                if(s[j]=='é')stri+="e";
-                if(s[j]=='í')stri+="i";
-                if(s[j]=='ó')stri+="o";
-                if(s[j]=='ú')stri+="u";
-                if(s[j]<'a'||s[j]>'z')continue;
-                else stri+=s[j];
+                if(is_letter(s[j])) stri+=s[j];
             }
             if(stri.Length>0) lst.Add(stri);
         }
 
         return lst;
     }   
-
-    public static bool is_letter(char mander){  
-        return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z');
-    }
-
     public static List<string> normalize_text_with_quotation(string text){        
         // Converts a string to a list of lowercase strings with quotation marks
        

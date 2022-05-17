@@ -34,5 +34,11 @@ public class vector{
     public double angle(vector B){
         return Math.Acos( dot_product(B)/(module()*B.module()) );
     }
-
+    public void normalize(){
+        double mod=module();
+        if(mod<1e-9)return;
+        for(int i=0;i<vec.Count;i++){
+            vec[i]=vec[i]/mod;
+        }
+    }
 }

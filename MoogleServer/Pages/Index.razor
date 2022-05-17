@@ -29,8 +29,9 @@
 @code {
     private string query = "";
     private SearchResult result = new SearchResult();
+    private search_engine engine=new search_engine();
 
-    private void RunQuery() {
-        result = Moogle.Query(query);
+    private void RunQuery(){
+        result = Moogle.Query(query,ref engine);
     }
 }
