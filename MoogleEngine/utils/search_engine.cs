@@ -33,24 +33,14 @@ public class search_engine{
         double mod_q=vquery.module();
         double mod_o=orig.module();
 
-        // for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
-        //     wr=wr.Substring(ntext[beg].Length);
-        //     wr+=ntext[pos];
-        //     beg++;
-        //     pos++;
-
-        //     int idpos=model.wordindex[ntext[beg-1]];
-        //     int idbeg=model.wordindex[ntext[beg-1]];
+        for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
+            wr=wr.Substring(ntext[beg].Length);
+            wr+=ntext[pos];
+            beg++;
+            pos++;
 
 
-
-
-        //     // double wra=vquery.angle(newv);
-        //     // if(best.angle_with<wra){
-        //     //     best=newv;
-        //     //     best.angle_with=wra;
-        //     // }
-        // }
+        }
         best.path=v.path;
         best.angle_with=v.angle_with;
         return best;
@@ -134,7 +124,7 @@ public class search_engine{
     private double op_near(vector v,string q){
         string s=v.full_text;
         
-        List<string>tnorm=string_utils.normalize_text(s);
+        List<string>tnorm=string_utils.dif_normalize_text(s);
         List<string>qnorm=string_utils.normalize_text_with_quotation(q);
 
         double ret=1.0;
@@ -151,21 +141,28 @@ public class search_engine{
                     if(string_utils.is_letter(qnorm[j][0]) ){s2=qnorm[j];break;}
                 }
                 if(s1==s2)continue;
-                int lst1=(int)-1e9;
-                int lst2=(int)-1e9;
+                int lst1=(int)-1e5;
+                int lst2=(int)-1e5;
                 for(int j=0;j<tnorm.Count;j++){
-                    if(tnorm[i]==s1){
+                    if(tnorm[j]==s1){
                         lst1=j;
-                        min=Math.Min(min,j-lst2);
+                        
+                Console.WriteLine(j);
+                        min=Math.Min(min,Math.Abs(j-lst2) );
                     }
-                    if(tnorm[i]==s2){
+                    if(tnorm[j]==s2){
                         lst2=j;
-                        min=Math.Min(min,j-lst1);
+                Console.WriteLine(j);
+                        min=Math.Min(min,Math.Abs(j-lst1) );
                     }
                 }
-                ret*=1.5/Math.Log(min);
+                Console.WriteLine(s1);
+                Console.WriteLine(s2);
+                Console.WriteLine(min);
+                ret*=1.5/(Math.Log(min)+1);
             }
         }
+        Console.WriteLine(ret);
         return ret;
     }
 
@@ -195,10 +192,6 @@ public class search_engine{
             for(int i=0;i<result.Count;i++){
                 result[i]=snippet(result[i],s);
                 Console.WriteLine(result[i].path);
-                Console.WriteLine($"vaca {result[i].frecuency("vaca")}   {result[i].vec[model.wordindex["vaca"]] }");
-                Console.WriteLine($"animal {result[i].frecuency("animal")}   {result[i].vec[model.wordindex["animal"]] }");
-                Console.WriteLine($"bovino {result[i].frecuency("bovino")}   {result[i].vec[model.wordindex["bovino"]] }");
-                // Console.WriteLine(result[i].angle_with);
             }
 
 

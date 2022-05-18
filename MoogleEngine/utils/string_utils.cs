@@ -77,9 +77,28 @@ public static class string_utils{
             }
             if(stri.Length>0) lst.Add(stri);
         }
-
         return lst;
     }   
+
+    public static List<string> dif_normalize_text(string text){        
+        // Converts a string to a list of lowercase strings
+        char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n' };
+        string[] ret=text.Split(delimiters);
+        List<string> lst=new List<string>();
+            
+        for(int i=0;i<ret.Length;i++){
+            string s=ret[i];
+            s=s.ToLower();
+            string stri="";
+            for(int j=0;j<s.Length;j++){
+                if(is_letter(s[j])) stri+=s[j];
+            }
+            if(stri.Length>0) lst.Add(stri);
+        }
+        return lst;
+    }   
+
+
     public static List<string> normalize_text_with_quotation(string text){        
         // Converts a string to a list of lowercase strings with quotation marks
        
