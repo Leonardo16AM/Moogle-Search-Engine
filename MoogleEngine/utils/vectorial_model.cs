@@ -24,14 +24,13 @@ public class model{
             else
                 df=words.Count;
             ret.vec.Add(0);
-            ret.vec[i]=f*Math.Log(words.Count/df );
+            ret.vec[i]=f*Math.Log(words.Count/df);
         }
         return ret;
     }
 
     public vector create_vector(List<string> s){
         vector ret=new vector();
-
         for(int i=0;i<s.Count;i++){
             if( !ret.wordcount.ContainsKey(s[i]) ){
                 ret.words.Add(s[i]);
@@ -91,7 +90,6 @@ public class model{
 
             original_texts.Add(text);
             texts.Add(string_utils.normalize_text(text));
-
             vectrs.Add(new vector());
         }
         
@@ -104,7 +102,7 @@ public class model{
             
         string [] wrds=new string[word_set.Count];
         word_set.CopyTo(wrds);
-        words=string_utils.to_list(wrds);
+        words=string_utils.remove_duplicates(string_utils.to_list(wrds));
         for(int i=0;i<words.Count;i++){
             wordindex[words[i]]=i;
             wordcount.Add(0);

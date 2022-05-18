@@ -53,6 +53,10 @@ public static class string_utils{
     }
 
 
+
+
+
+
     public static List<string> normalize_text(string text){        
         // Converts a string to a list of lowercase strings
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n' };
@@ -98,7 +102,7 @@ public static class string_utils{
         for(int i=0;i<ntext.Length;i++){
             string s=ntext[i];
             s=s.ToLower();
-            lst.Add(s);
+           if(s!="") lst.Add(s);
         }
 
         return lst;
@@ -127,12 +131,19 @@ public static class string_utils{
         Dictionary<string,int> dict= new Dictionary<string,int>();
         for(int i=0;i<list.Count;i++){
             if(!dict.ContainsKey(list[i])){
-                dict[ list[i] ]++;
+                dict.Add(list[i],0);
                 ret.Add(list[i]);
             }
         }
         return ret;
     }   
+
+    public static List<string> set_normalize_text(string text){        
+        List<string>ret=normalize_text(text);
+        ret=remove_duplicates(ret);
+        return ret;
+    }  
+
     public static List<string> join_lists(List<string> a,List<string> b){        
         for(int i=0;i<b.Count;i++){
             a.Add(b[i]);
@@ -151,7 +162,7 @@ public static class string_utils{
     }   
     public static void print_list(List<string>lis){        
         for(int i=0;i<lis.Count;i++){
-                Console.Write(lis[i]+" ");
+                Console.Write("\""+lis[i]+"\" ");
         }
         Console.WriteLine();
     }   

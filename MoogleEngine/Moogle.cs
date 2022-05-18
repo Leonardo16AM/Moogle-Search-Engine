@@ -12,7 +12,7 @@ public static class Moogle{
 
         int number_of_results=5;
         string real_query=engine.model.recomendation(query);
-        List<vector> result = engine.query(query,number_of_results);
+        List<vector> result = engine.query(real_query,number_of_results);
 
         Console.WriteLine($"Elapsed Time Miliseconds: { watch.ElapsedMilliseconds } ");
 
