@@ -16,6 +16,7 @@ public class model{
 
     public vector TFIDF(vector vc){
         vector ret =vc;
+
         for(int i=0;i<words.Count;i++){
             int f=ret.frecuency(words[i]);
             int df=0;
@@ -24,7 +25,8 @@ public class model{
             else
                 df=words.Count;
             ret.vec.Add(0);
-            ret.vec[i]=f*Math.Log(words.Count/df);
+            df=Math.Max(df,0);
+            ret.vec[i]=(f/((double)vc.words.Count))*Math.Log(words.Count/df);
         }
         return ret;
     }
@@ -126,8 +128,56 @@ public class model{
         }
 
         kdt.build(ref kdt.root,vectrs,0);
+    }
+
+
+
+
+
+    public void build_from_lstr(List<string> lstr,string s){
+
+        List<string> nq=string_utils.normalize_text(s);
+        nq=string_utils.remove_duplicates(nq);
+
+        Console.WriteLine("--->"+lstr.Count);
+        
+        for(int i=0;i<lstr.Count;i++){
+            string text=lstr[i];  
+            original_texts.Add(text);
+            texts.Add(string_utils.normalize_text(text));
+            vectrs.Add(new vector());
+        }
+        
+        words=nq;
+        for(int i=0;i<words.Count;i++){
+            wordindex.Add(words[i],i);
+            wordcount.Add(0);
+        }
+
+        for(int i=0;i<texts.Count;i++){
+            for(int j=0;j<wordindex.Count;j++){
+                if(vectrs[i].wordcount.ContainsKey(texts[i][j])){
+                    vectrs[i].wordcount[ texts[i][j] ]++;
+                }else{
+                    vectrs[i].wordcount.Add(texts[i][j],1);
+                }   
+            }
+        }
+        // for(int i=0;i<texts.Count;i++){
+        //     List<string>ntxt= new List<string>();
+
+        //     for(int j=0;j<texts[j].Count;j++){
+        //         if(wordindex.ContainsKey(texts[i][j]) ) ntxt.Add(texts[i][j]);
+        //     }
+
+        //     vectrs[i]=create_vector(ntxt);  
+        //     vectrs[i].full_text=lstr[i];
+        // }
+
+        // kdt.build(ref kdt.root,vectrs,0);
         // kdt.print(kdt.root);
     }
+
 
     public List<string>prepare_string(string s){
         List<string>norm_vector=string_utils.normalize_text(s);
@@ -153,7 +203,7 @@ public class model{
     }
 
 
-    public List<vector> naive_search(string s){
+    public List<vector> naive_search(string s,int cnt=3){
         List<string>norm_vector=prepare_string(s);
         vector v=create_vector(norm_vector);
 
@@ -164,14 +214,15 @@ public class model{
             }
         }
 
+        
         for(int i=0;i<vectrs.Count;i++){
             vectrs[i].angle_with=vectrs[i].angle(v);;
         }
-
+        
         vectrs.Sort(delegate(vector a,vector b){if(a.angle_with<b.angle_with)return -1;else return 1;});
         
         var ret=new List<vector>();
-        for(int i=0;i<3;i++){
+        for(int i=0;i<cnt;i++){
             ret.Add(vectrs[i]);
         }
 

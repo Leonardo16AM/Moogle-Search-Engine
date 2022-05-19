@@ -11,7 +11,7 @@ public class search_engine{
 
 
     private vector snippet(vector v,string s, int snippet_length=512){
-        
+        Console.WriteLine(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;");
 
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
         string[] ntext=v.full_text.Split(delimiters);
@@ -23,27 +23,28 @@ public class search_engine{
             wr+=ntext[pos]+" ";pos++;
         }
 
-        vector best=model.create_vector_str(wr);
-        vector orig=model.create_vector_str(wr);
-        vector vquery=model.create_vector_str(s);
-        
+        model text_model=new model();
+        List<string>lstr=new List<string>();
 
-        double best_ang=best.angle(vquery);
-        double dot=best.dot_product(vquery);
-        double mod_q=vquery.module();
-        double mod_o=orig.module();
+
+        v.full_text=wr;
+        
 
         for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
             wr=wr.Substring(ntext[beg].Length);
-            wr+=ntext[pos];
+            wr+=" "+ntext[pos];
             beg++;
             pos++;
-
-
+            lstr.Add(wr);
         }
-        best.path=v.path;
-        best.angle_with=v.angle_with;
-        return best;
+
+
+        // text_model.build_from_lstr(lstr,s);
+        // List<vector>ans=text_model.naive_search(s,1);
+        // vector ret=ans[0];
+        // ret.path=v.path;
+        // ret.angle_with=v.angle_with;
+        return v;
     }
 
 
@@ -124,7 +125,7 @@ public class search_engine{
     private double op_near(vector v,string q){
         string s=v.full_text;
         
-        List<string>tnorm=string_utils.dif_normalize_text(s);
+        List<string>tnorm=string_utils.normalize_text(s);
         List<string>qnorm=string_utils.normalize_text_with_quotation(q);
 
         double ret=1.0;
