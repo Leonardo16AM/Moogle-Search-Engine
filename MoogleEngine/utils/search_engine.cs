@@ -8,43 +8,47 @@ public class search_engine{
         model.build_from_txts();
     } 
 
-
-
-    private vector snippet(vector v,string s, int snippet_length=512){
-        Console.WriteLine(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;");
+    private vector snippet(vector v,string s, int snippet_length=200){
 
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
         string[] ntext=v.full_text.Split(delimiters);
 
+        // Dictionary<string,int>dict=new Dictionary<string,int>();
+        // List<string>ls=string_utils.normalize_text(s);
+        // for(int i=0;i<ls.Count;i++){
+        //     dict.Add(ls[i],0);
+        // }
+        // int cnt=0;
+
         string wr="";
         int beg=0;
         int pos=0;
-        while( pos<255 && pos<v.full_text.Length){
-            wr+=ntext[pos]+" ";pos++;
+        while( pos<snippet_length && pos<v.full_text.Length){
+            wr+=ntext[pos]+" ";
+            pos++;
         }
 
         model text_model=new model();
         List<string>lstr=new List<string>();
 
 
-        v.full_text=wr;
-        
 
         for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
-            wr=wr.Substring(ntext[beg].Length);
+            wr=wr.Substring(ntext[beg].Length+1);
             wr+=" "+ntext[pos];
             beg++;
             pos++;
             lstr.Add(wr);
         }
 
+        text_model.build_from_lstr(lstr,s);
 
-        // text_model.build_from_lstr(lstr,s);
-        // List<vector>ans=text_model.naive_search(s,1);
-        // vector ret=ans[0];
-        // ret.path=v.path;
-        // ret.angle_with=v.angle_with;
-        return v;
+        List<vector>ans=text_model.naive_search(s,1);
+        vector ret=ans[0];
+
+        ret.path=v.path;
+        ret.angle_with=v.angle_with;
+        return ret;
     }
 
 
@@ -146,24 +150,17 @@ public class search_engine{
                 int lst2=(int)-1e5;
                 for(int j=0;j<tnorm.Count;j++){
                     if(tnorm[j]==s1){
-                        lst1=j;
-                        
-                Console.WriteLine(j);
+                        lst1=j;        
                         min=Math.Min(min,Math.Abs(j-lst2) );
                     }
                     if(tnorm[j]==s2){
                         lst2=j;
-                Console.WriteLine(j);
                         min=Math.Min(min,Math.Abs(j-lst1) );
                     }
                 }
-                Console.WriteLine(s1);
-                Console.WriteLine(s2);
-                Console.WriteLine(min);
                 ret*=1.5/(Math.Log(min)+1);
             }
         }
-        Console.WriteLine(ret);
         return ret;
     }
 
