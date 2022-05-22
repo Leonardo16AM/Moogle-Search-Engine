@@ -29,7 +29,12 @@ public class model{
             if(df==0)
                 ret.vec[i]=0;
             else
-                ret.vec[i]=((double)f/((double)vc.words.Count))*Math.Log((double)texts.Count/df);
+                if(texts.Count!=1)
+                    ret.vec[i]=((double)f/((double)vc.words.Count))*Math.Log((double)texts.Count/df);
+                else
+                    ret.vec[i]=((double)f/((double)vc.words.Count));
+
+
         }
         return ret;
     }
@@ -130,24 +135,23 @@ public class model{
             vectrs[i].full_text=text;
         }
 
-        kdt.build(ref kdt.root,vectrs,0);
+        // kdt.build(ref kdt.root,vectrs,0);
     }
 
 
 
 
 
-    public void build_from_lstr(List<string> lstr,string s){
+    public void build_from_lstr(string s){
 
         List<string> nq=string_utils.normalize_text(s);
         words=string_utils.remove_duplicates(nq);
         
-        for(int i=0;i<lstr.Count;i++){
-            string text=lstr[i];  
-            original_texts.Add(text);
-            texts.Add(string_utils.normalize_text(text));
-            vectrs.Add(new vector());
-        }
+        string text=s;  
+        original_texts.Add(text);
+        texts.Add(string_utils.normalize_text(text));
+        vectrs.Add(new vector());
+        
         
         for(int i=0;i<words.Count;i++){
             wordindex.Add(words[i],i);
@@ -173,7 +177,7 @@ public class model{
                 if(wordindex.ContainsKey(texts[i][j]) ) ntxt.Add(texts[i][j]);
             }
             vectrs[i]=create_vector(ntxt);  
-            vectrs[i].full_text=lstr[i];
+            vectrs[i].full_text=s;
         }
 
         // kdt.build(ref kdt.root,vectrs,0);
@@ -183,17 +187,24 @@ public class model{
     public List<string>prepare_string(string s){
         List<string>norm_vector=string_utils.normalize_text(s);
     
+
+        List<string>real_list=new List<string>();
+
         for(int i=0;i<norm_vector.Count;i++){
             double min_dist=100;
             string real=norm_vector[i];
             for(int j=0;j<words.Count;j++){
-                if(string_utils.distance(norm_vector[i],words[j])<min_dist){
+                double dist=string_utils.distance(norm_vector[i],words[j]);
+                if(dist<min_dist){
                     real=words[j];
-                    min_dist=string_utils.distance(norm_vector[i],words[j]);
+                    min_dist=dist;
                 }
             }
-            norm_vector[i]=real;
+            if(min_dist< (norm_vector[i].Length/3.0) ){
+                real_list.Add(real);
+            }
         }
+        norm_vector=real_list;
 
         List<string>famil=new List<string>();
         for(int i=0;i<norm_vector.Count;i++){
@@ -208,25 +219,17 @@ public class model{
         List<string>norm_vector=prepare_string(s);
         vector v=create_vector(norm_vector);
 
-        string_utils.print_list(norm_vector);
-        for(int i=0;i<v.vec.Count;i++){
-            if(v.vec[i]>0.0000001){
-                Console.WriteLine($"{words[i]} :: {v.vec[i]}");
-            }
-        }
-
-        
         for(int i=0;i<vectrs.Count;i++){
             vectrs[i].angle_with=vectrs[i].angle(v);
         }
         
-        vectrs.Sort(delegate(vector a,vector b){if( (double.IsNaN(b.angle_with) && !double.IsNaN(a.angle_with) )|| a.angle_with<b.angle_with)return -1;else return 1;});
+        vectrs.Sort(delegate(vector a,vector b){if(a.angle_with<b.angle_with)return -1;else return 1;});
         
         var ret=new List<vector>();
-        for(int i=0;i<cnt;i++){
+
+        for(int i=0;i<Math.Min(vectrs.Count,cnt);i++){
             ret.Add(vectrs[i]);
         }
-
         return ret;
     }
 

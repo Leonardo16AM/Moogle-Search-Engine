@@ -49,7 +49,9 @@ public static class string_utils{
     public static bool is_letter(char mander){  
         return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z')||
         mander=='á'||mander=='é'||mander=='í'||mander=='ó'||mander=='ú'||mander=='ñ'||
-        mander=='Á'||mander=='Á'||mander=='Í'||mander=='Ó'||mander=='Ú'||mander=='Ñ';
+        mander=='Á'||mander=='Á'||mander=='Í'||mander=='Ó'||mander=='Ú'||mander=='Ñ'||
+        mander=='0'||mander=='1'||mander=='2'||mander=='3'||mander=='4'||mander=='5'||
+        mander=='6'||mander=='7'||mander=='8'||mander=='9';
     }
 
 

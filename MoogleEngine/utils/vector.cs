@@ -32,7 +32,9 @@ public class vector{
     }
 
     public double angle(vector B){
-        return Math.Acos( dot_product(B)/(module()*B.module()) );
+        double mod=(module()*B.module());
+        if(mod<1e-9)return 100.0;
+        return Math.Acos( dot_product(B)/mod );
     }
     public void normalize(){
         double mod=module();

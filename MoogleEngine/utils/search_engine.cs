@@ -7,18 +7,32 @@ public class search_engine{
     public search_engine(){
         model.build_from_txts();
     } 
-
-    private vector snippet(vector v,string s, int snippet_length=200){
-
+    private vector quick_snippet(vector v,string s, int snippet_length=200){
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
         string[] ntext=v.full_text.Split(delimiters);
 
-        // Dictionary<string,int>dict=new Dictionary<string,int>();
-        // List<string>ls=string_utils.normalize_text(s);
-        // for(int i=0;i<ls.Count;i++){
-        //     dict.Add(ls[i],0);
-        // }
-        // int cnt=0;
+        string wr="";
+        int pos=0;
+        while( pos<snippet_length && pos<v.full_text.Length){
+            wr+=ntext[pos]+" ";
+            pos++;
+        }
+
+        model text_model=new model();
+        text_model.build_from_lstr(s);
+
+        vector best=text_model.naive_search(wr)[0];
+        best.full_text=wr;
+        
+        best.path=v.path;
+        best.angle_with=v.angle_with;
+        best.full_text=wr;
+        return best;
+    }
+
+    private vector snippet(vector v,string s, int snippet_length=200){
+        char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
+        string[] ntext=v.full_text.Split(delimiters);
 
         string wr="";
         int beg=0;
@@ -29,26 +43,32 @@ public class search_engine{
         }
 
         model text_model=new model();
-        List<string>lstr=new List<string>();
+        text_model.build_from_lstr(s);
 
-
-
+        vector best=text_model.naive_search(wr)[0];
+        best.full_text=wr;
+        
+        string ans=wr;
+        double best_ang=best.angle_with;
+        if(double.IsNaN(best_ang))best_ang=100;
+        
         for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
             wr=wr.Substring(ntext[beg].Length+1);
             wr+=" "+ntext[pos];
             beg++;
             pos++;
-            lstr.Add(wr);
+
+            vector newv=text_model.naive_search(wr,1)[0];
+            if(newv.angle_with<best_ang && !double.IsNaN(newv.angle_with)){
+                best_ang=newv.angle_with;
+                ans=wr;
+            }
         }
-
-        text_model.build_from_lstr(lstr,s);
-
-        List<vector>ans=text_model.naive_search(s,1);
-        vector ret=ans[0];
-
-        ret.path=v.path;
-        ret.angle_with=v.angle_with;
-        return ret;
+        
+        best.path=v.path;
+        best.angle_with=v.angle_with;
+        best.full_text=ans;
+        return best;
     }
 
 
@@ -186,12 +206,11 @@ public class search_engine{
     public List<vector>  query(string s,int cant=5,bool fast=false){
         
         if(fast==false){
-            List<vector> result= model.naive_search(s);
+            List<vector> result= model.naive_search(s,cant);
             for(int i=0;i<result.Count;i++){
-                result[i]=snippet(result[i],s);
+                result[i]=quick_snippet(result[i],s);
                 Console.WriteLine(result[i].path);
             }
-
 
             result=operators(result,s);
             return result;
