@@ -52,21 +52,22 @@ public class search_engine{
         double best_ang=best.angle_with;
         if(double.IsNaN(best_ang))best_ang=100;
         
+
+        int last=0;
         for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
             wr=wr.Substring(ntext[beg].Length+1);
             wr+=" "+ntext[pos];
             beg++;
             pos++;
 
-            vector newv=text_model.naive_search(wr,1)[0];
 
-            // if(newv.angle_with<0.00001){
-            //     Console.WriteLine(wr);
-            // }
-
-            if(  string_utils.is_mayus(wr[1]) && newv.angle_with<best_ang && !double.IsNaN(newv.angle_with)){
-                best_ang=newv.angle_with;
-                ans=wr;
+            if(  pos-last>190 && string_utils.is_mayus(wr[1]) ){
+                vector newv=text_model.naive_search(wr,1)[0];
+                if( newv.angle_with<best_ang && !double.IsNaN(newv.angle_with) ){
+                    best_ang=newv.angle_with;
+                    ans=wr;
+                    last=pos;
+                }
             }
         }
         

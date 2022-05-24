@@ -16,7 +16,7 @@
 
 <ul class="results">
 @foreach (var item in result.Items()) {
-    <li>
+    <li class="listt">
         <div class="item">
             <p class="ftitle">@item.Title</p>
             <p>... @item.Snippet ...</p>
@@ -25,6 +25,11 @@
     </li>
 }
 </ul>
+
+
+<footer>
+    <p class="footerr"> Leonardo Artiles Montero 2022 [ github.com/Leonardo16AM ]</p>
+</footer>
 
 @code {
     private string query = "";
