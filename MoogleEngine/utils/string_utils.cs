@@ -53,7 +53,9 @@ public static class string_utils{
         mander=='0'||mander=='1'||mander=='2'||mander=='3'||mander=='4'||mander=='5'||
         mander=='6'||mander=='7'||mander=='8'||mander=='9';
     }
-
+    public static bool is_mayus(char mander){  
+        return (mander>='A' && mander<='Z');
+    } 
 
 
     public static List<string> normalize_text(string text){        

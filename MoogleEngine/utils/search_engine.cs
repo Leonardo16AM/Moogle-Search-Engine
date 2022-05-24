@@ -59,7 +59,12 @@ public class search_engine{
             pos++;
 
             vector newv=text_model.naive_search(wr,1)[0];
-            if(newv.angle_with<best_ang && !double.IsNaN(newv.angle_with)){
+
+            // if(newv.angle_with<0.00001){
+            //     Console.WriteLine(wr);
+            // }
+
+            if(  string_utils.is_mayus(wr[1]) && newv.angle_with<best_ang && !double.IsNaN(newv.angle_with)){
                 best_ang=newv.angle_with;
                 ans=wr;
             }
@@ -208,10 +213,9 @@ public class search_engine{
         if(fast==false){
             List<vector> result= model.naive_search(s,cant);
             for(int i=0;i<result.Count;i++){
-                result[i]=quick_snippet(result[i],s);
+                result[i]=snippet(result[i],s);
                 Console.WriteLine(result[i].path);
             }
-
             result=operators(result,s);
             return result;
         }else{    

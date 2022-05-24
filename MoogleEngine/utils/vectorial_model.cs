@@ -134,8 +134,6 @@ public class model{
             vectrs[i].path=files[i];
             vectrs[i].full_text=text;
         }
-
-        // kdt.build(ref kdt.root,vectrs,0);
     }
 
 
@@ -179,8 +177,6 @@ public class model{
             vectrs[i]=create_vector(ntxt);  
             vectrs[i].full_text=s;
         }
-
-        // kdt.build(ref kdt.root,vectrs,0);
     }
 
 
@@ -200,7 +196,7 @@ public class model{
                     min_dist=dist;
                 }
             }
-            if(min_dist< (norm_vector[i].Length/3.0) ){
+            if(min_dist<= 1/norm_vector[i].Length ){
                 real_list.Add(real);
             }
         }
