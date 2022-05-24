@@ -90,7 +90,9 @@ public class search_engine{
                 del=true;
             }else{
                 if(del){
+                    Console.WriteLine("-> "+qnorm[i]);
                     if(v.wordcount.ContainsKey(qnorm[i])){
+                        Console.WriteLine("F-> "+qnorm[i]+ "    "+v.path );
                         return 0.0;
                     }
                     del=false;
@@ -213,11 +215,21 @@ public class search_engine{
         
         if(fast==false){
             List<vector> result= model.naive_search(s,cant);
+            result=operators(result,s);
+
             for(int i=0;i<result.Count;i++){
                 result[i]=snippet(result[i],s);
-                Console.WriteLine(result[i].path);
             }
-            result=operators(result,s);
+            
+            List<vector>nres=new List<vector>();
+            for(int i=0;i<result.Count;i++){
+                if(result[i].angle_with>0.00000001){
+                    nres.Add(result[i]);
+                }
+            }
+            result=nres;
+
+
             return result;
         }else{    
             List<vector> result= model.naive_search(s);    

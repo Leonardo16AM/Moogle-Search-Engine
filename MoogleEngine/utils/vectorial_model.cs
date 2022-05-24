@@ -134,6 +134,7 @@ public class model{
             vectrs[i].path=files[i];
             vectrs[i].full_text=text;
         }
+        kdt.build(ref kdt.root,vectrs,0);
     }
 
 
@@ -190,14 +191,20 @@ public class model{
             double min_dist=100;
             string real=norm_vector[i];
             for(int j=0;j<words.Count;j++){
-                double dist=string_utils.distance(norm_vector[i],words[j]);
+                double dist=string_utils.edit_distance(norm_vector[i],words[j]);
                 if(dist<min_dist){
                     real=words[j];
                     min_dist=dist;
                 }
             }
-            if(min_dist<= 1/norm_vector[i].Length ){
-                real_list.Add(real);
+            if(norm_vector[i].Length<4){
+                if(min_dist<0.0000001 ){
+                    real_list.Add(real);
+                }
+            }else{
+                if(min_dist<= 1/norm_vector[i].Length ){
+                    real_list.Add(real);
+                }
             }
         }
         norm_vector=real_list;
