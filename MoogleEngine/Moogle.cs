@@ -3,22 +3,23 @@
 
 
 public static class Moogle{
-    public static SearchResult Query(string query) {
+    public static SearchResult Query(string query,ref search_engine engine) {
+
         Console.WriteLine("===================Making a new search=======================");
-        model model= new model();
-        model.build_from_txts();
-        // model.print();
+     
 
-        List<vector> result= model.naive_search(query);
+        var watch=System.Diagnostics.Stopwatch.StartNew();
 
+        int number_of_results=5;
+        string real_query=engine.model.recomendation(query);
+        List<vector> result = engine.query(real_query,number_of_results);
 
-        string real_query=model.recomendation(query);
-        SearchItem[] items = new SearchItem[3] {
-            new SearchItem(result[0].path.Substring(11), result[0].full_text, 0.9f),
-            new SearchItem(result[1].path.Substring(11), result[1].full_text, 0.5f),
-            new SearchItem(result[2].path.Substring(11), result[2].full_text, 0.1f),
-        };
+        Console.WriteLine($"Elapsed Time Miliseconds: { watch.ElapsedMilliseconds } ");
 
+        SearchItem[] items = new SearchItem[result.Count];
+        for(int i=0;i<result.Count;i++){
+            items[i]=new SearchItem(result[i].path.Substring(11), result[i].full_text, (float)result[i].angle_with );
+        }
         return new SearchResult(items, real_query);
     }
 }

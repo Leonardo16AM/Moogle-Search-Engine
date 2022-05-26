@@ -1,0 +1,257 @@
+Ciencia
+
+La ciencia (del latín scientĭa, ‘conocimiento’) es un sistema ordenado de conocimientos estructurados que estudia, investiga e interpreta los fenómenos naturales, sociales y artificiales. El conocimiento científico se obtiene mediante observación y experimentación en ámbitos específicos. Dicho conocimiento es organizado y clasificado sobre la base de principios explicativos, ya sean de forma teórica o práctica. A partir de estos se generan preguntas y razonamientos, se formulan hipótesis, se deducen principios y leyes científicas, y se construyen modelos científicos, teorías científicas y sistemas de conocimientos por medio de un método científico.
+Alegoría de la Ciencia. Óleo sobre tela de Sebastiano Conca.
+
+La ciencia considera y tiene como fundamento la observación experimental. Este tipo de observación se organiza por medio de métodos, modelos y teorías con el fin de generar nuevo conocimiento. Para ello se establecen previamente unos criterios de verdad y un método de investigación. La aplicación de esos métodos y conocimientos conduce a la generación de nuevos conocimientos en forma de predicciones concretas, cuantitativas y comprobables referidas a observaciones pasadas, presentes y futuras. Con frecuencia esas predicciones se pueden formular mediante razonamientos y estructurar como reglas o leyes generales, que dan cuenta del comportamiento de un sistema y predicen cómo actuará dicho sistema en determinadas circunstancias.
+
+Desde la revolución científica, el conocimiento científico ha aumentado tanto que los científicos se han vuelto especialistas y sus publicaciones se han vuelto muy difíciles de leer para los no especialistas. Esto ha dado lugar a diversos esfuerzos de divulgación científica, tanto para acercar la ciencia al gran público, como para facilitar la compresión y colaboración entre científicos de distintos campos.
+Método científico
+Modelo simplificado para el método científico que se sigue en el MC-14 o método científico en 14 etapas
+El método científico es una metodología para obtener nuevos conocimientos, que ha caracterizado históricamente a la ciencia, y que consiste en la observación sistemática, medición, experimentación, y la formulación, análisis y modificación de hipótesis. Otras características del método científico son la deducción, la inducción, la abducción, la predicción, la falsabilidad, la reproducibilidad y repetibilidad de los resultados, y la revisión por pares.
+
+Las reglas y principios del método científico buscan minimizar la influencia de la subjetividad del científico en su trabajo, lo cual refuerza la validez de los resultados, y por ende, del conocimiento obtenido.
+
+El método científico abarca las prácticas aceptadas por la comunidad científica como válidas a la hora de exponer y confirmar sus teorías, como por ejemplo los postulados de Koch para la microbiología.
+
+No todos los requisitos aplican a todas las ciencias. La experimentación por ejemplo no es posible en ciencias como la vulcanología, la astronomía o la física teórica. El requisito de reproducibilidad y repetibilidad, fundamental en muchas ciencias, no aplica a otras, como las ciencias humanas y sociales, donde los fenómenos no solo no se pueden repetir controlada y artificialmente (que es en lo que consiste un experimento), sino que son, por su esencia, irrepetibles, por ejemplo, la historia.
+
+Según James Bryant Conant, no existe un único método científico. El científico usa métodos definitorios, métodos clasificatorios, métodos estadísticos, métodos hipotético-deductivos, procedimientos de medición, entre otros. Y según esto, referirse a el método científico, es referirse a este conjunto de tácticas empleadas para constituir el conocimiento, sujetas al devenir histórico, y que eventualmente podrían ser otras en el futuro. Por ello se deben sistematizar las distintas ramas dentro del campo del método científico. Cada ciencia, y aun cada investigación concreta, genera su propio método de investigación.
+En las ciencias empíricas no es posible la verificación; no existe el «conocimiento perfecto», es decir, «probado». En las ciencias formales las deducciones o demostraciones matemáticas generan pruebas únicamente dentro del marco del sistema definido por ciertos axiomas y ciertas reglas de inferencia. Según el teorema de Gödel, no existe un sistema aritmético recursivo perfecto, que sea al mismo tiempo consistente, decidible y completo.
+Ramas de la ciencia
+Sistema del árbol del conocimiento de Gregg Henriques.
+
+Las ramas de la ciencia, disciplinas científicas, o simplemente ciencias, se suelen dividir en tres grupos: ciencias formales, ciencias naturales, y ciencias humanas o ciencias sociales. Estas conforman las ciencias básicas, sobre las que se apoyan las ciencias aplicadas como la ingeniería y la medicina.
+A lo largo de los siglos, se han propuesto y utilizado varias clasificaciones distintas de las ciencias. Algunas incluyen un componente de jerarquía entre las ciencias que da lugar a una estructura de árbol, de ahí la noción de ramas de la ciencia. Hasta el Renacimiento, todo el saber que no fuera técnico o artístico se situaba en el ámbito de la filosofía. El conocimiento de la naturaleza era sobre la totalidad: una ciencia universal. Con la revolución científica se impuso la separación entre ciencia y filosofía, y surgieron las principales ciencias modernas, entre ellas la física, química, astronomía, geología y biología.
+Unidad de la ciencia
+Unidad del edificio científico según Linneo y Diderot
+
+En filosofía de la ciencia, la unidad de la ciencia es la idea de que todas las ciencias forman una integralidad o un todo unificado, que no puede ser separado o desmembrado a riesgo de perder la visión de conjunto.
+
+A pesar de esta afirmación, por ejemplo, es claro que física y política son dos disciplinas bien distintas y diferenciadas, y casi podríamos decir de una cualidad diferente, aunque la tesis de la unidad o unicidad de la ciencia afirmaría que, en principio, ambas deberían formar parte de un universo intelectual unificado de difícil o inconducente desmembramiento.
+
+La tesis de la unidad de la ciencia está usualmente asociada con una visión de diferentes niveles de organización en la naturaleza, donde la física es la más básica o fundamental, y donde la química es la que le sigue en jerarquía, y sobre esta última sigue la biología, y sobre la biología sigue la sociología. Según esta concepción, y partiendo desde la física, se reconocería así que las células, los organismos, y las culturas, tienen todos una base o un origen biológico, pero representando tres diferentes niveles jerárquicos de la organización biológica.
+
+A pesar de lo expresado, también se ha sugerido (por ejemplo por Jean Piaget, 1950), que la unicidad de la ciencia podría ser considerada en términos de un círculo de ciencias o de disciplinas, donde la física provee la base para la química, y donde a su vez la química es la base para la biología, y la biología la base para la psicología, y esta la base para la lógica y la matemática, y a su vez la lógica y la matemática serviría de base y de comprensión para la física.
+
+La tesis de la unidad de la ciencia simplemente expresa que hay leyes científicas comunes aplicables a cualquier cosa y en cualquier nivel de organización. Pero en un determinado nivel de organización, los científicos llaman a esas leyes con nombres particulares, y visualizan la aplicación y expresión de esas leyes en ese nivel de una manera adaptada y simplificada, enfatizando por ejemplo la importancia de alguna de ellas sobre las otras. Es así como la termodinámica o las leyes de la energía, parecerían ser universales para cierto número de diferentes disciplinas, ya que por cierto, todos los sistemas en la naturaleza operan o parecen operar sobre la base de transacciones de energía. Claro, esto no excluye la posibilidad de algunas leyes particulares aplicables específicamente a dominios quizás caracterizados por una complejidad creciente, tal como lo sugerido por Gregg R. Henriques (2003, consultar 'Tree of Knowledge System'), quien precisamente propone cuatro grados de complejidad: Materia, Vida, Mente, y Cultura. Desde luego, este árbol igualmente podría ser circular, con la cultura enmarcando la comprensión y la percepción de la materia y de los sistemas por parte de la gente.
+
+La ciencia es una creación humana, y forma parte de cultura humana. La ciencia es un todo unificado, en el sentido que es profundamente entendida cuando se la considera de una manera integral y holística, y no hay científicos que estudien realidades alternativas. Sin embargo, bien podría argumentarse que los científicos no actúan con un enfoque integral, pues por facilidad de análisis o por las razones que fueren, se hacen hipótesis simplificatorias, se aísla, se trata separadamente. Es posiblemente la percepción de una realidad sola, lo único que desemboca en la unidad de la ciencia.
+
+Según la lógica proposicional, la ciencia parecería ser un camino hacia la simplificación, o en realidad hacia la universalización de teorías científicas discretas sobre la energía, y que los físicos llaman unificación. Esto ha conducido a la teoría de cuerdas y a sus concepciones derivadas, probablemente relacionadas con la noción que, en la base, sólo se encuentra la energía que no fue liberada en la Gran Explosión, y realmente nada más.
+La tesis de la unidad de la ciencia, resulta ser más clara y mejor argumentada, por la Teoría General de Sistemas de Ludwig von Bertalanffy, Paul Oppenheim, e Hilary Putnam. Y fue aún más fuertemente argumentada y clarificada por Jerry Fodor.
+Leyes científicas
+Ley de Debye
+
+Una ley científica es una proposición científica en la que se afirma una relación constante entre dos o más variables o factores, cada uno de los cuales representa una propiedad o medición de sistemas concretos. También se define como regla y norma constantes e invariables de las cosas, surgida de su causa primera o de sus cualidades y condiciones. Por lo general se expresa matemáticamente o en lenguaje formalizado. Las leyes muy generales pueden tener una prueba indirecta testeando proposiciones particulares derivadas de ellas y que sean verificables. Los fenómenos inaccesibles reciben una prueba indirecta de su comportamiento a través del efecto que puedan producir sobre otros hechos que sí sean observables o experimentables.
+
+En la arquitectura de la ciencia la formulación de una ley es un paso fundamental. Es la primera formulación científica como tal. En la ley se realiza el ideal de la descripción científica; se consolida el edificio entero del conocimiento científico: de la observación a la hipótesis teórica-formulación-observación-experimento (ley científica), teoría general, al sistema. El sistema de la ciencia es o tiende a ser, en su contenido más sólido, sistema de las leyes.
+
+Diferentes dimensiones que se contienen en el concepto de ley:
+
+    La aprehensión meramente descriptiva
+    Análisis lógico-matemático
+    Intención ontológica
+
+Desde un punto de vista descriptivo la ley se muestra simplemente como una relación fija, entre ciertos datos fenoménicos. En términos lógicos supone un tipo de proposición, como afirmación que vincula varios conceptos relativos a los fenómenos como verdad. En cuanto a la consideración ontológica la ley como proposición ha sido interpretada históricamente como representación de la esencia, propiedades o accidentes de una sustancia. Hoy día se entiende que esta situación ontológica se centra en la fijación de las constantes del acontecer natural, en la aprehensión de las regularidades percibidas como fenómeno e incorporadas en una forma de «ver y explicar el mundo».
+
+El problema epistemológico consiste en la consideración de la ley como verdad y su formulación como lenguaje y en establecer su «conexión con lo real», donde hay que considerar dos aspectos:
+
+    El término de lo real hacia el cual intencionalmente se dirige o refiere la ley, es decir, la constancia de los fenómenos en su acontecer como objeto de conocimiento. Generalmente, y de forma vulgar, se suele interpretar como «relación causa/efecto» o «descripción de un fenómeno». Se formula lógicamente como una proposición hipotética en la forma: Si se da a, b, c.. en las condiciones, h, i, j... se producirá s, y, z...
+
+    La forma y el procedimiento con que la ley se constituye, es decir, el problema de la inducción.
+
+Teorías científicas
+
+Una teoría científica es un conjunto de conceptos, incluyendo abstracciones de fenómenos observables y propiedades cuantificables, junto con reglas (leyes científicas) que expresan las relaciones entre las observaciones de dichos conceptos. Una teoría científica se construye para ajustarse a los datos empíricos disponibles sobre dichas observaciones, y se propone como un principio o conjunto de principios para explicar una clase de fenómenos.
+
+Los científicos elaboran distintas teorías partiendo de hipótesis que hayan sido corroboradas por el método científico, luego recolectan pruebas para poner a prueba dichas teorías. Como en la mayoría de las formas del conocimiento científico, las teorías son inductivas por naturaleza y su finalidad es meramente explicativa y predictiva.
+
+La fuerza de una teoría científica se relaciona con la cantidad de fenómenos que puede explicar, los cuales son medidos por la capacidad que tiene dicha teoría de hacer predicciones falsables respecto de dichos fenómenos que tiende a explicar. Las teorías son mejoradas constantemente dependiendo de la nueva prueba que se consiga, por eso las teorías mejoran con el tiempo. Los científicos utilizan las teorías como fundamentos para obtener conocimiento científico, pero también para motivos técnicos, tecnológicos o médicos.
+
+La teoría científica es la forma más rigurosa, confiable y completa de conocimiento posible. Esto es significativamente distinto al uso común y coloquial de la palabra «teoría», que se refiere a algo sin sustento o una suposición.
+
+La teoría científica representa el momento sistemático explicativo del saber propio de la ciencia natural; su culminación en sentido predictivo.
+
+Los años 50 del siglo XX supusieron un cambio de paradigma en la consideración de las «teorías científicas».
+
+Según Mario Bunge en aras de un inductivismo dominante, con anterioridad se observaba, clasificaba y especulaba. Ahora en cambio:
+
+    Se realza el valor de las teorías con la ayuda de la formulación lógico-matemática
+    Se agrega la construcción de sistemas hipotético-deductivos en el campo de las ciencias sociales
+    La matemática se utilizaba fundamentalmente al final para comprimir y analizar los datos de investigaciones empíricas, con demasiada frecuencia superficiales por falta de teorías, valiéndose casi exclusivamente de la estadística, cuyo aparato podía encubrir la pobreza conceptual
+
+En definitiva, concluye Bunge: «Empezamos a comprender que el fin de la investigación no es la acumulación de hechos sino su comprensión, y que ésta solo se obtiene arriesgando y desarrollando hipótesis precisas que tengan un contenido empírico más amplio que sus predecesoras.»
+
+Existen dos formas de considerar las teorías:
+
+    Las teorías fenomenológicas buscan «describir» fenómenos, estableciendo las leyes que establecen sus relaciones mutuas a ser posible cuantificadas. Procuran evitar cualquier contaminación «metafísica» o «esencial» tales como las causas, los átomos o la voluntad, pues el fundamento consiste en la observación y toma de datos con la ayuda «únicamente» de las variables observables exclusivamente de modo directo. Tal es el ideal del empirismo: Francis Bacon, Newton, neopositivismo. La teoría es considerada como una caja negra.
+    Las teorías representativas buscan la «esencia» o fundamento último que justifica el fenómeno y las leyes que lo describen. Tal es el ideal del racionalismo y la teoría de la justificación: Descartes, Leibniz. En relación con lo anterior Bunge propone considerarla como «caja negra traslúcida».
+
+Modelos científicos
+Ejemplo de un modelo científico. Un esquema de los procesos químicos y de transporte relacionados a la composición atmosféricas.
+
+En ciencias puras y, sobre todo, en ciencias aplicadas, un modelo científico es una representación abstracta, conceptual, gráfica o visual (ver, por ejemplo: mapa conceptual), física de fenómenos, sistemas o procesos a fin de analizar, describir, explicar, simular (en general, explorar, controlar y predecir) esos fenómenos o procesos. Un modelo permite determinar un resultado final a partir de unos datos de entrada. Se considera que la creación de un modelo es una parte esencial de toda actividad científica.
+
+Aun cuando hay pocos acuerdos generales acerca del uso de modelos, La ciencia moderna ofrece una colección creciente de métodos, técnicas y teorías acerca de los diversos tipos de modelos. Las teorías y/o propuestas sobre la construcción, empleo y validación de modelos se encuentran en disciplinas tales como la metodología, filosofía de la ciencia, teoría general de los sistemas y en el campo relativamente nuevo de visualización científica. En la práctica, diferentes ramas o disciplinas científicas tienen sus propias ideas y normas acerca de tipos específicos de modelos. Sin embargo, y en general, todos siguen los principios del modelado.
+
+Para hacer un modelo es necesario plantear una serie de hipótesis, de manera que lo que se quiere estudiar esté suficientemente plasmado en la representación, aunque también se busca, normalmente, que sea lo bastante sencillo como para poder ser manipulado y estudiado.
+
+Todo conocimiento de la realidad comienza con idealizaciones que consisten en abstraer y elaborar conceptos; es decir, construir un modelo acerca de la realidad. El proceso consiste en atribuir a lo percibido como real ciertas propiedades, que frecuentemente, no serán sensibles. Tal es el proceso de conceptualización y su traducción al lenguaje.
+
+Eso es posible porque se suprimen ciertos detalles destacando otros que nos permiten establecer una forma de ver la realidad, aun sabiendo que no es exactamente la propia realidad. El proceso natural sigue lo que tradicionalmente se ha considerado bajo el concepto de analogía. Pero en la ciencia el contenido conceptual solo se considera preciso como modelo científico de lo real, cuando dicho modelo es interpretado como caso particular de un modelo teórico y se pueda concretar dicha analogía mediante observaciones o comprobaciones precisas y posibles.
+
+El objeto modelo es cualquier representación esquemática de un objeto. Si el objeto representado es un objeto concreto entonces el modelo es una idealización del objeto, que puede ser pictórica (por ejemplo, un dibujo) o conceptual (una fórmula matemática); es decir, puede ser figurativa o simbólica. La informática ofrece herramientas para la elaboración de objetos-modelo a base del cálculo numérico.
+
+La representación de una cadena polimérica con un collar de cuentas de colores es un modelo análogo o físico; un sociograma despliega los datos de algunas de las relaciones que pueden existir entre un grupo de individuos. En ambos casos, para que el modelo sea modelo teórico debe estar enmarcado en una estructura teórica. El objeto modelo así considerado deviene, en determinadas circunstancias y condiciones, en modelo teórico.
+
+Un modelo teórico es un sistema hipotético-deductivo concerniente a un objeto modelo que es, a su vez, representación conceptual esquemática de una cosa o de una situación real o supuesta real. El modelo teórico siempre será menos complejo que la realidad que intenta representar, pero más rico que el objeto modelo, que es solo una lista de rasgos del objeto modelizado. Bunge esquematiza estas relaciones de la siguiente forma:
+Cosa o hecho 	Objeto-modelo 	Modelo teórico
+Deuterón 	Pozo de potencial del protón neutrón 	Mecánica cuántica del pozo de potencia
+Soluto en una solución diluida 	Gas perfecto 	Teoría cinética de los gases
+Tráfico a la hora punta 	Corriente continua 	Teoría matemática de la corriente continua
+Organismo que aprende 	Caja negra markoviana 	Modelo del operador lineal de Bush y Mosteller
+Cigarras que cantan 	Colección de osciladores acoplados 	Mecánica estadística de los osciladores acoplados
+Cualquier objeto modelo puede asociarse, dentro de ciertos márgenes, a teorías generales para producir diversos modelos teóricos. Un se gas puede considerar como un «enjambre de partículas enlazadas por fuerzas de Van der Waals», pero se puede insertar tanto en el marco teórico de la teoría clásica como en el de la teoría relativista cuántica de partículas, produciendo diferentes modelos teóricos en cada caso.
+Límites de la ciencia
+Diagrama frenológico del siglo XIX. La frenología es una pseudociencia que en el pasado fue considerada una verdadera ciencia.
+
+En filosofía de la ciencia, el problema de la demarcación es la cuestión de definir los límites que deben configurar el concepto «ciencia». Las fronteras se suelen establecer entre lo que es conocimiento científico y no científico, entre ciencia y metafísica, entre ciencia y pseudociencia, y entre ciencia y religión. El planteamiento de este problema, conocido como problema generalizado de la demarcación, abarca estos casos. El problema generalizado, en último término, lo que intenta es encontrar criterios para poder decidir, entre dos teorías dadas, cuál de ellas es más «científica».
+
+Tras más de un siglo de diálogo entre filósofos de la ciencia y científicos en diversos campos, y a pesar de un amplio consenso acerca de las bases generales del método científico, los límites que demarcan lo que es ciencia, y lo que no lo es, continúan siendo debatidos.
+El problema de la distinción entre lo científico y lo pseudocientífico tiene serias implicaciones éticas y políticas. El Partido Comunista de la URSS declaró (1949) pseudocientífica a la genética mendeliana —por «burguesa y reaccionaria»— y mandó a sus defensores como Vavílov a morir en campos de concentración.
+Consenso científico
+
+El consenso científico es el juicio colectivo que manifiesta la comunidad científica respecto a una determinada posición u opinión, en un campo particular de la ciencia y en determinado momento de la historia. El consenso científico no es, en sí mismo, un argumento científico, y no forma parte del método científico; sin embargo, el consenso existe por el hecho de que está basado en una materia objeto de estudio que sí presenta argumentos científicos o que sí utiliza el método científico. Según Thomas Kuhn, para una nueva idea científica reconocida, su capacidad de generar consenso es directamente proporcional a su adecuación al paradigma dominante o a su grado de innovación (que puede llegar hasta la ruptura del paradigma, denominado revolución científica).
+
+El consenso suele lograrse a través del debate científico. La ética científica exige que las nuevas ideas, los hechos observados, las hipótesis, los experimentos y los descubrimientos se publiquen, justamente para garantizar la comunicación a través de conferencias, publicaciones (libros, revistas) y su revisión entre pares y, dado el caso, la controversia con los puntos de vista discrepantes. La reproducibilidad de los experimentos y la falsación de las teorías científicas son un requisito indispensable para la buena práctica científica.
+
+Así se llega a una situación donde aquellos especialistas de una determinada disciplina a menudo pueden reconocer en qué temas hay tal consenso, aunque comunicarlo al exterior puede llegar a ser difícil. En ocasiones, las instituciones científicas emiten declaraciones con las que tratan de comunicar al "exterior" una síntesis del estado de la ciencia desde el "interior". En aquellos casos en los que se señala que existiría una "controversia" o un "nuevo paradigma" creado por un "muy minoritario grupo" de científicos alrededor de la materia objeto de estudio, definir cuál es el consenso que existe sobre ella puede resultar bastante simple, ya que en estos casos se señala que, dentro de una comunidad científica, el consenso científico sobre el tema es la hipótesis o teoría que es aceptada por la gran mayoría. La fórmula que consiste en invocar al consenso científico o rechazar su existencia es habitual en debates políticos y mediáticos que se forman alrededor de temas controvertidos dentro de la esfera pública, y que por otro lado pueden no ser nada controvertidos dentro de la comunidad científica, como por ejemplo el tema de la evolución biológica o el cambio climático.
+
+El conocimiento científico adquiere el carácter de objetividad por medio de la comunidad y sus instituciones, con independencia de los individuos. D. Bloor, siguiendo a Popper y su teoría del mundo 3, convierte simétricamente el reino de lo social en un reino sin súbditos individuales, en particular reduce el ámbito del conocimiento al estado del conocimiento en un momento dado, esto es, a las creencias aceptadas por la comunidad relevante, con independencia de los individuos en concreto. El conocimiento científico es únicamente adscrito a la «comunidad científica».
+Pero esto no debe llevar a pensar que el conocimiento científico es independiente de un individuo concreto como algo autónomo. Lo que ocurre es que se encuentra «socialmente fijado» en documentos y publicaciones y está causalmente relacionado con los conocimientos de los individuos concretos que forman parte de la comunidad.
+Progreso científico
+Visión medieval del universo
+
+El progreso científico es una etiqueta o una denominación, con frecuencia usada para señalar o evocar el desarrollo de los conocimientos científicos. El progreso técnico depende, en buena medida, del progreso científico.
+Nuestro concepto de progreso científico está detrás de la idea de que la ciencia como disciplina incrementa cada vez más su capacidad para resolver problemas, a través de la aplicación de cuidadas y particulares metodologías que genéricamente englobamos con la denominación de método científico. Sin embargo, es posible que la ciencia no progrese indefinidamente, sino que llegue el fin de la ciencia.
+Historia
+El mecanismo de Anticitera, una computadora analógica construída en la Edad Antigua para predecir posiciones astronómicas y eclipses.
+
+La historia de la ciencia documenta el desarrollo histórico de la ciencia, la técnica y la tecnología, así como la interrelación que han tenido entre sí y con el resto de los aspectos de la cultura, como la economía, la sociedad, la política, la religión, la ideología, etc.
+
+La ciencia en un sentido amplio existía antes de la era moderna y en muchas civilizaciones históricas. La ciencia moderna es distinta en su enfoque y exitosa en sus resultados, por lo que ahora define lo que es la ciencia en el sentido más estricto del término. La ciencia en su sentido original era una palabra para un tipo de conocimiento, más que una palabra especializada para la búsqueda de dicho conocimiento. En particular, era el tipo de conocimiento que las personas pueden comunicarse entre sí y compartir. Por ejemplo, el conocimiento sobre el funcionamiento de las cosas naturales se acumuló mucho antes de que se registrara la historia y condujo al desarrollo de un pensamiento abstracto complejo. Así lo demuestra la construcción de complejos calendarios, técnicas para hacer comestibles las plantas venenosas, obras públicas a escala nacional, como las que aprovecharon el terreno inundable del Yangtsé con embalses, presas y diques, y edificios como las pirámides. Sin embargo, no se hizo una distinción consciente y consistente entre el conocimiento de tales cosas, que son verdaderas en cada comunidad, y otros tipos de conocimiento comunitario, como las mitologías y los sistemas legales. La metalurgia era conocida en la prehistoria, y la cultura de Vinča fue la primera productora conocida de aleaciones similares al bronce. Se cree que la experimentación temprana con el calentamiento y la mezcla de sustancias con el tiempo se convirtió en alquimia.
+El análisis histórico de la ciencia y la tecnología recurre a los contenidos y a la metodología de las distintas subdivisiones de la historia, tanto temáticas (historia de las ideas, historia cultural, historia social, historia económica) como temporales y espaciales.
+Divulgación científica
+Carl Sagan, conocido por su labor como divulgador científico por su serie documental y libro Cosmos: Un viaje personal.
+
+La divulgación científica es el conjunto de actividades que interpretan y hacen accesible el conocimiento científico a la sociedad, es decir, todas aquellas labores que llevan a cabo el conocimiento científico a las personas interesadas en entender o informarse sobre ese tipo de conocimiento. La divulgación pone su interés no solo en los descubrimientos científicos del momento (por ejemplo, la determinación de la masa del neutrino), sino también en teorías más o menos bien establecidas o aceptadas socialmente (por ejemplo, la teoría de la evolución) o incluso en campos enteros del conocimiento científico.[cita requerida]
+
+La divulgación científica tiene como objetivo hacer asequible el conocimiento científico a la sociedad más allá del mundo puramente académico. La divulgación puede referirse a los descubrimientos científicos del momento, como la determinación de la masa del neutrino, de teorías bien establecidas como la teoría de la evolución o de campos enteros del conocimiento científico. La divulgación científica es una tarea abordada por escritores, científicos, museos y periodistas de los medios de comunicación. La presencia tan activa y constante de la ciencia en los medios y viceversa ha hecho que se debata la conveniencia de utilizar la expresión «periodismo científico» en lugar de divulgación científica.[cita requerida]
+Algunos científicos que han contribuido especialmente a la divulgación del conocimiento científico son: Jacob Bronowski (El ascenso del hombre), Carl Sagan (Cosmos: Un viaje personal), Stephen Hawking (Historia del tiempo), Richard Dawkins (El gen egoísta), Stephen Jay Gould, Martin Gardner (artículos de divulgación de las matemáticas en la revista Scientific American), David Attenborough (La vida en la tierra) y autores de ciencia ficción como Isaac Asimov. Otros científicos han realizado tareas de divulgación tanto en libros como en novelas de ciencia ficción, como Fred Hoyle. La mayor parte de las agencias o institutos científicos destacados en los Estados Unidos cuentan con un departamento de divulgación (Education and Outreach), si bien no es una situación común en la mayoría de los países. Muchos artistas, aunque la divulgación científica no sea su actividad formal, han realizado esta tarea a través de sus obras de arte: gran número de novelas y cuentos y otros tipos de obras de ficción narran historias directa o indirectamente relacionadas con descubrimientos científicos diversos, como las obras de Julio Verne.
+Influencia en la sociedad
+
+Dado el carácter universal de la ciencia, su influencia se extiende a todos los campos de la sociedad, desde el desarrollo tecnológico a los modernos problemas de tipo jurídico relacionados con campos de la medicina o la genética. En ocasiones la investigación científica permite abordar temas de gran calado social como el Proyecto Genoma Humano y grandes implicaciones éticas como el desarrollo del armamento nuclear, la clonación, la eutanasia y el uso de las células madre.
+
+Asimismo, la investigación científica moderna requiere en ocasiones importantes inversiones en grandes instalaciones como grandes aceleradores de partículas (CERN), la exploración espacial o la investigación de la fusión nuclear en proyectos como ITER.
+Véase también
+
+    Portal:Ciencias naturales y formales. Contenido relacionado con ciencias naturales y ciencias formales.
+
+    Portal:Ciencias humanas y sociales. Contenido relacionado con ciencias humanas y ciencias sociales.
+    Ciencia ficción
+    Ciencia popular
+    Cientificismo
+    Materialismo
+    Positivismo
+    Protociencia
+    Pseudociencia
+    Tecnología
+
+Notas y referencias
+
+    «Presentación». Tecnología industrial II. España: Everest Sociedad Anónima. 2014. p. 3. ISBN 9788424190538.
+    Tomado, con añadidos, de la definición de ciencia del Diccionario de la Real Academia Española.
+    Asimov, Isaac (1987). «What is Science?». Asimov's New Guide to Science. Penguin Books. p. 14. ISBN 0140172130. OCLC 40092714. Consultado el 11 de abril de 2019.
+    «scientific method». Oxford Dictionaries (en inglés). Consultado el 10 de marzo de 2019. «A method of procedure that has characterized natural science since the 17th century, consisting in systematic observation, measurement, and experiment, and the formulation, testing, and modification of hypotheses.»
+    "Rules for the study of natural philosophy", Newton 1999, pp 794-6, libro 3, The System of the World
+    Gregorio Klimovsky, Las desventuras del conocimiento científico. Una introducción a la epistemología, A-Z editora, Bs.As., 1997, ISBN, 950-534-275-6
+    María Aurelia Lazo Pérez , La interdisciplinariedad y la integralidad, una necesidad de los profesionales de la educación, Cuadernos de Educación y Desarrollo, vol 3 nº 27 (mayo 2011), cita cf. 'Acercamiento teórico al enfoque interdisciplinario de las ciencias: Líneas directrices' : La autora después de reflexionar plantea que la interdisciplinariedad es mucho más que un intercambio de experiencias, conocimientos y procesos, la misma constituye una necesidad social, científica e intelectual, la constante fragmentación de las ciencias y de su estudio, llamado pensamiento disciplinar, o la compartimentación en las disciplinas, no posibilita el estudio de los objetos en su conjunto, lo que conlleva es a una estrechez mental no acorde con la necesidad que se tiene de dar soluciones integradoras a los problemas que surgen en un mundo que se inclina con mayor fuerza a la globalización.
+    Stanford Encyclopedia of Philosophy: The Unity of Science.
+    Paul Oppenhein, Hilary Putnam, Unity of Science as a Working Hypothesis.
+    Internet Encyclopedia of Philosophy: Philosophy of Medicine (cf. Reductionism vs. Holism).
+    Brisa Varela, Lila Ferro, Las ciencias sociales en el nivel inicial: Andamios para futuros/as ciudadanos/as, Ediciones Colihue, Buenos Aires (2007), ISBN 978-950-581-707-8, Cita pág. 40: Piaget expuso sistemáticamente su postura frente a la interdisciplinariedad. Él consideraba que el surgimiento de ésta obedecía a que el conjunto de los conocimientos constituía una totalidad y, por la evolución interna de la ciencia, había llegado el momento donde se evidenciaba su unidad última; el concepto de estructura era la prueba de esa unidad. Las estructuras subyacentes a todas las ciencias serían, según Piaget, las mismas. Por eso sostenía que la realidad era isomórfica, y por lo tanto el monismo metodológico debía plantearse, ya que no existía discontinuidad entre las ciencias naturales y las sociales..
+    Rudolf Carnap, Logical Foundations of the Unity of Science.
+    Internet Encyclopedia of Philosophy: Jerry Fodor.
+    París, Carlos (1952). Física y filosofía: El problema de la relación entre ciencia física y filosofía de la naturaleza. Consejo Superior de Investigaciones Científicas. Universidad de Madrid. p. 85.
+    París, Carlos (1992). Ciencia, tecnología y transformación social. Universitat de Valencia. p. 109. ISBN 84-370-0966-9.
+    Matemáticamente la aplicación de un procedimiento mensurativo cuantifica dichos datos y convierte en variables los conceptos por ellos referenciados, mientras que su relación adquiere la estructura de una función matemática. Los empiristas lógicos pensaron que la estructura afirmativa de las leyes solamente son esquemas meramente formales de funciones proposicionales que adquieren la forma de argumento al sustituir las variables por los contenidos conceptuales de la observación previamente medida. Eso hizo posible la pretensión de construcción de "el lenguaje Universal de la Ciencia" como "Proyecto Unificado".
+    Russell, Bertrand (1982). La evolución de mi pensamiento filosófico. Madrid: Alianza. pp. 163 y ss. 84-206-1605-2.
+    Russell, Bertrand (1982). La evolución de mi pensamiento filosófico. Madrid: Alianza. pp. 169 y ss. 84-206-1605-2.
+    El hecho de la flotación de un cuerpo en un fluido, se formularía: Si un cuerpo a se encuentra sumergido en un fluido, condición h, experimentará un empuje vertical hacia arriba igual al peso del volumen de fluido que desaloja. Lo que equivale a la explicación causal de que: Un cuerpo flota en el agua porque el peso del volumen del agua que desaloja, (el volumen que ocupa el cuerpo sumergido), es mayor que el peso de todo el cuerpo (explicación esencial); o «descripción del fenómeno» de cómo sucede la flotación de un cuerpo.
+    Newton, hypotheses non fingo Lakatos, Imre; Gregory, Currie (1983). La metodología de los programas de investigación científica. Alianza. p. 249. ISBN 8420623490. OCLC 318332464. Consultado el 26 de febrero de 2019.
+    Incluso, añade Bunge, en el campo de la psicología y la sociología, fortalezas, en otro tiempo, de la vaguedad.
+    Bunge, Mario; Sempere, Joaquín (1981). Teoría y realidad (3ra edición). Ariel. p. 9. ISBN 8434407256. OCLC 431866086. Consultado el 27 de febrero de 2019.
+    Bunge, Mario; Sempere, Joaquín (1981). Teoría y realidad (3ra edición). Ariel. p. 55. ISBN 8434407256. OCLC 431866086. Consultado el 27 de febrero de 2019.
+    Bunge, Mario (1975). Teoría y realidad. Barcelona: Ariel. p. 19. ISBN 84-344-0725-6. «Los mecanismos hipotéticos deberán tomarse e serio, como representando las entrañas de la cosa, y se deberá dar prueba de esta convicción realista (pero al mismo tiempo falible) imaginando experiencias que puedan poner en evidencia la realidad de los mecanismos imaginados. En otro caso se hará literatura fantástica o bien se practicará la estrategia convencionalista, pero en modo alguno se participará en la búsqueda de la verdad.»
+    Gauch, Hugh G., Jr., Scientific Method in Practice (2003) 3-7.
+    Cover, J.A., Curd, Martin (Eds, 1998) Philosophy of Science: The Central Issues, 1-82.
+    Lakatos, Imre; Gregory, Currie (1983). La metodología de los programas de investigación científica. Madrid: Alianza. p. 9. ISBN 8420623490. OCLC 318332464. Consultado el 26 de febrero de 2019. «¿Qué distingue al conocimiento de la superstición, la ideología o la pseudo-ciencia? La Iglesia Católica excomulgó a los copernicanos, el Partido Comunista persiguió a los mendelianos por entender que sus doctrinas eran pseudocientíficas. La demarcación entre ciencia y pseudociencia no es un mero problema de filosofía de salón; tiene una importancia social y política vital.»
+    A. Giusti, Miguel (2000). Miguel Guisti, ed. La filosofía del siglo XX: balance y perspectivas (primera edición edición). Fondo Editorial de la Pontificia Universidad Católica del Perú. pp. 832 páginas. ISBN 9972-42-354-9. Consultado el 15 de enero de 2012. «El Partido Comunista de la URSS declaró (1949) pseudocientífica a la genética mendeliana -por "burguesa y reaccionaria"- y mandó a sus defensores como Vavílov a morir en campos de concentración».
+    http://www.aaas.org/news/releases/2006/pdf/0219boardstatement.pdf
+    Teaching of Evolution in Schools - NSTA Position Statements
+    Climate Change 2001: The Scientific Basis
+    | Climate Change Science: An Analysis of Some Key Questions | Committee on the Science of Climate Change | Division on Earth and Life Studies | National Research Council
+        Archivado el 11 de mayo de 2008 en la Wayback Machine.
+    Bustos, E. (2009-2013). «Objetividad». En Villoro, L. El conocimiento. Enciclopedia Iberoamericana de Filosofía 20. Trotta. p. 89 y ss. ISBN 978-84-87699-48-1 (obra completa) ISBN 84-8164-358-0 (edición impresa) ISBN 978-84-9879-402-1 (edición digital).
+    Grant, Edward (1 de enero de 1997). «History of Science: When Did Modern Science Begin?». The American Scholar 66 (1): 105-113. JSTOR 41212592.
+    Heilbron, 2003, p. vii
+    "El historiador ... requiere una definición muy amplia de "ciencia"- que ... nos ayudará a entender la empresa científica moderna. Necesitamos ser amplios e inclusivos, en lugar de estrechos y exclusivos.... y debemos esperar que cuanto más atrás vayamos [en el tiempo], más amplios tendremos que ser." — (Lindberg, 2007, p. 3), que cita además Pingree, David (Diciembre de 1992). «Hellenophilia versus the History of Science». Isis 4 (4): 554-63. Bibcode:1992Isis...83..554P. JSTOR 234257. doi:10.1086/356288.
+    Sima Qian. (司馬遷, m. 86 a.C.) en suz Memorias históricas. (太史公書) cubriendo unos 2500 años de historia china, registros Sunshu Ao (孫叔敖, fl. c. 630-595 a.C. - Dinastía Zhou), el primer conocido ingeniero hidráulico de China, citado en (Joseph Needham et.al (1971) Ciencia y civilización en China 4.3 p. 271) como constructor de un embalse que ha durado hasta el día de hoy.
+
+Bibliografía
+
+    Bunge, Mario (1969). La ciencia: su método y su filosofía. Buenos Aires.
+    — (1980). Epistemología: curso de actualización. Barcelona. Ariel. ISBN 84-344-8004-2.
+    — (1981). Materialismo y ciencia. Barcelona. Ariel. ISBN 84-344-0828-7.
+    Cassirer, Ernst (1979). El problema del conocimiento en la filosofía y en la ciencia modernas. México: Fondo de Cultura Económica.
+    Feyerabend, Paul. «Cómo ser un buen empirista: defensa de la tolerancia en cuestiones epistemológicas». Revista Teorema 7 (Valencia: Universidad de Valencia). ISBN 84-600-0507-0.
+    — (1975). Contra el método: esquema de una teoría anarquista del conocimiento. Barcelona: Ariel. ISBN 84-344-0735-3.
+    — (1990). Diálogo sobre el método. Madrid: Cátedra. ISBN 84-376-0956-9.
+    — (1984). Adiós a la razón. Madrid: Tecnos. ISBN 84-309-1071-9.
+    Fried Schnitman, D.; Prigogine, I.; Morin, E.; et. al. (1994). Nuevos paradigmas, Cultura y Subjetividad. Buenos Aires: Paidós. ISBN 950-12-7023-8.
+    Hurtado, G. (Abril de 2003). «¿Saber sin verdad? Objeciones a un argumento de Villoro». Crítica. Revista Hispanoamericana de Filosofía 35 (103): 121-134.
+    Popper, Karl (2004). La lógica de la investigación científica. Madrid: Tecnos. ISBN 84-309-0711-4.
+    — (1984). Sociedad abierta, universo abierto. Madrid: Tecnos. ISBN 84-309-1105-7.
+    — (2002). Conjeturas y refutaciones: el desarrollo del conocimiento científico. Madrid: Tecnos. ISBN 84-309-0723-8.
+    Putnam, Hilary (1988). Razón, verdad e historia. Madrid: Tecnos. ISBN 84-309-1577-X.
+    — (1994). Las mil caras del realismo. Barcelona: Paidós. ISBN 84-7509-980-7.
+    — (1985). W. K. Essler, H. Putnam y W. Stegmüller, ed. Epistemology, methodology, and philosophy of science: essays in honor of Carl G. Hempel on the occasion of his 80th birthday.
+    Quine, Willard Van Orman (1998). Del estímulo a la ciencia. Barcelona: Ariel. ISBN 84-344-8747-0.
+    Villoro, J. (1992). Creer, saber, conocer. México DF: Siglo XXI. ISBN 968-23-1151-9.
+
+Enlaces externos
+
+    Wikilibros alberga un libro o manual sobre Ciencias.
+
+    Wikinoticias tiene noticias relacionadas con Ciencia.
+
+    Wikisource contiene obras originales de o sobre Ciencia.
+
+    Wikcionario tiene definiciones y otra información sobre ciencia.
+
+    Wikiversidad alberga proyectos de aprendizaje sobre Ciencias.
+
+    Wikimedia Commons alberga una categoría multimedia sobre Ciencia.
+
+    Wikiquote alberga frases célebres de o sobre Ciencia.
+    Scientific American
+    La edición española de Scientific American: "Investigación y Ciencia"
+
+
+    Datos: Q336
+    Multimedia: Science
+    Diccionario: ciencia
+    Citas célebres: Ciencia
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

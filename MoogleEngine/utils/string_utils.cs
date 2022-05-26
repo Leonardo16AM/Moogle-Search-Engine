@@ -22,7 +22,6 @@ public static class string_utils{
                         dp[i,j] = 1 + Math.Min( dp[i-1,j] , Math.Min(dp[i-1,j-1],dp[i,j-1]) );
                     }
                 }
-
             }
         }
         
@@ -47,15 +46,22 @@ public static class string_utils{
     }
 
 
+    public static bool is_letter(char mander){  
+        return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z')||
+        mander=='á'||mander=='é'||mander=='í'||mander=='ó'||mander=='ú'||mander=='ñ'||
+        mander=='Á'||mander=='Á'||mander=='Í'||mander=='Ó'||mander=='Ú'||mander=='Ñ'||
+        mander=='0'||mander=='1'||mander=='2'||mander=='3'||mander=='4'||mander=='5'||
+        mander=='6'||mander=='7'||mander=='8'||mander=='9';
+    }
+    public static bool is_mayus(char mander){  
+        return (mander>='A' && mander<='Z');
+    } 
+
+
     public static List<string> normalize_text(string text){        
         // Converts a string to a list of lowercase strings
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n' };
-        string[] ntext=text.Split(delimiters);
-
-        HashSet<string>set = new HashSet<string>(ntext);
-        string[] ret = new string[set.Count];
-        set.CopyTo(ret);
-
+        string[] ret=text.Split(delimiters);
         List<string> lst=new List<string>();
             
         for(int i=0;i<ret.Length;i++){
@@ -63,26 +69,14 @@ public static class string_utils{
             s=s.ToLower();
             string stri="";
             for(int j=0;j<s.Length;j++){
-                if(s[j]=='á')stri+="a";
-                if(s[j]=='é')stri+="e";
-                if(s[j]=='í')stri+="i";
-                if(s[j]=='ó')stri+="o";
-                if(s[j]=='ú')stri+="u";
-                if(s[j]<'a'||s[j]>'z')continue;
-                else stri+=s[j];
+                if(is_letter(s[j])) stri+=s[j];
             }
             if(stri.Length>0) lst.Add(stri);
         }
-
         return lst;
     }   
 
-
     
-    public static bool is_letter(char mander){  
-        return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z');
-    }
-
     public static List<string> normalize_text_with_quotation(string text){        
         // Converts a string to a list of lowercase strings with quotation marks
        
@@ -105,7 +99,7 @@ public static class string_utils{
         for(int i=0;i<ntext.Length;i++){
             string s=ntext[i];
             s=s.ToLower();
-            lst.Add(s);
+           if(s!="") lst.Add(s);
         }
 
         return lst;
@@ -134,12 +128,19 @@ public static class string_utils{
         Dictionary<string,int> dict= new Dictionary<string,int>();
         for(int i=0;i<list.Count;i++){
             if(!dict.ContainsKey(list[i])){
-                dict[ list[i] ]++;
+                dict.Add(list[i],0);
                 ret.Add(list[i]);
             }
         }
         return ret;
     }   
+
+    public static List<string> set_normalize_text(string text){        
+        List<string>ret=normalize_text(text);
+        ret=remove_duplicates(ret);
+        return ret;
+    }  
+
     public static List<string> join_lists(List<string> a,List<string> b){        
         for(int i=0;i<b.Count;i++){
             a.Add(b[i]);
@@ -150,7 +151,6 @@ public static class string_utils{
 
 
     public static List<string> to_list(string[] s){        
-        
         List<string>ret=new List<string>();
         for(int i=0;i<s.Length;i++){
                 ret.Add(s[i]);
@@ -159,10 +159,8 @@ public static class string_utils{
     }   
     public static void print_list(List<string>lis){        
         for(int i=0;i<lis.Count;i++){
-                Console.Write(lis[i]+" ");
+                Console.Write("\""+lis[i]+"\" ");
         }
         Console.WriteLine();
     }   
-
 }
-

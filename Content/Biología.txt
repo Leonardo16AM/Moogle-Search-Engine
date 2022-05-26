@@ -1,0 +1,249 @@
+Biología
+
+La biología (del griego βίος [bíos], «vida», y -λογία [-logía], «tratado, estudio, ciencia») es la ciencia que estudia a los seres vivos y, más específicamente, su origen, su evolución y sus propiedades, nutrición, morfogénesis, reproducción (asexual y sexual), patogenia, etc. Se ocupa tanto de la descripción de las características y los comportamientos de los organismos individuales, como de las especies en su conjunto, así como de la reproducción de los seres vivos y de las interacciones entre ellos y el entorno. De este modo, trata de estudiar la estructura y la dinámica funcional comunes a todos los seres vivos, con el fin de establecer las leyes generales que rigen la vida orgánica y los principios de esta.
+	
+	
+	
+La biología estudia lo que tienen en común y también lo que distingue a las diferentes formas de vida. De izquierda a derecha y de arriba abajo se muestran diversas formas de vida: E. coli (bacteria), helecho (planta), Drosera (planta carnívora), Flammulina velutipes (hongo), escarabajo Goliat (insecto) y gacela (mamífero).
+
+La escala de estudio va desde los subcomponentes biofísicos hasta los sistemas complejos. La biología moderna se divide en sub-disciplinas según los tipos de organismos y la escala en que se los estudia. La biología molecular es el estudio de la química fundamental de la vida, mientras que la biología celular tiene como objeto el examen de la célula, es decir, la unidad constructiva básica de toda la vida. A un nivel más elevado, la fisiología estudia la estructura interna del organismo.
+
+Los campos biológicos de la botánica, la zoología y la medicina surgieron desde los primeros momentos de la civilización, mientras que la microbiología fue introducida en el siglo XVII con el descubrimiento del microscopio. Sin embargo, no fue hasta el siglo XIX cuando la biología se unificó, una vez que se descubrieron coincidencias en todos los seres vivos y se estudiaron como un conjunto. Algunos desarrollos clave en la ciencia de la biología fueron la genética, la teoría de la evolución mediante selección natural, la teoría microbiana de la enfermedad y la aplicación de técnicas de física y química a nivel celular y molecular, que dieron lugar a la biofísica y bioquímica, respectivamente.
+
+En su sentido moderno, la palabra «biología» parece haber sido introducida independientemente por Gottfried Reinhold Treviranus (Biologie oder Philosophie der lebenden Natur, 1802) y por Jean-Baptiste Lamarck (Hydrogéologie, 1802). Generalmente, se dice que el término fue acuñado en 1800 por Karl Friedrich Burdach, aunque se menciona en el título del tercer volumen de Philosophiae naturalis sive physicae dogmaticae: Geologia, biologia, phytologia generalis et dendrologia, de Michael Christoph Hanow y publicado en 1766.
+Campos de estudio
+Véase también: Anexo:Disciplinas de la Biología
+
+La biología es una ciencia que abarca un amplio campo de estudio que, a menudo, se tratan como disciplinas independientes. Todas ellas juntas estudian la vida en un amplio rango de escalas. La vida se estudia a escala atómica y molecular en biología molecular, en bioquímica y en genética molecular. Desde el punto de vista celular, se estudia en biología celular, y a escala pluricelular se estudia en fisiología, anatomía e histología. Desde el punto de vista de la ontogenia o desarrollo de los organismos a nivel individual, se estudia en la biología del desarrollo.
+
+La biología es asimismo una de las principales ciencias del karst objeto de la espeleología, ocupándose de los organismos que viven en cavidades subterráneas.
+
+Cuando se amplía el campo a más de un organismo, la genética trata el funcionamiento de la herencia genética de los padres a su descendencia. La ciencia que trata el comportamiento de los grupos es la etología, esto es, de más de un individuo. La genética de poblaciones observa y analiza una población entera y la genética sistemática trata los linajes entre especies. Las poblaciones interdependientes y sus hábitats se examinan en la ecología y la biología evolutiva. Un nuevo campo de estudio es la astrobiología (o xenobiología), que estudia la posibilidad de la vida más allá de la Tierra.
+
+Las clasificaciones de los seres vivos son muy numerosas. Se proponen desde la tradicional división en dos reinos establecida por Carlos Linneo en el siglo XVII, entre animales y plantas, hasta las actuales propuestas de sistemas cladísticos con tres dominios que comprenden más de 20 reinos.
+Ramas de la biología
+
+    Anatomía: estudio de la estructura interna y externa de los seres vivos.
+    Antropología: estudia el ser humano como entidad biológica.
+    Bacteriología: estudia las bacterias
+    Bioespeleología: estudia los organismos que viven en cavidades subterráneas.
+    Biofísica: estudia la biología con los principios y métodos de la física.
+    Biología marina: estudia los seres vivos marinos.
+    Biología matemática: modela procesos biológicos utilizando técnicas matemáticas.
+    Biomedicina: aplicada a la salud humana.
+    Bioquímica: estudia procesos químicos que se desarrollan en el interior de los seres vivos.
+    Biotecnología: estudia y aprovecha los mecanismos e interacciones biológicas de los seres vivos.
+    Botánica: estudia los organismos fotosintéticos (varios reinos).
+    Citología: estudia las células.
+    Citogenética: estudia la genética de las células (cromosomas).
+    Citopatología: estudia las enfermedades de las células.
+    Citoquímica: estudia la composición química de las células y sus procesos biológicos.
+    Ecología: estudia los organismos y sus relaciones entre sí y con el medio ambiente.
+    Embriología: estudia el desarrollo del embrión.
+    Entomología: estudia los insectos.
+    Epistemología biológica: estudia los conceptos y modelos que apoyan la biología.
+    Etología: estudia el comportamiento de los seres vivos.
+    Evolución: estudio del cambio y la transformación de las especies a lo largo del tiempo.
+    Filogenia: estudia la evolución de los seres vivos.
+    Fisiología: estudia el funcionamiento de los organismos.
+    Genética: estudia los genes y la herencia genética.
+    Genética molecular: estudia la estructura y la función de los genes a nivel molecular.
+    Histología: estudia los tejidos.
+    Histoquímica: estudia la composición de células y tejidos y de las reacciones químicas que se desarrollan en ellos con ayuda de colorantes específicos.
+    Inmunología: estudia el sistema inmunitario de defensa.
+    Micología: estudia los hongos.
+    Microbiología: estudia los microorganismos.
+    Organografía: estudia órganos y sistemas.
+    Parasitología: estudia a los parásitos.
+    Paleontología: estudia los organismos que vivieron en el pasado.
+    Taxonomía: clasifica y ordena a los seres vivos.
+    Virología: estudia los virus.
+    Zoología: estudia los animales.
+
+Historia de la biología
+La portada del poema sobre la evolución de Erasmus Darwin The Temple of Nature muestra a una diosa que retira el velo de la naturaleza (en la persona de Artemisa). La alegoría y la metáfora han desempeñado a menudo un papel importante en la historia de la biología.
+
+La historia de la biología remonta el estudio de los seres vivos desde la Antigüedad hasta la época actual. Aunque el concepto de biología como ciencia en sí misma nace en el siglo XIX, las ciencias biológicas surgieron de tradiciones médicas e historia natural que se remontan a el Āyurveda, la medicina en el Antiguo Egipto y los trabajos de Aristóteles y Galeno en el antiguo mundo grecorromano. Estos trabajos de la Antigüedad siguieron desarrollándose en la Edad Media por médicos y eruditos musulmanes como Avicena. Durante el Renacimiento europeo y a principios de la Edad Moderna el pensamiento biológico experimentó una revolución en Europa, con un renovado interés hacia el empirismo y por el descubrimiento de gran cantidad de nuevos organismos. Figuras prominentes de este movimiento fueron Vesalio y Harvey, que utilizaron la experimentación y la observación cuidadosa en la fisiología, y naturalistas como Linneo y Buffon que iniciaron la clasificación de la diversidad de la vida y el registro fósil, así como el desarrollo y el comportamiento de los organismos. La microscopía reveló el mundo, antes desconocido, de los microorganismos, sentando las bases de la teoría celular. La importancia creciente de la teología natural, en parte una respuesta al alza de la filosofía mecánica, y la pérdida de fuerza del argumento teleológico impulsó el crecimiento de la historia natural.
+
+Durante los siglos XVIII y XIX las ciencias biológicas, como la botánica y la zoología se convirtieron en disciplinas científicas cada vez más profesionales. Lavoisier y otros científicos físicos comenzaron a unir los mundos animados e inanimados a través de la física y química. Los exploradores-naturalistas, como Alexander von Humboldt investigaron la interacción entre organismos y su entorno, y los modos en que esta relación depende de la situación geográfica, iniciando así la biogeografía, la ecología y la etología. Los naturalistas comenzaron a rechazar el esencialismo y a considerar la importancia de la extinción y la mutabilidad de las especies. La teoría celular proporcionó una nueva perspectiva sobre los fundamentos de la vida. Estas investigaciones, así como los resultados obtenidos en los campos de la embriología y la paleontología, fueron sintetizados en la teoría de la evolución por selección natural de Charles Darwin. El final del siglo XIX vio la caída de la teoría de la generación espontánea y el nacimiento de la teoría microbiana de la enfermedad, aunque el mecanismo de la herencia genética fuera todavía un misterio.
+A principios del siglo XX, el redescubrimiento del trabajo de Mendel condujo al rápido desarrollo de la genética por parte de Thomas Hunt Morgan y sus discípulos y la combinación de la genética de poblaciones y la selección natural en la síntesis evolutiva moderna durante los años 1930. Nuevas disciplinas se desarrollaron con rapidez, sobre todo después de que Watson y Crick descubrieron la estructura del ADN. Tras el establecimiento del dogma central de la biología molecular y el descifrado del código genético, la biología se dividió fundamentalmente entre la biología orgánica —los campos que trabajan con organismos completos y grupos de organismos— y los campos relacionados con la biología molecular y celular. A finales del siglo XX nuevos campos como la genómica y la proteómica invertían esta tendencia, con biólogos orgánicos que usan técnicas moleculares, y biólogos moleculares y celulares que investigan la interacción entre genes y el entorno, así como la genética de poblaciones naturales de organismos.
+Principios de la biología
+
+A diferencia de la física, la biología no suele describir sistemas biológicos en términos de objetos que obedecen leyes inmutables descritas por la matemática. No obstante, se caracteriza por seguir algunos principios y conceptos de gran importancia, entre los que se incluyen: la universalidad, la evolución, la diversidad, la continuidad, la homeóstasis y las interacciones.
+Universalidad: bioquímica, células y el código genético
+Representación esquemática de la molécula de ADN, la molécula portadora de la información genética.
+
+Hay muchas constantes universales y procesos comunes que son fundamentales para conocer las formas de vida. Por ejemplo, todas las formas de vida están compuestas por células, que están basadas en una bioquímica común, que es la química de los seres vivos. Todos los organismos perpetúan sus caracteres hereditarios mediante el material genético, que está basado en el ácido nucleico ADN, que emplea un código genético universal. En la biología del desarrollo la característica de la universalidad también está presente: por ejemplo, el desarrollo temprano del embrión sigue unos pasos básicos que son muy similares en muchos organismos metazoo.
+Evolución: el principio central de la biología
+
+Uno de los conceptos centrales de la biología es que toda vida desciende de un antepasado común que ha seguido el proceso de la evolución. De hecho, ésta es una de las razones por la que los organismos biológicos exhiben una semejanza tan llamativa en las unidades y procesos que se han discutido en la sección anterior. Charles Darwin conceptualizó y publicó la teoría de la evolución en la cual uno de los principios es la selección natural (a Alfred Russell Wallace se le suele reconocer como codescubridor de este concepto). Con la llamada síntesis moderna de la teoría evolutiva, la deriva genética fue aceptada como otro mecanismo fundamental implicado en el proceso.
+Los cromosomas
+
+Sabemos que el ADN, sustancia fundamental del material cromático difuso (así se observa en la célula de reposo), está organizado estructural y funcionalmente junto a ciertas proteínas y ciertos constituyentes en formas de estructuras abastonadas llamadas cromosomas. Las unidades de ADN son las responsables de las características estructurales y metabólicas de la célula y de la transmisión de estos caracteres de una célula a otra. Estas reciben el nombre de genes y están colocadas en un orden lineal a lo largo de los cromosomas.
+Los genes
+
+El gen es la unidad básica de material hereditario, y físicamente está formado por un segmento del ADN del cromosoma. Atendiendo al aspecto que afecta a la herencia, esa unidad básica recibe también otros nombres, como: recón, cuando lo que se completa es la capacidad de recombianción (el recón será el segmento de ADN más pequeño con capacidad de recombinarse), y mutón, cuando se atiende a las mutaciones (y, así, el mutón será el segmento de ADN más pequeño con capacidad de mutarse).
+
+En términos generales, un gen es un fragmento de ADN que codifica una proteína o un péptido.
+Filogenia
+
+Se llama filogenia al estudio de la historia evolutiva y las relaciones genealógicas de las estirpes. Las comparaciones de secuencias de ADN y de proteínas, facilitadas por el desarrollo técnico de la biología molecular y de la genómica, junto con el estudio comparativo de fósiles u otros restos paleontológicos, generan la información precisa para el análisis filogenético. El esfuerzo de los biólogos por abordar científicamente la comprensión y la clasificación de la diversidad de la vida ha dado lugar al desarrollo de diversas escuelas en competencia, como la fenética, que puede considerarse superada, o la cladística. No se discute que el desarrollo muy reciente de la capacidad de descifrar sobre bases sólidas la filogenia de las especies está catalizando una nueva fase de gran productividad en el desarrollo de la biología.
+Diversidad: variedad de organismos vivos
+Árbol filogenético de los seres vivos basado en datos sobre su rARN. Los tres reinos principales de seres vivos aparecen claramente diferenciados: bacterias, archaea y eucariotas tal y como fueron descritas inicialmente por Carl Woese. Otros árboles basados en datos genéticos de otro tipo resultan similares pero pueden agrupar algunos organismos en ramas ligeramente diferentes, presumiblemente debido a la rápida evolución del rARN. La relación exacta entre los tres grupos principales de organismos permanece todavía como un importante tema de debate.
+
+A pesar de la unidad subyacente, la vida exhibe una asombrosa diversidad en morfología, comportamiento y ciclos vitales. Para afrontar esta diversidad, los biólogos intentan clasificar todas las formas de vida. Esta clasificación científica refleja los árboles evolutivos (árboles filogenéticos) de los diferentes organismos. Dichas clasificaciones son competencia de las disciplinas de la sistemática y la taxonomía. La taxonomía sitúa a los organismos en grupos llamados taxa, mientras que la sistemática trata de encontrar sus relaciones.
+Haeckel
+(1866)
+Tres reinos 	Chatton
+(1925)
+Dos reinos 	Copeland
+(1938 y 1956)
+Cuatro reinos 	Whittaker
+(1969)
+Cinco reinos 	Woese
+(1977 y 1990)
+Tres dominios
+Animalia 	Eukaryota 	Animalia 	Animalia 	Eukarya
+Plantae 	Plantae 	Plantae
+Protoctista 	Fungi
+Protista 	Protista
+Prokaryota 	Monera 	Monera 	Archaea
+Bacteria
+
+Sin embargo, actualmente el sistema de Whittaker, el de los cinco reinos se cree ya desfasado. Entre las ideas más modernas, generalmente se acepta el sistema de tres dominios:
+
+    Archaea (originalmente Archaebacteria)
+    Bacteria (originalmente Eubacteria)
+    Eucariota
+
+Estos ámbitos reflejan si las células poseen núcleo o no, así como las diferencias en el exterior de las células. Hay también una serie de «parásitos intracelulares» que, en términos de actividad metabólica son cada vez «menos vivos», por ello se los estudia por separado de los reinos de los seres vivos, estos serían los:
+
+    Virus
+    Viroides
+    Priones
+
+Hay un reciente descubrimiento de una nueva clase de virus, denominado mimivirus, ha causado que se proponga la existencia de un cuarto dominio debido a sus características particulares, en el que por ahora sólo estaría incluido ese organismo.
+Continuidad: el antepasado común de la vida
+
+Se dice que un grupo de organismos tiene un antepasado común si tiene un ancestro común. Todos los organismos existentes en la Tierra descienden de un ancestro común o, en su caso, de un fondo genético ancestral. Este último ancestro común universal, esto es, el ancestro común más reciente de todos los organismos que existen ahora. Se estima que apareció hace alrededor de 3.500 millones de años (véase origen de la vida).
+
+La noción de que «toda vida proviene de un huevo» (del latín Omne vivum ex ovo) es un concepto fundacional de la biología moderna, y viene a decir que siempre ha existido una continuidad de la vida desde su origen inicial hasta la actualidad. En el siglo XIX se pensaba que las formas de vida podían aparecer de forma espontánea bajo ciertas condiciones (véase abiogénesis). Los biólogos consideran que la universalidad del código genético es una prueba definitiva a favor de la teoría del descendiente común universal (DCU) de todas las bacterias, archaea y eucariotas.
+Véase también: Sistema de tres dominios
+Homeostasis: adaptación al cambio
+Simbiosis entre un pez payaso del género de los Amphipriones y las anémonas de mar. El pez protege a las anémonas de otros peces comedores de anémonas mientras que los tentáculos de las anémonas protegen al pez payaso de sus depredadores.
+
+La homeostasis es la propiedad de un sistema abierto de regular su medio interno para mantener unas condiciones estables, mediante múltiples ajustes de equilibrio dinámico controlados por mecanismos de regulación interrelacionados. Todos los organismos vivos, sean unicelulares o pluricelulares tienen su propia homeostasis. Por ejemplo, la homeostasis se manifiesta celularmente cuando se mantiene una acidez interna estable (pH); a nivel de organismo, cuando los animales de sangre caliente mantienen una temperatura corporal interna constante; y a nivel de ecosistema, al consumir dióxido de carbono las plantas regulan la concentración de esta molécula en la atmósfera. Los tejidos y los órganos también pueden mantener su propia homeostasis.
+Interacciones: grupos y entornos
+
+Todos los seres vivos interaccionan con otros organismos y con su entorno. Una de las razones por las que los sistemas biológicos pueden ser difíciles de estudiar es que hay demasiadas interacciones posibles. La respuesta de una bacteria microscópica a la concentración de azúcar en su medio (en su entorno) es tan compleja como la de un león buscando comida en la sabana africana. El comportamiento de una especie en particular puede ser cooperativo o agresivo; parasitario o simbiótico. Los estudios se vuelven mucho más complejos cuando dos o más especies diferentes interaccionan en un mismo ecosistema; el estudio de estas interacciones es competencia de la ecología.
+Alcance y disciplinas de la biología
+
+La biología se ha convertido en una iniciativa investigadora tan vasta que generalmente no se estudia como una única disciplina, sino como un conjunto de subdisciplinas. Aquí se considerarán cuatro amplios grupos.
+
+    El primero consta de disciplinas que estudian las estructuras básicas de los sistemas vivos: células, genes, etc.;
+    El segundo grupo considera la operación de estas estructuras a nivel de tejidos, órganos y cuerpos;
+    Una tercera agrupación tiene en cuenta los organismos y sus historias;
+    La última constelación de disciplinas está enfocada a las interacciones.
+
+Sin embargo, es importante señalar que estos límites, agrupaciones y descripciones son una descripción simplificada de la investigación biológica. En realidad los límites entre disciplinas son muy inseguros y, frecuentemente, muchas disciplinas se prestan técnicas las unas a las otras. Por ejemplo, la biología de la evolución se apoya en gran medida de técnicas de la biología molecular para determinar las secuencias de ADN que ayudan a comprender la variación genética de una población; y la fisiología toma préstamos abundantes de la biología celular para describir la función de sistemas orgánicos.
+Estructura de la vida
+Esquema de una típica célula animal con sus orgánulos y estructuras: 1. Nucléolo 2. Núcleo celular 3. Ribosoma 4. Vesículas de secreción 5. Retículo endoplasmático rugoso 6. Aparato de Golgi 7. Citoesqueleto 8. Retículo endoplasmático liso 9. Mitocondria 10. Vacuola (sólo en vegetales) 11. Citoplasma 12. Lisosoma (sólo en animales) 13. Centríolo.
+
+La biología molecular es el estudio de la biología a nivel molecular. El campo se solapa con otras áreas de la biología, en particular con la genética y la bioquímica. La biología molecular trata principalmente de comprender las interacciones entre varios sistemas de una célula, incluyendo la interrelación de la síntesis de proteínas de ADN y ARN y del aprendizaje de cómo se regulan estas interacciones.
+
+La biología celular estudia las propiedades fisiológicas de las células, así como sus comportamientos, interacciones y entorno; esto se hace tanto a nivel microscópico como molecular. La biología celular investiga los organismos unicelulares como bacterias y células especializadas de organismos pluricelulares como los humanos.
+
+La comprensión de la composición de las células y de cómo funcionan éstas es fundamental para todas las ciencias biológicas. La apreciación de las semejanzas y diferencias entre tipos de células es particularmente importante para los campos de la biología molecular y celular. Estas semejanzas y diferencias fundamentales permiten unificar los principios aprendidos del estudio de un tipo de célula, que se puede extrapolar y generalizar a otros tipos de células.
+
+La genética es la ciencia de los genes, la herencia y la variación de los organismos. En la investigación moderna, la genética proporciona importantes herramientas de investigación de la función de un gen particular, esto es, el análisis de interacciones genéticas. Dentro de los organismos, generalmente la información genética se encuentra en los cromosomas, y está representada en la estructura química de moléculas de ADN particulares.
+
+Los genes codifican la información necesaria para sintetizar proteínas, que a su vez, juegan un gran papel influyendo (aunque, en muchos casos, no lo determinan completamente) el fenotipo final del organismo.
+
+La biología del desarrollo estudia el proceso por el que los organismos crecen y se desarrollan. Con origen en la embriología, la biología del desarrollo actual estudia el control genético del crecimiento celular, la diferenciación celular y la morfogénesis, que es el proceso por el que se llega a la formación de los tejidos, de los órganos y de la anatomía.
+
+Los organismos modelo de la biología del desarrollo incluyen el gusano redondo Caenorhabditis elegans, la mosca de la fruta Drosophila melanogaster, el pez cebra Brachydanio rerio, el ratón Mus musculus y la hierba Arabidopsis thaliana.
+Fisiología de los organismos
+
+La fisiología estudia los procesos mecánicos, físicos y bioquímicos de los organismos vivos, e intenta comprender cómo funcionan todas las estructuras como una unidad. El funcionamiento de las estructuras es un problema capital en biología.
+
+Tradicionalmente se han dividido los estudios fisiológicos en fisiología vegetal y animal, aunque los principios de la fisiología son universales, no importa qué organismo particular se está estudiando. Por ejemplo, lo que se aprende de la fisiología de una célula de levadura puede aplicarse también a células humanas.
+
+El campo de la fisiología animal extiende las herramientas y los métodos de la fisiología humana a las especies animales no humanas. La fisiología vegetal también toma prestadas técnicas de los dos campos.
+
+La anatomía es una parte importante de la fisiología y considera cómo funcionan e interaccionan los sistemas orgánicos de los animales como el sistema nervioso, el sistema inmunológico, el sistema endocrino, el sistema respiratorio y el sistema circulatorio. El estudio de estos sistemas se comparte con disciplinas orientadas a la medicina, como la neurología, la inmunología y otras semejantes. La anatomía comparada estudia los cambios morfofisiológicos que han ido experimentando las especies a lo largo de su historia evolutiva, valiéndose para ello de las homologías existentes en las especies actuales y el estudio de restos fósiles.
+
+Por otra parte, más allá del nivel de organización organísmico, la ecofisiología estudia los procesos fisiológicos que tienen lugar en las interacciones entre organismos, a nivel de comunidades y ecosistemas, así como de las interrelaciones entre los sistemas vivos y los inertes (como por ejemplo el estudio de los ciclos biogeoquímicos o los intercambios biosfera-atmósfera).
+Diversidad y evolución de los organismos
+En el campo de la genética de poblaciones la evolución de una población de organismos puede representarse como un recorrido en un paisaje adaptativo. Las flechas indican el flujo de la población sobre el espacio de adaptación y los puntos A, B y C representarían máximos de adaptabilidad locales. La bola roja indica una población que evoluciona desde una baja adaptación hasta la cima de uno de los máximos de adaptación.
+
+La biología de la evolución trata el origen y la descendencia de las especies, así como su cambio a lo largo del tiempo, esto es, su evolución. Es un campo global porque incluye científicos de diversas disciplinas tradicionalmente orientadas a la taxonomía. Por ejemplo, generalmente incluye científicos que tienen una formación especializada en organismos particulares, como la teriología, la ornitología o la herpetología, aunque usan estos organismos como sistemas para responder preguntas generales de la evolución. Esto también incluye a los paleontólogos que a partir de los fósiles responden preguntas acerca del modo y el tiempo de la evolución, así como teóricos de áreas tales como la genética de poblaciones y la teoría de la evolución. En los años 90 la biología del desarrollo hizo una reentrada en la biología de la evolución desde su exclusión inicial de la síntesis moderna a través del estudio de la biología evolutiva del desarrollo. Algunos campos relacionados que a menudo se han considerado parte de la biología de la evolución son la filogenia, la sistemática y la taxonomía.
+
+Las dos disciplinas tradicionales orientadas a la taxonomía más importantes son la botánica y la zoología. La botánica es el estudio científico de las plantas. La botánica cubre un amplio rango de disciplinas científicas que estudian el crecimiento, la reproducción, el metabolismo, el desarrollo, las enfermedades y la evolución de la vida de la planta.
+
+La zoología es la disciplina que trata el estudio de los animales, incluyendo la fisiología, la anatomía y la embriología. La genética común y los mecanismos de desarrollo de los animales y las plantas se estudia en la biología molecular, la genética molecular y la biología del desarrollo. La ecología de los animales está cubierta con la ecología del comportamiento y otros campos.
+Clasificación de la vida
+
+El sistema de clasificación dominante se llama taxonomía de Linneo, e incluye rangos y nomenclatura binomial. El modo en que los organismos reciben su nombre está gobernado por acuerdos internacionales, como el Código Internacional de Nomenclatura Botánica (CINB o ICBN en inglés), el Código Internacional de Nomenclatura Zoológica (CINZ o ICZN en inglés) y el Código Internacional de Nomenclatura Bacteriana (CINB o ICNB en inglés). En 1997 se publicó un cuarto borrador del biocódigo (BioCode) en un intento de estandarizar la nomenclatura en las tres áreas, pero no parece haber sido adoptado formalmente. El Código Internacional de Clasificación y Nomenclatura de Virus (CICNV o ICVCN en inglés) permanece fuera del BioCode.
+Organismos en interacción
+
+La ecología estudia la distribución y la abundancia de organismos vivos y las interacciones de estos organismos con su entorno. El entorno de un organismo incluye tanto su hábitat, que se puede describir como la suma de factores abióticos locales como el clima y la geología, así como con los otros organismos con los que comparten ese hábitat. Las interacciones entre organismos pueden ser inter- o intraespecíficas, y estas relaciones se pueden clasificar según si para cada uno de los agentes en interacción resulta beneficiosa, perjudicial o neutra.
+
+Uno de los pilares fundamentales de la ecología es estudiar el flujo de energía que se propaga a través de la red trófica, desde los productores primarios hasta los consumidores y detritívoros, perdiendo calidad dicha energía en el proceso al disiparse en forma de calor. El principal aporte de energía a los ecosistemas es la energía proveniente del sol, pero las plantas (en ecosistemas terrestres, o las algas en los acuáticos) tienen una eficiencia fotosintética limitada, al igual que los herbívoros y los carnívoros tienen una eficacia heterotrófica. Ésta es la razón por la que un ecosistema siempre podrá mantener un mayor número y cantidad de herbívoros que de carnívoros, y es por lo que se conoce a las redes tróficas también como "pirámides", y es por esto que los ecosistemas tienen una capacidad de carga limitada (y la misma razón por la que se necesita mucho más territorio para producir carne que vegetales).
+
+Los sistemas ecológicos se estudian a diferentes niveles, desde individuales y poblacionales (aunque en cierto modo puede hablarse de una "ecología de los genes", infraorganísmica), hasta los ecosistemas completos y la biosfera, existiendo algunas hipótesis que postulan que esta última podría considerarse en cierto modo un "supraorganismo" con capacidad de homeostasis. La ecología es una ciencia multidisciplinar y hace uso de muchas otras ramas de la ciencia, al mismo tiempo que permite aplicar algunos de sus análisis a otras disciplinas: en teoría de la comunicación se habla de Ecología de la información, y en marketing se estudian los nichos de mercado. Existe incluso una rama del pensamiento económico que sostiene que la economía es un sistema abierto que debe ser considerado como parte integrante del sistema ecológico global.
+
+La etología, por otra parte, estudia el comportamiento animal (en particular de animales sociales como los insectos sociales, los cánidos o los primates), y a veces se considera una rama de la zoología. Los etólogos se han ocupado, a la luz de los procesos evolutivos, del comportamiento y la comprensión del comportamiento según la teoría de la selección natural. En cierto sentido, el primer etólogo moderno fue Charles Darwin, cuyo libro La expresión de las emociones en los animales y hombres influyó a muchos etólogos posteriores al sugerir que ciertos rasgos del comportamiento podrían estar sujetos a la misma presión selectiva que otros rasgos meramente físicos.
+
+El especialista en hormigas E. O. Wilson despertó una aguda polémica en tiempos más recientes con su libro de 1980 Sociobiología: La Nueva Síntesis, al pretender que la sociobiología debería ser una disciplina matriz, que partiendo de la metodología desarrollada por los etólogos, englobase tanto a la psicología como a la antropología o la sociología y en general a todas las ciencias sociales, ya que en su visión la naturaleza humana es esencialmente animal. Este enfoque ha sido criticado por autores como el genético R. C. Lewontin por exhibir un reduccionismo que en última instancia justifica y legitima las diferencias instituidas socialmente.
+
+La etología moderna comprende disciplinas como la neuroetología, inspiradas en la cibernética y con aplicaciones industriales en el campo de la robótica y la neuropsiquiatría. También toma prestados muchos desarrollos de la teoría de juegos, especialmente en dinámicas evolutivas, y algunos de sus conceptos más populares son el de gen egoísta, creado por Richard Dawkins o el de meme.
+Véase también
+
+    Portal:Biología. Contenido relacionado con Biología.
+    Biólogos famosos
+    Historia de la biología
+    Anexo:Premio Nobel en Fisiología o Medicina
+    Vida
+    Ciencias de la vida
+    Biología cuántica
+
+Referencias
+
+    Union Internationale de Spéléologie. «UIS Commissions and Working Groups». https://www.uis-speleo.org/. Consultado el 7 de agosto de 2018.
+    http://www.ecured.cu/index.php/Biolog%C3%ADa_Epistemol%C3%B3gica
+    Real Academia Española y Asociación de Academias de la Lengua Española (2014). «Histoquímica». Diccionario de la lengua española (23.ª edición). Madrid: Espasa. ISBN 978-84-670-4189-7.
+
+Bibliografía
+
+    Buican, Denis (1995). Historia de la biología, Madrid, Acento Editorial.
+    Campbell, N. (2000). Biology: Concepts and Connections [3.ª ed.]. Benjamin/Cummings. Libro de texto de nivel universitario (en inglés).
+    Kimball, J. W. Kimball's Biology Pages. Libro de texto on-line (en inglés).
+    Maddison, David R. The Tree of Life. Proyecto distribuido y multi-autor con información sobre filogenia y biodiversidad.
+    Margulis, L. y K. N. Schwartz (1985). Cinco reinos. Guía ilustrada de los phyla de la vida sobre la Tierra. Barcelona, Labor.
+    Otto, James H. y Towle, Albert. (1992). Biología moderna. [11.ª ed.]. McGraw Hill/ Interamericana de México. México D.F., México. ISBN 0-03-071292-0.
+    Tudge, Colin. La variedad de la Vida. Historia de todas las criaturas de la tierra. Un extenso y prolijo manual que recoge la clasificación de todos los grupos importantes que existen, o han existido, sobre la tierra.
+    VV. AA. (2004). Biología general [4.ª ed.]. Ediciones Universidad de Navarra. Barañáin, España. ISBN 84-313-0719-6.
+
+Enlaces externos
+
+    Wikimedia Commons alberga una categoría multimedia sobre Biología.
+
+    Wikiquote alberga frases célebres de o sobre Biología.
+
+    Wikcionario tiene definiciones y otra información sobre biología.
+
+    Wikinoticias tiene noticias relacionadas con Biología.
+
+    Wikiversidad alberga proyectos de aprendizaje sobre Biología.
+    www.biologia.org Portal con recursos sobre biología.
+    Herreriana. Revista en línea con temas sobre biología.
+    Biología y Bioética.
+    BioScripts. Recursos informáticos para biólogos.
+    Action Bioscience.org en inglés y en español.
+
+
+    Datos: Q420
+    Multimedia: Biology
+    Citas célebres: Biología
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

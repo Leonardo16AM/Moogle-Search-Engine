@@ -2,34 +2,41 @@
 
 <PageTitle>Moogle!</PageTitle>
 
-<h1>🔍 Moogle!</h1>
+<h1 class="title"> Moogle!</h1>
 
-<input class="p-1 my-4" @bind="query" placeholder="Introduzca su búsqueda">
+<input class="srch" @bind="query" placeholder="Introduzca su búsqueda">
 
-<button type="default" class="btn btn-primary" @onclick="RunQuery">🔍 Buscar</button>
+<button type="default" class="btn btn-primary" @onclick="RunQuery">Buscar</button>
 
 @if (!string.IsNullOrEmpty(result.Suggestion)) {
     <div class="suggestion">
-        <p>¿Quisite decir <strong><a href="#">@result.Suggestion</a></strong>?</p>
+        <p>¿Quisiste decir <strong><a class="sugg" href="#">@result.Suggestion</a></strong>?</p>
     </div>
 }
 
 <ul class="results">
 @foreach (var item in result.Items()) {
-    <li>
+    <li class="listt">
         <div class="item">
-            <p class="title">@item.Title</p>
+            <p class="ftitle">@item.Title</p>
             <p>... @item.Snippet ...</p>
+            <p class="fscore">... @item.Score ...</p>
         </div>
     </li>
 }
 </ul>
 
+
+<footer>
+    <p class="footerr"> Leonardo Artiles Montero 2022 [ github.com/Leonardo16AM ]</p>
+</footer>
+
 @code {
     private string query = "";
     private SearchResult result = new SearchResult();
+    private search_engine engine=new search_engine();
 
-    private void RunQuery() {
-        result = Moogle.Query(query);
+    private void RunQuery(){
+        result = Moogle.Query(query,ref engine);
     }
 }

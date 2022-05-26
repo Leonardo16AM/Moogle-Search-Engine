@@ -1,0 +1,235 @@
+Ada Lovelace
+
+Augusta Ada King, Condesa de Lovelace (Londres, 10 de diciembre de 1815-íd., 27 de noviembre de 1852), registrada al nacer como Augusta Ada Byron y conocida habitualmente como Ada Lovelace, fue una matemática, informática y escritora británica, célebre sobre todo por su trabajo acerca de la calculadora de uso general de Charles Babbage, la denominada máquina analítica. Entre sus notas sobre la máquina, se encuentra lo que se reconoce hoy como el primer algoritmo destinado a ser procesado por una máquina, por lo que se la considera como la primera programadora de ordenadores.
+Ada Lovelace
+Información personal
+Nombre de nacimiento	Augusta Ada Byron
+Nacimiento	10 de diciembre de 1815
+Londres (Reino Unido)
+Fallecimiento	27 de noviembre de 1852 (36 años)
+Marylebone (Londres, Reino Unido)
+Causa de la muerte	Cáncer uterino
+Lugar de sepultura	Church of St. Mary Magdalene, Hucknall (Nottingham, Reino Unido)
+Nacionalidad	Reino Unido de Gran Bretaña e Irlanda y británica
+Familia
+Padres	George Gordon Byron
+Anne Isabella Byron
+Cónyuge	
+
+    William King-Noel, 1st Earl of Lovelace
+    William King-Noel, 1st Earl of Lovelace (1835-1852)
+
+Educación
+Alumna de	
+
+    Mary Somerville
+    Augustus De Morgan
+
+Información profesional
+Ocupación	Matemática, programadora, poeta, informática teórica, inventora, traductora, escritora e ingeniera
+Área	Matemáticas e informática
+Empleador	
+
+    Universidad de Cambridge
+
+Seudónimo	A. A. L.
+
+Dedujo y previó la capacidad de los ordenadores para ir más allá de los simples cálculos de números, mientras que otros, incluido el propio Babbage, se centraron únicamente en estas capacidades.
+
+Su madre, Anne Isabella Noel Byron, fue matemática y activista política y social. Su padre fue el conocido poeta George Byron.
+
+Su posición social y su educación la llevaron a conocer a científicos importantes como Andrew Crosse, Sir David Brewster, Charles Wheatstone, Michael Faraday y al novelista Charles Dickens, relaciones que aprovechó para llegar más lejos en su educación. Entre estas relaciones se encuentra Mary Somerville, que fue su tutora durante un tiempo, además de amiga y estímulo intelectual. Ada Byron se refería a sí misma como una científica poetisa y como analista (y metafísica).
+
+A una edad temprana, su talento matemático la condujo a una relación de amistad prolongada con el matemático inglés Charles Babbage, y concretamente con la obra de Babbage sobre la máquina analítica. Entre 1842 y 1843, tradujo un artículo del ingeniero militar italiano Luigi Menabrea sobre la máquina, que complementó con un amplio conjunto de notas propias, denominado simplemente Notas. Estas notas contienen lo que se considera como el primer programa de ordenador, esto es, un algoritmo codificado para que una máquina lo procese. Las notas de Lovelace son importantes en la historia de la computación.
+Biografía
+Infancia
+
+Ada Lovelace era la única hija legítima de Anna Isabella y del poeta Lord Byron. Nació el domingo 10 de diciembre de 1815. El 5 de enero del año siguiente, a causa de las desavenencias con su marido, su madre abandonó el hogar llevándosela con ella mientras Byron dormía. Annabella se instaló con Ada en una casa que tenían sus padres en Seaham, Durham. El 25 de abril de 1816 su padre abandonó Inglaterra huyendo de sus acreedores y del escándalo que se cernía sobre él por los rumores de incesto. Meses más tarde, Annabella presentó una demanda de separación. Durante los ocho años que Lord Byron estuvo fuera de su país hasta su muerte escribía con frecuencia a Augusta y preguntaba por la hija de ambos.
+Ada Lovelace de niña. Retrato de Alfred d'Orsay en 1822, se mantuvo en la universidad de Somerville en Oxford.
+
+Desde niña Ada despertó el interés de una sociedad en la que se vivían continuos escándalos. Su madre puso mucho empeño en protegerla, pero solo lo consiguió hasta cierto punto.
+
+Lady Byron quería darle una educación esmerada a su hija, muy parecida a la que ella misma había recibido, pero más exigente. Ada no se podía relacionar con otros niños sin la previa aprobación de su madre, por lo que la mayor parte de su infancia la pasó sola o con adultos. Su educación empezó cuando era muy pequeña; a los cuatro años ya tenía preceptores e institutrices. A los ocho años (en 1824) la jornada normal de Ada comenzaba con clase de música a las 10.00 de la mañana, a las 11.15 tocaba lectura de francés, a las 11.30 clase de aritmética, a las 13.30 hacía deberes, a las 15.15 música otra vez y a las 16.30 finalizaba con ejercicios de francés. Lady Byron le impuso una disciplina estricta basada en un sistema de recompensas y castigos, y también buscando el estímulo intelectual con lecturas y relaciones con intelectuales. Puso mucho empeño en que su hija aprendiera matemáticas, disciplina que ella misma practicaba. En este contexto, Ada conoce a la matemática y científica escocesa Mary Somerville, que durante un tiempo fue su tutora. Somerville, en tanto que mujer ciéntifica, se convierte en un importante estímulo y gran influencia en su vida, y además de compartir aficiones científicas existe entre ellas una gran complicidad.
+
+A medida que Ada se iba haciendo mayor, su madre pasaba temporadas fuera de casa, en balnearios o en el campo.
+
+Tuvo mala salud, sufrió muchas de las infecciones infantiles y le dolía la cabeza frecuentemente. A los siete años contrajo una enfermedad grave, que la mantuvo postrada durante meses. A los catorce quedó paralítica de las piernas debido a un sarampión, lo cual hizo que dedicara largas horas al estudio y a la lectura.
+
+Cuando Ada tenía 8 años se conoció la muerte de su padre en Grecia, en abril de 1824. Lady Byron se interesó por estrechar lazos con su familia política. El nuevo y sexto lord Byron mantuvo una buena relación con Annabella; este tenía un hijo pequeño un año menor que Ada. Annabella indujo a Ada a escribir una carta a su primo con la esperanza de unir de nuevo a la familia.
+Adolescencia
+
+En junio de 1826, Ada, que entonces tenía diez años, viajó por primera vez fuera de Inglaterra. Partió con todo un grupo (en los que se incluía su madre) y el viaje duró 15 meses, durante los cuales Ada disfrutó de todo lo nuevo que veían sus ojos, de todo lo que escuchaba, descubría, etc. En el otoño de 1827 acabó su viaje y se instalaron directamente en Bifrons, una mansión de campo muy alejada de la ciudad. En ese palacio no ocurría nada del interés de Ada; además su madre estaba frecuentemente fuera de casa, así que la niña se dedicaba a estudiar y a dejar volar su imaginación. Ese mismo año Ada empezó su formación en matemáticas. A los once años estaba obsesionada con la idea de volar; estaba decidida a inventar una máquina que le permitiera moverse por el aire. Pasó años estudiando la anatomía de las aves y creando bocetos de su soñado proyecto.
+
+A principios de 1829 contrajo una enfermedad grave, posiblemente sarampión, que le causó parálisis en las piernas y la obligó a guardar cama hasta mediados de 1832. Ese periodo la marcó profundamente, pero siguió estudiando. El año de su recuperación se mudó con su madre a Fordhook Manor, una mansión situada en Ealing, una aldea a 12 km del centro de Londres, muy popular entre la aristocracia londinense. Durante este tiempo Ada vivió su primer romance; se enamoró de un joven, hijo de John Hamble, que la ayudaba con los estudios dos horas al día. Vivieron su historia de amor en secreto durante algún tiempo, pero cuando lady Byron se enteró prohibió al joven entrar en su casa y relacionarse con su hija.
+Edad adulta
+
+El año que cumplía dieciocho años, Ada empezó a asistir a las fiestas de la alta sociedad londinense. En uno de sus primeros eventos conoció a Charles Babbage, la única persona que compartiría su fascinación por las cuestiones de mecánica. Babbage tenía cuarenta y cuatro años en ese momento y era conocido, entre otras cosas, por el proyecto que tenía entre manos: una calculadora mecánica que funcionaba sin la ayuda de un humano, llamada la máquina diferencial.
+
+En esos tiempos en Inglaterra se hizo famoso un avanzado artilugio, el telar de seda de Joseph Marie Jacquard, con el que ella estaba totalmente fascinada. Le maravillaba la posibilidad de idear y construir máquinas, como la de Jacquard, que permitieran al ser humano controlar procesos que anteriormente eran incontrolables o lo eran de una forma errática.
+
+Ada y Babbage se hicieron amigos. Su relación la estimuló intelectualmente; le ayudó a avanzar en sus especulaciones sobre el cálculo hasta concebir una brillante idea: construir un telar de Jacquard aplicado a los números, o en otras palabras: una computadora.
+
+La máquina diferencial de Babbage tenía todos los elementos que entusiasmaban a Ada, y principalmente demostraba que un día las máquinas harían posible volar. La amistad entre el científico y la joven duró toda su vida; se escribieron cartas hasta la muerte de ella.
+
+En 1834 Ada se relacionaba mucho con William King, al que lady Byron había encargado guiar a su hija moralmente; también se encargó de enseñarle matemáticas. Fue durante esas clases cuando Ada se dio cuenta de que su pasión eran las matemáticas. Ya había encontrado la disciplina a la que aplicar su extraordinaria inteligencia. El verano de ese año Ada y su madre recorrieron el norte de Inglaterra, la zona industrial más importante, visitando muchas fábricas, donde pudieron ver el telar de Jacquard en funcionamiento. Durante esa época, madre e hija se relacionaban mucho con Mary Somerville, la matemática más famosa de su país.
+
+Ada ya era una habitual de la Corte victoriana y empezaba a asistir a diversos eventos en los que con frecuencia participaba en los bailes y encandilaba a muchos de sus asistentes, los cuales la describían como un ser encantador. Sin embargo, John Hobhouse, que había sido amigo de su padre, fue una excepción y la describió como «una joven estirada y demacrada pero con algún rasgo de su amigo, especialmente su boca». La descripción fue hecha después de su encuentro el 24 de febrero de 1834, en el que Ada dejó claro a Hobhouse que él no le gustaba, pero esta primera impresión no duró mucho tiempo y posteriormente se hicieron amigos.
+
+En la primavera de 1835 Ada conoció a William, lord King. El aristócrata era de una familia muy influyente desde el punto de vista político, social, intelectual y religioso. Poseía varias propiedades importantes y el título de lord tenía más de un siglo de antigüedad, así que lady Byron aprobó su relación. El 8 de julio de 1835 se casaron, convirtiéndose ella en lady King. Su residencia pasó a ser una gran propiedad en Ockham Park (Ockham, Surrey), junto con otra en el Fiordo de Torridon y una más en Londres. Pasó su luna de miel en la Mansión Worthy, situada en Asley Combe (Somerset), la cual había sido construida en 1799 como un refugio de caza y que el propio King amplió con motivo de su luna de miel. Posteriormente la casa se convertiría en su retiro de verano tras volver a ser ampliada.
+
+El matrimonio tuvo tres hijos: Byron, el heredero, nacido el 12 de mayo de 1836; Anne Isabella (llamada Annabella, posteriormente Lady Anne Blunt), nacida el 22 de septiembre de 1837; y Ralph Gordon, nacido el 2 de julio de 1839.
+
+Inmediatamente después del nacimiento de Annabella, Lady King experimentó «una dolorosa y prolongada enfermedad que tardó meses en curarse». Entre 1843 y 1844 su madre le encargó a William Benjamin Carpenter la tarea de educar a los hijos de Ada y de actuar como un «instructor moral»" para su propia hija.
+
+En 1837, William King pasó de barón a vizconde de Ockham y tomó otro título, el de conde de Lovelace. A partir de ese momento, Ada siempre firmaría como Ada Lovelace.
+
+En sus primeros años de matrimonio Ada fue muy feliz, pero la falta de ambición de su marido acabó cansándola, por lo que se refugió de nuevo en las matemáticas. Decidió que necesitaba buscar un buen mentor que la guiara en su trabajo intelectual y en el verano de 1840 su madre le encontró uno: el famoso matemático y lógico Augustus de Morgan. Con su ayuda, Ada progresó rápidamente, pero De Morgan tuvo un problema como profesor. Informó a lady Byron de que su hija no se contentaba con aprender las lecciones como cualquier dama; sus preguntas iban mucho más allá de lo que trataban en las clases y él no quería fomentar esa actitud. De Morgan creía (como casi toda la sociedad en esos tiempos) que las mujeres no estaban hechas para estudiar los fundamentos de las matemáticas ni de otras ciencias. Las preguntas de Ada, según él, eran impropias de una mujer. En definitiva, le inquietaba que su alumna pensase como un hombre. Pero lady Byron y lord Lovelace hicieron caso omiso de la advertencia del profesor y ella continuó con sus estudios.
+
+Durante este tiempo en el que se vio obligada a compaginar su faceta de esposa y madre, el intercambio epistolar con su antigua tutora y amiga, Mary Somerville, representan un gran desahogo para Ada. En esta correspondencia Lovelace hace partícipe a su amiga de su frustración después de la maternidad y de las dificultades para continuar con sus estudios.
+
+En 1841 la madre de Ada les contó a su hija y a Medora Leigh que el padre de ambas era el propio Lord Byron, y el 27 de febrero Ada le escribió a su madre: «no estoy ni siquiera sorprendida. De hecho, simplemente me ha confirmado aquello de lo que, por años, no tuve la más mínima duda, pero hubiera considerado impropio por mi parte el haberle insinuado de alguna manera lo que sospechaba». Ada no culpó a su padre por la incestuosa relación sino a Augusta Leigh: «me temo que ella es inherentemente más malvada de lo que él fue nunca». Esto no evitó que la madre de Ada intentara destruir la imagen que esta tenía de su padre, sino que la llevó a hacerlo con mayor intensidad.
+
+En la década de 1840 Ada protagonizó algunos escándalos, debidos, en primer lugar, a sus afectuosas relaciones con otros hombres. Mantuvo desde 1844 una relación secreta y posiblemente ilícita con el hijo de Andrew Crosse, John; se conoce con poca certeza este asunto ya que Crosse padre destruyó la mayor parte de la correspondencia después de la muerte de Ada como parte de un acuerdo legal.
+
+A pesar de lo que cambió su vida después de casarse, Ada y Babbage mantuvieron su amistad; él los visitaba a ella y a su marido con frecuencia. En el otoño de 1840, Babbage volvió de su estancia en Italia preocupado por su proyecto; cada vez le parecía más difícil llegar a construir el prototipo totalmente operativo de la máquina analítica (o diferencial). No tenía suficientes recursos para financiarla, pero era optimista porque un reconocido científico italiano iba a escribir un artículo sobre su proyecto.
+Obra
+
+En 1841, Ada escribe a Babbage una carta dejando claro que está interesada en colaborar con él. A Babbage le pareció bien la idea, así ella empezó traduciendo el artículo del científico italiano, Luigi Federico Menabrea. Con la traducción del texto ella tenía dos objetivos: dar a conocer el valioso trabajo de su amigo y cumplir su sueño de alcanzar una vida intelectual que la elevase por encima de las exigencias de la maternidad y el matrimonio. Finalmente llamó a su trabajo Notas, que consistía en su propio estudio sobre la máquina analítica, y como anexo, la traducción del artículo del italiano. Babbage la asesoró, pero Ada fue enteramente la autora de ese trabajo.
+
+Ada dedica gran parte de su estudio a describir con un lenguaje muy técnico cómo funcionaría la máquina analítica, pero también ofrece una serie de observaciones que dejan clara su aportación teórica. Ella distinguía con claridad entre datos y procesamiento; este pensamiento era revolucionario en su tiempo. Ada aspiraba a crear la informática, que ella llamaba la ciencia de las operaciones. Se dio cuenta de las aplicaciones prácticas de la máquina analítica y llegó incluso a vislumbrar la posibilidad de digitalizar la música con cedés y sintetizadores. Escribió en las Notas:
+
+    " Supongamos, por ejemplo, que las relaciones fundamentales entre los sonidos, en el arte de la armonía, fueran susceptibles de tales expresiones y adaptaciones: la máquina podría componer piezas musicales todo lo largas y complejas que se quisiera".
+
+Ada tenía una idea clara: la máquina analítica y el telar de Jacquard vienen a hacer lo mismo. Una frase clave donde se expresa esto es:
+
+    "Puede decirse que la primera teje dibujos algebraicos, del mismo modo que el telar de Jacquard teje flores y hojas".
+
+Ada expresa con claridad las tres funciones que podía cumplir el invento de Babbage: procesar fórmulas matemáticas expresadas con símbolos, hacer cálculos numéricos (su objetivo primordial) y dar resultados algebraicos en notación literal.
+
+Babbage y Ada concebían la máquina analítica de manera muy distinta. Al primero no le interesaban demasiado sus consecuencias prácticas. A Ada, por el contrario, le obsesionaban las aplicaciones del invento. Ella fue la primera en intuir lo que el invento de Babbage significaba para el progreso tecnológico. Entendió que la tecnología utilizada en el telar de Jacquard y en la máquina analítica podía aplicarse a todo proceso que implicara tratar datos: de este modo abría camino a una nueva ciencia, la de la computación de la información.
+El primer programa de ordenador
+Diagrama de Lovelace de la nota G, el primer algoritmo informático publicado
+
+Las Notas fueron etiquetadas alfabéticamente de la A a la G. La nota G estaba dedicada a los números de Bernoulli; en este apartado Ada describe con detalle las operaciones mediante las cuales las tarjetas perforadas "tejerían" una secuencia de números en la máquina analítica. Este código está considerado como el primer algoritmo específicamente diseñado para ser ejecutado por un ordenador, aunque nunca fue probado ya que la máquina nunca llegó a construirse. Pero podemos concluir que la nota G es el algoritmo de Ada, así que a ella se la reconoce como la primera programadora de la historia, la primera persona en describir un lenguaje de programación de carácter general interpretando las ideas de Babbage, pero reconociéndosele la plena autoría y originalidad de sus aportes.
+
+Las Notas de Ada se publicaron en la revista Scientific Memoirs en septiembre de 1843, con el título de "Sketch of the analytical engine invented by Charles Babbage". Ella firmó con sus iniciales A. A. L., pero pronto se supo a quién correspondían. Su condición femenina perjudicó su trabajo y los científicos no se lo tomaron en serio.
+
+En sus notas, Ada dice que la «máquina analítica» sólo podía dar información disponible que ya era conocida: vio claramente que no podía originar conocimiento. Su trabajo fue olvidado por muchos años, atribuyéndole exclusivamente un papel de transcriptora de las notas de Babbage, cuando en verdad, el trabajo de Lovelace fue, como relata Plant, "mucho más influyente -y tres veces más extenso- que el texto del que se suponía que era meramente accesorio". Este mismo caracterizó su aporte al llamarla su intérprete; sin embargo recientes investigaciones muestran la originalidad de su punto de vista sobre las instrucciones necesarias para el funcionamiento de la «máquina analítica». En efecto, Lovelace "había creado el primer ejemplo de lo que más tarde se conocería como programación de computadoras" y es, por lo tanto, la primera programadora de la historia de la computación.
+
+En 1953, aproximadamente cien años después de su muerte, las notas de Ada sobre la máquina analítica de Babbage fueron publicadas bajo su nombre real, estando ahora reconocida dicha máquina como un modelo temprano de ordenador y las notas de Ada como una descripción de su software.
+Más allá de los números
+
+En sus notas, Lovelace enfatizó la diferencia entre el motor analítico y las máquinas de cálculo previas, en particular su capacidad de ser programado para resolver problemas de cualquier complejidad. Se dio cuenta de que el potencial del dispositivo se extendía mucho más allá del mero procesamiento numérico intensivo (number crunching). En sus notas, ella escribió:
+
+[La máquina analítica] podría actuar sobre otras cosas además del número, se encontraron objetos cuyas relaciones fundamentales mutuas podrían ser expresadas por las de la ciencia abstracta de las operaciones, y que también deberían ser susceptibles de adaptaciones a la acción de la notación operativa y el mecanismo del motor ... Suponiendo, por ejemplo, que las relaciones fundamentales de los sonidos en la ciencia de la armonía y de la composición musical fueran susceptibles de tal expresión y adaptaciones, el motor podría componer piezas de música elaboradas y científicas de cualquier grado de complejidad o medida.
+
+Este análisis fue un desarrollo importante de las ideas previas sobre las capacidades de los dispositivos informáticos y anticipó las implicaciones de la informática moderna cien años antes de que se realizaran. Walter Isaacson atribuye la idea de Lovelace sobre la aplicación de la informática a cualquier proceso basado en símbolos lógicos a una observación sobre textiles: "Cuando vio algunos telares mecánicos que usaban tarjetas perforadas para dirigir el tejido de hermosos diseños, le recordó cómo la máquina de Babbage usaba tarjetas perforadas para hacer cálculos. "[75] Esta visión es considerada importante por escritores como Betty Toole y Benjamin Woolley, así como por el programador John Graham-Cumming, cuyo proyecto Plan 28 tiene el objetivo de construir la primera máquina analítica completa.
+
+De acuerdo con el historiador de informática y especialista en Babbage Doron Swade:
+
+"Ada vio algo que Babbage en cierto sentido no pudo ver. En el mundo de Babbage, sus máquinas estaban limitadas por el número ... Lo que vio Lovelace -lo que vio Ada Byron- fue que ese número podría representar entidades distintas además de una cantidad. Entonces, una vez que tenías una máquina para manipular números, si esos números representaban otras cosas, letras, notas musicales, entonces la máquina podía manipular símbolos de los qué el número era un ejemplo, según las reglas. Ésta es la transición fundamental de una máquina que es un procesador de números a una máquina para manipular símbolos de acuerdo con las reglas. Es la transición fundamental del cálculo al cómputo -computación de propósito general- y mirando hacia atrás desde la superioridad actual de la informática moderna. si estamos buscando y examinando la historia para esa transición, entonces esa transición fue hecha explícitamente por Ada en ese documento de 1843."
+Polémica sobre sus contribuciones
+
+Aunque a Lovelace se la conoce como la primera programadora informática, algunos biógrafos e historiadores de la informática afirman lo contrario.
+
+Allan G. Bromley, en el artículo de 1990 Difference and Analytical Engines:
+
+    "Todos menos uno de los programas citados en sus notas habían sido preparados por Babbage entre tres y siete años antes. La excepción fue preparada por Babbage para ella, aunque detectó un "error" en ella. No solo no hay evidencia de que Ada alguna vez haya preparado un programa para el motor analítico, sino que su correspondencia con Babbage muestra que no tenía el conocimiento para hacerlo."
+
+Bruce Collier, quien más tarde escribió una biografía de Babbage, escribió en su tesis de doctorado de la Universidad de Harvard de 1970 que Lovelace "hizo una contribución considerable para publicitar la Máquina Analítica, pero no hay evidencia de que haya avanzado en el diseño o la teoría de ninguna manera" .
+
+Eugene Eric Kim y Betty Alexandra Toole consideran "incorrecto" considerar a Lovelace como el primer programador de computadoras, ya que Babbage escribió los programas iniciales para su Motor Analítico, aunque la mayoría nunca se publicó. Bromley observa varias docenas de programas de muestra preparados por Babbage entre 1837 y 1840, todos sustancialmente anteriores a las notas de Lovelace. Dorothy K. Stein considera que las notas de Lovelace son "más un reflejo de la incertidumbre matemática del autor, los propósitos políticos del inventor y, sobre todo, del contexto social y cultural en el que se escribió, que un plan para una investigación científica".
+
+En su libro, Idea Makers, Stephen Wolfram defiende las contribuciones de Lovelace. Aunque reconoce que Babbage escribió varios algoritmos inéditos para Analytical Engine antes de las notas de Lovelace, Wolfram argumenta que "no hay nada tan sofisticado -o tan limpio- como el cálculo de Ada de los números de Bernoulli. Babbage ciertamente ayudó y comentó el trabajo de Ada, pero ella estaba definitivamente el conductor de eso ". Wolfram luego sugiere que el logro principal de Lovelace fue destilar de la correspondencia de Babbage "una exposición clara de la operación abstracta de la máquina, algo que Babbage nunca hizo".
+
+Doron Swade, un especialista en historia de la informática conocido por su trabajo en Babbage, analizó cuatro afirmaciones sobre Lovelace durante una conferencia sobre el motor analítico de Babbage:
+
+    Ella fue una genio matemática
+    Ella hizo una contribución influyente al motor analítico
+    Ella fue la primera programadora de computadoras
+    Ella fue una profetisa de la era de la informática
+
+Según él, solo el cuarto reclamo tenía "alguna sustancia en absoluto". Explicó que Ada era solo una "principiante prometedora" en lugar de genio en matemáticas, que comenzó a estudiar conceptos básicos de las matemáticas cinco años después de que Babbage concibió el motor analítico por lo que no pudo haber hecho contribuciones importantes, y que ella solo publicó el primer programa de computadora en vez de realmente escribirlo. Pero está de acuerdo con que Ada fue la única persona que vio el potencial del motor analítico como una máquina capaz de expresar entidades distintas de las cantidades.
+Últimos años
+
+A finales de la década de 1840, Ada se volvió adicta a las carreras de caballos y junto con algunos de sus amigos intentaron crear un modelo matemático que les ayudar a ganar grandes apuestas. El intento fue un absoluto fracaso, generándole a Ada miles de libras de deuda y provocando que uno de los miembros del grupo la chantajeara con informar a su marido, cosa que finalmente se vio forzada a confesarle. En la última época de su vida pasó continuos apuros económicos.
+
+En el verano de 1852, la salud de Ada empeoró mucho, llevaba años padeciendo agotamiento nervioso y debilidad general, pero no fue hasta ese año que aparecieron los primeros síntomas del cáncer de útero. La enfermedad duró varios meses, durante los cuales su madre tomó el control respecto a sus citas médicas y personales. Por influencia de su madre, decidió dejar de ser materialista y adoptó ideas religiosasque la llevaron a arrepentirse de su vida anterior.
+
+Finalmente, falleció a los treinta y seis años el 27 de noviembre de 1852, acompañada de lady Byron y de William.
+
+Fue enterrada, a petición suya, junto a su padre, en la parroquia del pueblo de Hucknall Torkard, en Nottinghamshire, cerca de la abadía de Newstead.
+Legado
+
+Sugirió el uso de tarjetas perforadas como método de entrada de información e instrucciones a la máquina analítica. Además introdujo una notación para escribir programas, principalmente basada en el dominio que Ada tenía sobre el texto de Luigi Menabrea de 1842 (que comentó personalmente completándolo con anotaciones que son más extensas que el texto mismo) sobre el funcionamiento del telar de Jacquard así como de la máquina analítica de Babbage. Es reseñable además su mención sobre la existencia de ceros o estado neutro en las tarjetas perforadas siendo que las tarjetas representaban para la máquina de Babbage números decimales y no binarios (8 perforaciones equivaldrían entonces a 8 unidades).
+
+También introdujo la posibilidad de que la máquina analítica no fuera solo capaz de realizar cálculos matemáticos, sino también de, entre muchas otras cosas, "producir arte" y componer música, literatura... de hecho, afirmaba que el invento sería capaz de realizar cualquier cosa que se le pidiera, siempre y cuando supiéramos cómo ordenárselo.
+Reconocimientos
+Una ilustración inspirada en el retrato de A. E. Chalon creado para la Iniciativa Ada, dedicada a la promoción de la tecnología de carácter abierto y las mujeres.
+
+El lenguaje de programación Ada, creado por el Departamento de Defensa de los Estados Unidos, fue nombrado así en homenaje a Ada Lovelace. El manual de referencia del lenguaje fue aprobado el 10 de diciembre de 1980, y al Estándar de Defensa de los Estados Unidos para el lenguaje MIL-STD-1815 se le dio el número del año de su nacimiento. Desde 1998, la British Computer Society ha premiado con la Lovelace Medal (medalla Lovelace) en su nombre y en 2008 iniciaron una competición anual para mujeres estudiantes de la informática. En Reino Unido, el BCSWomen Lovelace Colloquium —conferencia anual para universitarias— también lleva su nombre, Ada Lovelace.
+
+El día de Ada Lovelace (Ada Lovelace Day) es un evento anual celebrado el segundo martes de octubre cuyo objetivo es el de elevar el perfil de las mujeres en la ciencia, tecnología, ingeniería y matemáticas (las áreas STEM). Pretende visibilizar, dar reconocimiento y apoyo a las mujeres que trabajan en alguno de estos ámbitos, así como a sus descubrimientos e invenciones, introducir a las mujeres más jóvenes en el mundo de la ciencia y la tecnología y crear nuevos referentes femeninos. Esta jornada internacional, que se empezó a celebrar en 2009 gracias a Suw Charman-Anderson, cuenta con la organización de conferencias, talleres, concursos... en todo el mundo. El evento más representativo es el Ada Lovelace Day Live!, celebrado en Londres.
+
+La Iniciativa Ada es una organización sin ánimo de lucro dedicada a incrementar la participación y dedicación de las mujeres en la cultura libre y en los movimientos open source.
+
+El edificio B de la Escuela Politécnica Superior de la UAM, en la que se imparten los grados de Ingeniería Informática y de Ingeniería de Tecnologías y Servicios de Telecomunicación, recibe el nombre de Edificio B - Ada Lovelace. Así mismo, en la Universidad de Zaragoza se encuentra el edificio Ada Byron, en el que se imparten las mismas titulaciones que en el de la UAM.
+
+En el 197º aniversario de su nacimiento, Google le dedicó su Google Doodle. El doodle muestra a Lovelace trabajando en una fórmula entre imágenes que muestran la evolución de los ordenadores.
+Véase también
+
+    C
+    Máquina diferencial
+    Máquina analítica
+    Ada (lenguaje de programación)
+
+Referencias
+
+    Fuegi y Francis, 2003, pp. 16–26.
+    Phillips, Ana Lena (nov-dic 2011). «Crowdsourcing gender equity: Ada Lovelace Day, and its companion website, aims to raise the profile of women in science and technology». American Scientist 99 (6): 463.
+    «Ada Lovelace honoured by Google doodle», The Guardian, 10 de diciembre de 2012, consultado el 10 de diciembre de 2012.
+    Fuegi y Francis, 2003, pp. 19, 25.
+    Baldwin, Edward. «The Anti-Slavery Society Convention, 1840». National Portrait Gallery (en inglés). Archivado desde el original el 3 de marzo de 2016. Consultado el 2 de febrero de 2018. «Anne Isabella, Lady Byron (1792-1860), Wife of Lord Byron. Sitter in 7 portraits.»
+    Essinger, James (2016). «1». El algoritmo de Ada: La vida de Ada Lovelace, hija de lord Byron y pionera de la era informática. ALBA. Consultado el 11 de octubre de 2018.
+    Zafra, Remedios (2013). «II. Programar. Ada Byron». (h)adas. Mujeres que crean, programan, prosumen, teclean. Páginas de Espuma.
+    «Ada Byron, Countess of Lovelace», Women in Computer Science, American University of Bulgaria, archivado desde el original el 4 de febrero de 2013, consultado el 11 de octubre de 2013.
+    «Ada Byron, Countess of Lovelace, Analyst, Metaphysician, and Founder of Scientific Computing». SDSC/San Diego Supercomputer Centre. Consultado el 3 de febrero de 2013.
+    «Ada’s algorithm, la biografía de la mujer que imaginó la sociedad de la información en el siglo XIX». Microsiervos. 27 de julio de 2016. Archivado desde el original el 28 de julio de 2016. Consultado el 2 de febrero de 2018. «Así que cuando en el verano de 1833 ambas conocieron a Charles Babbage y este les habló de su Máquina de Diferencias a Ada no le costó nada ver la importancia y el potencial de esta, lo que la llevó a ir interesándose cada vez más por ella, dando lugar a una relación de amistad con el inventor que duraría, con sus altos y sus bajos, hasta la temprana muerte de Ada en 1852.»
+    Essinger, James (2014). «4». El algoritmo de Ada. Alba Editorial.
+    Essinger, James (2015). El algoritmo de Ada.
+    Essinger, James (2014). El algoritmo de Ada. ALBA.
+    Simonite, Tom (24 March 2009). «Short Sharp Science: Celebrating Ada Lovelace: the 'world's first programmer'». New Scientist. Retrieved 14 April 2012.
+    Lovelace, Ada (1961). On Sketch of the Analytical Engine Invented by Charles Babbage. En Morrison, P., & Morrison, E. (1961). Charles Babbage and his Calculating Engines. New York: Dover. p. pp. 225 – 297.
+    Plant, Sadie (1998). Ceros + Unos. Mujeres digitales + la nueva tecnocultura. Destino. p. 16.
+    Davis, Martin (2000). The universal computer: the Road from Leibniz to Turing. New York: W. W. Norton & Company. p. 178.
+    Fuegi y Francis, 2003.
+    Bromley, Allan G. Difference and Analytical Engines.
+    Woolley, 1999, pp. 361-362.
+    Woolley, 1999, p. 370.
+    «Mujeres que fueron pioneras en ciencia». Consultado el 17 de junio de 2013.
+    «Ada Lovelace, la programadora del romanticisme». Via empresa (en catalán). Consultado el 16 de diciembre de 2018.
+    Lovelace Lecture & Medal. BCS. Consultado el 2 de marzo de 2008.
+    Undergraduate Lovelace Colloquium, BCSWomen. Leeds. Archivado desde el original el 22 de abril de 2008. Consultado el 6 de marzo de 2008.
+    «BCSWomen Lovelace Colloquium». UK.
+    «FAQ». About. Finding Ada. Consultado el 10 de diciembre de 2012.
+    «Ada Lovelace Day – Celebrating the achievements of women in science, technology, engineering and maths». findingada.com. Consultado el 16 de diciembre de 2018.
+    Aurora, Valerie (13 de diciembre de 2011), «An update on the Ada Initiative», LWN, consultado el 5 de octubre de 2012
+    Universidad de Zaragoza. «Universidad de Zaragoza :: Situación geográfica». www.unizar.es. Consultado el 17 de enero de 2017.
+    «Google celebrates Ada Lovelace's 197th birthday with a doodle». The Times of India. Consultado el 10 de diciembre de 2012.
+
+Bibliografía
+
+    Baum, J. (1986). The Calculating Passion of Ada Byron. Archon Books. ISBN 0-208-02119-1.
+
+Enlaces externos
+
+    Wikimedia Commons alberga una categoría multimedia sobre Ada Lovelace.
+    Ada Lovelace, biografía en laflecha.net
+    (en inglés) La fascinante historia de Ada Lovelace (video)
+    El primer programador de la historia: Ada Lovelace (video)
+
+
+    Datos: Q7259
+    Multimedia: Ada Lovelace
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

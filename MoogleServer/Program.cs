@@ -1,10 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
-
-
 Console.WriteLine("==================== Scanning files ...");
-
 
 Console.WriteLine("Scanned files ");
 
