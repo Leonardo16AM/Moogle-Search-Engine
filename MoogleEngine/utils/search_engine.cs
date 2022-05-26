@@ -45,7 +45,7 @@ public class search_engine{
         model text_model=new model();
         text_model.build_from_lstr(s);
 
-        vector best=text_model.naive_search(wr)[0];
+        vector best=text_model.naive_search(wr,1,true)[0];
         best.full_text=wr;
         
         string ans=wr;
@@ -62,7 +62,7 @@ public class search_engine{
 
 
             if(  pos-last>190 && string_utils.is_mayus(wr[1]) ){
-                vector newv=text_model.naive_search(wr,1)[0];
+                vector newv=text_model.naive_search(wr,1,true)[0];
                 if( newv.angle_with<best_ang && !double.IsNaN(newv.angle_with) ){
                     best_ang=newv.angle_with;
                     ans=wr;
@@ -212,7 +212,7 @@ public class search_engine{
 
 
     public List<vector>  query(string s,int cant=5,bool fast=false){
-        
+        Console.WriteLine(s);
         if(fast==false){
             List<vector> result= model.naive_search(s,cant);
             result=operators(result,s);

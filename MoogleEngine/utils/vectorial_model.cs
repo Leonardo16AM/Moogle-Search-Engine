@@ -134,7 +134,7 @@ public class model{
             vectrs[i].path=files[i];
             vectrs[i].full_text=text;
         }
-        kdt.build(ref kdt.root,vectrs,0);
+        // kdt.build(ref kdt.root,vectrs,0);
     }
 
 
@@ -180,18 +180,21 @@ public class model{
         }
     }
 
+    public List<string>fast_prepare_string(string s){
+        List<string>norm_vector=string_utils.normalize_text(s);
+        return norm_vector;
+    }
+
 
     public List<string>prepare_string(string s){
         List<string>norm_vector=string_utils.normalize_text(s);
-    
-
         List<string>real_list=new List<string>();
 
         for(int i=0;i<norm_vector.Count;i++){
             double min_dist=100;
             string real=norm_vector[i];
             for(int j=0;j<words.Count;j++){
-                double dist=string_utils.edit_distance(norm_vector[i],words[j]);
+                double dist=string_utils.distance(norm_vector[i],words[j]);
                 if(dist<min_dist){
                     real=words[j];
                     min_dist=dist;
@@ -218,8 +221,15 @@ public class model{
     }
 
 
-    public List<vector> naive_search(string s,int cnt=5){
-        List<string>norm_vector=prepare_string(s);
+    public List<vector> naive_search(string s,int cnt=5,bool fast=false){
+        List<string>norm_vector=new List<string>();
+        
+        if(!fast)
+            norm_vector=prepare_string(s);
+        else
+            norm_vector=fast_prepare_string(s);
+        
+
         vector v=create_vector(norm_vector);
 
         for(int i=0;i<vectrs.Count;i++){
@@ -238,6 +248,7 @@ public class model{
 
 
     public void print(){
+        Console.WriteLine("\nVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV");
         Console.WriteLine("\n============= Printing model.original_texts ==============");
         for(int i=0;i<original_texts.Count;i++){
             Console.WriteLine(original_texts[i]);
@@ -273,6 +284,7 @@ public class model{
             }
             Console.WriteLine("\n_________________________________________");
         }
+        Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
     }
 
 
