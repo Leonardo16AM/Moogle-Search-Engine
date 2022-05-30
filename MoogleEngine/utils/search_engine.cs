@@ -213,6 +213,7 @@ public class search_engine{
 
 
     public List<vector>  query(string s,int cant=5,bool fast=false){
+        Console.WriteLine($"Words {model.words.Count}  Texts:{model.files.Count}");
         Console.WriteLine(s);
         if(fast==false){
             List<vector> result= model.naive_search(s,cant);
