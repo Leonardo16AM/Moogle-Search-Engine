@@ -5,7 +5,10 @@ public class search_engine{
     public model model=new model();
 
     public search_engine(){
+        
+        var watch=System.Diagnostics.Stopwatch.StartNew();
         model.build_from_txts();
+        Console.WriteLine($"Build Time: { watch.ElapsedMilliseconds } ");
     } 
     private vector quick_snippet(vector v,string s, int snippet_length=200){
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
@@ -136,7 +139,6 @@ public class search_engine{
         int cnt=0;
         double ret=1.0;
 
-        string_utils.print_list(qnorm);
         for(int i=0;i<qnorm.Count;i++){
             if(qnorm[i]=="*"){
                 del=true;
@@ -162,8 +164,7 @@ public class search_engine{
 
         double ret=1.0;
 
-        string_utils.print_list(qnorm);
-        for(int i=0;i<qnorm.Count;i++){
+          for(int i=0;i<qnorm.Count;i++){
             if(qnorm[i]=="~"){
                 int min=100000;
                 string s1="",s2="";    
@@ -224,13 +225,11 @@ public class search_engine{
             List<vector>nres=new List<vector>();
             for(int i=0;i<result.Count;i++){
                 if(result[i].angle_with>0.00000001){
+                    Console.WriteLine(result[i].path);
                     nres.Add(result[i]);
                 }
             }
-            result=nres;
-
-
-            return result;
+            return nres;
         }else{    
             List<vector> result= model.naive_search(s);    
             return result;

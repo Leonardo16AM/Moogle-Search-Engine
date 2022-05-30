@@ -1,6 +1,10 @@
 ﻿namespace MoogleEngine;
 
-
+// Add synonims
+// Fix Snippet, some error
+// Fix kdtree build
+// Make kdtree query
+// Separate cases
 
 public static class Moogle{
     public static SearchResult Query(string query,ref search_engine engine) {

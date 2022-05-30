@@ -1,0 +1,326 @@
+Lógica
+1- Conjuntos:
+    • Definiciones:
+    • Conjuntos: Se denotan por letras mayúsculas del alfabeto latino: A, B, C,..., X, Y, Z.
+    • Elementos: Se denotan por letras minúsculas de los alfabetos latino o griego: a, b, c,..., x, y, z, α, β, γ,..., χ, ψ, ω.
+
+    • Conjuntos Distinguidos:
+    • Conjunto Universo o Dominio (U): Conjunto fijado que incluye todos los objetos matemáticos que nos ocupan en un momento dado. Todos los demás que se definan son subconjuntos de él (A  U).
+
+    • Conjunto Nulo o Vacío (): Para todo conjunto A se cumple que:
+    •   A
+    •   U
+
+    • Conjunto Potencia: Dado el conjunto A, se define un nuevo conjunto que denominaremos conjunto potencia de A, este se denota por 2A y tiene como elementos todos los subconjuntos de A, es decir: 
+    • Definición: 2A = {B | B ⊆ A}
+
+    • Ejemplo: Sea A = {Pedro, Luisa, Ana}, entonces 2A = {{Pedro}, {Luisa}, {Ana}, {Pedro, Luisa}, {Pedro, Ana}, {Luisa, Ana}, A, ∅}.
+
+    • Representaciones de Conjuntos:
+    • Extensional: Representando todos los elementos del conjunto (uno x uno).
+    • Ejemplo:
+A = {1,3}	B = {{1,3}, {1}, {3}}.
+
+    • Intencional: Representando las características esenciales del conjunto en cuestión.
+    • Ejemplo:
+C = {x: x es un número primo}     D= {x: x}.
+
+
+    • Relaciones entre conjuntos:
+    • Relación de pertenencia: 
+    • xA : “x pertenece a A” ó “x es el elemento de A”
+    • xA: negación.
+
+    • Relación de inclusión: 
+    • AB: “A está incluido en B” ó “A es un subconjunto de B” si cada elemento de A es también un elemento de B.
+    • AB: negación.
+
+    • Relación de igualdad: 
+    • A = B: A y B son iguales si se cumple que AB y BA
+    • AB: negación.
+
+    • Operaciones con Conjuntos:
+    • Operación Unión ():
+    • Si se tienen dos conjuntos A y B entonces se cumple que:
+    • A B={x/ xA o xB } 
+    • Ejemplo: 
+Dados los conjuntos:
+A= {a, b}
+B= {c, d}
+C= {a, e, f}
+
+    • Operación Intersección ( ):
+    • Si se tienen dos conjuntos A y B entonces se cumple que:
+    • A B={x/ xA y xB } 
+
+    • Ejemplo: 
+Dados los conjuntos:
+A= {a, b}
+B= {c, d}
+C= {a, e, f}
+
+    • Operación Diferencia o Complemento Relativo ():
+    • Si se tienen dos conjuntos A y B entonces se cumple que:
+    • A B={x/ xA y xB } 
+
+    • Ejemplo: 
+Dados los conjuntos:
+A= {a,b}
+B= {c,d}
+C= {a,e,f}
+
+
+    • Operación Complemento Absoluto(AC):
+    • Si se tiene un conjunto A entonces se cumple que:
+    • AC ={x/ xUA} 
+
+    • Ejemplo: 
+Dados los conjuntos:
+U= {1, 2, 3, 4,5}
+A= {5,1}
+    • C = U
+    • UC = 
+
+    • Operación Partición de un Conjunto:
+    • Definición: Se denomina partición de un conjunto A, una clase B del conjunto A que cumple las siguientes condiciones: 
+    i. B
+    ii. Ai y Aj, ij; Ai   Aj = 
+    iii. La unión de todos los conjuntos de B da como resultado el conjunto A.
+    • Ejemplo: 
+Dados los conjuntos A y B, donde B es una partición de A:	
+A= {1, 2, 3, 4,5}
+B= {{5,1}, {2,3} y {4}}
+    • Leyes fundamentales de las operaciones entre Conjuntos:
+    1. Ley de idempotencia:
+1.a) 
+1.b)
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+2- Relaciones:
+    • Conjunto Producto:
+    • Definición: Sean A y B conjuntos no necesariamente distintos, entonces se denomina conjunto producto o producto cartesiano de A por B y se denota mediante A X B al conjunto que tiene como elementos los pares ordenados de la forma <x, y> tales que x  A y y  B , es decir:
+    • A X B = {<x, y> | x  A y  y  B}.
+    • Ejemplos:
+a) Sea A = {1, 2, 3} y B =  {a, b}, entonces:
+A X B = {<1, a>, <1, b>, <2, a>, <2, b>, <3, a>, <3, b>}.
+B X A = {<a, 1>, <b, 1>, <a, 2>, <b, 2>, <a, 3>, <b, 3>}
+
+    • Propiedades:
+    1.  (A  B) X C = (A X C)  (B X C)
+    2.  (A  B) X C = (A X C)  (B X C)
+    3.  (A - B) X C = (A X C) - (B X C)
+
+    • Dominio de una Relación:
+    • Definición: Se denomina Dominio de una Relación a las x pertenecientes a un par <x, y> que pertenece a dicha Relación, y se define como:
+    • dom(R) = {x / existe y tal que <x, y>  R}.
+
+    • Ejemplos:
+Dado el siguiente conjunto R determina su dominio:
+R= {<a, b>, <c, d>, <a, e>}
+dom(R) = {a, c}.
+
+    • Codominio (Imagen) de una Relación:
+    • Definición: Se denomina Codominio de una Relación a las y pertenecientes a un par <x, y> que pertenece a dicha Relación, y se define como:
+    • Codom(R) = {y / existe x tal que <x, y>  R}.
+
+    • Ejemplos:
+Dado el siguiente conjunto R determina su Codominio:
+R= {<a, b>, <c, d>, <a, e>}
+Codom(R) = {b, d, e}.
+
+
+    • Operaciones con Relaciones:
+    • Inversa de una Relación:
+    • Definición: Sea R una relación, entonces se define a partir de R una nueva relación denominada inversa de R y denotada por R-1 de la manera siguiente:
+R-1 =  {<x, y> | <y, x>  R}
+
+    • Ejemplos:
+    a) Sea R = {<1, 1>, <1,2>, <1, 3>, <1, 4>}, entonces:
+R-1= {<1, 1>, <2, 1>, <3, 1>, <4, 1>}.
+    b) La inversa de la relación > en  es la relación <.
+    c) padre denota en español una relación binaria en el conjunto de los seres humanos. La inversa de padre es la relación hijo.
+
+
+    • Compuesta de una Relación:
+    • Si R y S son relaciones, entonces se define a partir de R y S una nueva relación denominada la compuesta de R con S, denotada por S o R, de la manera siguiente:
+S o R = {<x, y> | Existe z tal que <x, z>  R y <z, y>  S}
+
+
+    • Ejemplos:
+a) Sea R = {<1, 2>, <2, 3>, <3, 4>} y S = {<2, 3>, <3, 4>, <4, 1>}, entonces
+S o R = {<1, 3>, <2, 4>, <3, 1>}
+R o S = {<2, 4>, <4, 2>}.
+b) Considere las relaciones binarias entre los seres humanos hermana y padre, entonces verifique mediante ejemplos que la compuesta hermana B padre define la relación binaria tía.
+
+
+    • Propiedades de las Relaciones:
+    • Reflexividad:
+    • Definición: Una relación R en A es reflexiva si y sólo si para toda x  A se tiene que <x, x>  R.
+
+    • Ejemplos:
+a) Sea A = {1, 2, 3}, entonces la relación:
+R = {<1, 1>, <1, 2>, <2, 2>, <2, 1>, <3, 2>, <2, 3>, <3, 3>} es reflexiva en A.
+b) La relación ≥ en  es reflexiva.
+c) La relación “ser tan alto como” es reflexiva en cualquier conjunto de seres humanos.
+
+    • Irreflexiva:
+    • Definición: Una relación R en A es irreflexiva si y sólo si para toda x  A se tiene que <x, x>  R.
+
+    • Ejemplos:
+    a) La relación < (“ser menor que”) es irreflexiva en.
+    b) La relación  es irreflexiva entre conjuntos.
+c)   La relación “ser padre de” es irreflexiva en el conjunto de los seres humanos.
+
+
+    • Simetría
+    • Definición: Una relación R en A es simétrica si y sólo si para toda x  A,
+ y  A y si se tiene <x, y>  R, entonces tambien <y, x>  R.
+
+    • Ejemplos:
+    a) Sea A= {1, 2, 3}, entonces la relación:
+R = {<1, 1>, <1, 2>, <2, 2>, <2, 1>, <3, 2>, <2, 3>, <3, 3>} es simétrica en A.
+    b) La relación = (de igualdad) es simétrica en.
+    c) La relación ser tan alto como es simétrica en cualquier conjunto de seres humanos.
+
+
+    • Asimétrica
+    • Definición: Una relación R en A es asimétrica si y sólo si para toda x  A, 
+y  A se tiene que <x, y>  R, entonces <y, x>  R.
+
+    • Ejemplos:
+    a) La relación ser sucesor inmediato de es asimétrica en  .
+    b) La relación < es asimétrica en.
+    c) La relación  es asimétrica entre conjuntos.
+
+
+    • Antisimétrica:
+    • Definición: Una relación R en A es antisimétrica si y sólo si para toda x  A, y  A se tiene que <x, y>  R, <y, x>  R entonces x=y.
+
+    • Ejemplos:
+    a) La relación ≥ (”mayor o igual que”) es antisimétrica en.
+    b) Verifique que la relación  es antisimétrica en el conjunto potencia 2A de cualquier conjunto A.
+
+
+    • Transitividad:
+    • Definición: Una relación R en A es transitiva si y sólo si para toda x  A, y  A, z  A se tiene que si <x, y>  R y <y, z>  R, entonces <x, z>  R.
+
+    • Ejemplos:
+    a) La relación ≥ (”mayor o igual que”) es transitiva en.
+    b) La relación  es transitiva entre conjuntos.
+    c) La relación “ser tan alto como” es transitiva en cualquier conjunto de seres  humanos.
+
+
+    • Intransitiva:
+    • Definición: Una relación R en A es intransitiva si y sólo si para toda x  A, y  A, z  A se tiene que si <x, y>  R y <y, z>  R, entonces <x, z>  R.
+
+    • Ejemplos:
+        a) La relación ser padre de es intransitiva en el conjunto de los seres humanos.
+        b) La relación ser sucesor inmediato es intransitiva en N.
+
+
+    • Relaciones de Equivalencia:
+    • Definición: Una relación R en A es de equivalencia si y solo si es reflexiva, simétrica y transitiva en A.
+
+    • Relaciones de Orden:
+    • Orden Parcial: 
+    • Definición: Una relación R en un conjunto A, se denomina un orden parcial de A si y sólo si R es reflexiva, antisimétrica y transitiva en A.
+
+    • Ejemplos:
+    a) La relación  es un orden parcial en cualquier clase de conjuntos.
+    b)   La relación ≤ es un orden parcial en  .
+
+    • Orden Total o Lineal: 
+    • Definición: Una relación R en un conjunto A, se denomina un orden total (lineal) de A si y sólo si R es un orden parcial y además para toda xA y yA se tiene xRy y yRx.
+
+    • Ejemplos:
+    a) La relación ≤ en es un orden total, es decir, para cualquier par de números reales x, y, se cumple que x ≤ y o y ≤ x.  
+
+
+3- Funciones:
+Las relaciones permiten dar una definición abstracta del concepto de función usual en matemática y computación. Este concepto se define de manera intuitiva diciendo que f es una función definida en un conjunto A y con valores en un conjunto B, lo cual se denota por:
+f: A  B
+si  f “asocia” (“hace corresponder”) a cada elemento de A uno y sólo un elemento de B.	
+
+    • Definición: Sean las funciones f: A  B y g: A  B, se tiene que f = g si y sólo si para toda x  A, f(x) = g(x).
+
+3.1 Tipos de funciones:
+    • Inyectiva: 
+    • Definición: Una función f: A  B se denomina inyectiva si y sólo si para toda x  A, y  A, si f(x) = f (y), entonces x = y. Es decir, una función es inyectiva si a cada uno de los elementos distintos de su dominio le corresponden imágenes distintas.
+
+    • Ejemplos:
+a) f = {< x, ax > | x   } (función exponencial),
+b) f = {<x, x3 + 2> | x  } (función cubo)
+son funciones inyectivas, mientras que:
+c) f = {<x, x2> | x   } (función cuadrado)
+d) f = {<x, |x|> | x   } (función valor absoluto)
+no son funciones inyectivas.
+
+
+    • Sobreyectiva: 
+    • Definición: Una función f: A  B se denomina sobreyectiva si y sólo si para toda y, y  B, se tiene que existe x, xA tal que y= f(x). Es decir si f[A]=B
+
+    • Ejemplos:
+        a) f = {<x,x> | x   }, la función identidad en  es sobreyectiva.
+        b) Sea f = { <x, x/|x|> | x  - {0}} , la función es sobreyectiva si se toma
+               B = {-1, 1}  .
+
+
+    • Biyectiva
+    • Definición: Una función f: A  B se denomina biyectiva si y sólo si f es inyectiva y sobreyectiva a la vez
+
+    • Ejemplos:
+    a) La función identidad definida en cualquier conjunto A es biyectiva. 
+    b) La función f = {<<x, y>, <y, x>> | <x, y>  } es biyectiva. 
+
+
+        3.2  Operaciones con funciones:
+    • Inversa de la Función:
+    • Sea la función f: A  B, su inversa  no es necesariamente una función. Sin embargo, si f es biyectiva entonces se puede verificar que  es una función también biyectiva.
+
+    • Ejemplos:
+    a) La inversa  de la función identidad f de cualquier conjunto A es biyectiva y es igual a f.
+    b)  Sea f = { <x, 1/2x> | x  }, entonces dom(f) = { x | x  y -1 < x ≤ 2 } y
+       f[dom(f)] = { y | y  y -1/2 ≤ y ≤ +1 }.
+
+    • Compuesta de la Función:
+    • Sean las funciones f: A  B y g: B  C, entonces g o f es una función con dominio en A e imagen en C, es decir, g o f: A  C.
+    • En notación de conjuntos ya se vio que g o f = {<x, y> | Existe z tal que <x, z> f y <z,y>  g }.
+
+    • Ejemplos:
+    a) Sea A = {1, 2, 3}, B = {3, 4, 5} y C = {2, 4, 6}. Sean f: A  B y g: B  C, definidas de la siguiente manera:
+    • f = {<1, 3>, <2, 4>, <3, 5>},
+    • g = {<3, 2>, <4, 6>, <5, 6>}.
+
+La función g o f: A  C se determina de la manera siguiente:
+g o f(1) = g(f(1)) = g(3) = 2
+g o f(2) = g(f(2)) = g(4) = 6
+g o f(3) = g(f(3)) = g(5) = 6
+
+Luego:
+g o f = { <1, 2>, <2, 6> <3, 6> }.
+
+
+b) Sea f = {< x, x2 > | x   } y g = {<x, 1/x> | x  }, entonces:
+g o f = { < x, 1/x2 > | x   } y f o g = { < x, (1/x)2 > | x  } .
+
+De los ejemplos a) y b) se desprende que, en general, g o f  f o g, es decir, la composición de funciones no es una operación conmutativa. Sin embargo, la composición de funciones es asociativa, es decir:
+g o (f o h) = (g o f) o h = g o f o h.
+
+Si f y g son funciones inyectivas (sobreyectivas, biyectivas, respectivamente), entonces f o g es también inyectiva, sobreyectiva, biyectiva, respectivamente.

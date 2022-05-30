@@ -205,7 +205,7 @@ public class model{
                     real_list.Add(real);
                 }
             }else{
-                if(min_dist<= 1/norm_vector[i].Length ){
+                if(min_dist<= 1/(norm_vector[i].Length+3) ){
                     real_list.Add(real);
                 }
             }

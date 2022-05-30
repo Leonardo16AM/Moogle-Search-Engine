@@ -7,6 +7,7 @@ public class vector{
     public Dictionary<string,int> wordcount= new Dictionary<string,int>();
     public List<double> vec=new List<double>();
     public double angle_with=100.0;
+    
 
 
     public bool find(string s){
