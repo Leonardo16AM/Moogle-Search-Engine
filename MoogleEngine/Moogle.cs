@@ -14,16 +14,22 @@ public static class Moogle{
 
         var watch=System.Diagnostics.Stopwatch.StartNew();
 
-        int number_of_results=5;
-        string real_query=engine.model.recomendation(query);
-        List<vector> result = engine.query(real_query,number_of_results);
+        // int number_of_results=5;
+        // List<vector> result = engine.query(real_query,number_of_results);
 
+        model text_model=new model();
+        text_model.build_from_txts();
+        
+        string real_query=text_model.recomendation(query);
+        text_model.build_matrix_for_query(real_query);
+        
+        text_model.print();
         Console.WriteLine($"Elapsed Time Miliseconds: { watch.ElapsedMilliseconds } ");
 
-        SearchItem[] items = new SearchItem[result.Count];
-        for(int i=0;i<result.Count;i++){
-            items[i]=new SearchItem(result[i].path.Substring(11), result[i].full_text, (float)result[i].angle_with );
-        }
+        SearchItem[] items = new SearchItem[0];
+        // for(int i=0;i<result.Count;i++){
+        //     items[i]=new SearchItem(result[i].path.Substring(11), result[i].full_text, (float)result[i].angle_with );
+        // }
         return new SearchResult(items, real_query);
     }
 }

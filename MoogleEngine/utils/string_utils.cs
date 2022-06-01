@@ -164,3 +164,36 @@ public static class string_utils{
         Console.WriteLine();
     }   
 }
+
+
+
+public class string_map{
+    Dictionary<string,int> mp = new Dictionary<string,int>();
+
+    public int val(string s){
+        if(mp.ContainsKey(s)){
+            return mp[s];
+        }else{
+            mp.Add(s,0);
+        }
+        return 0;
+    }
+
+
+    public bool Contains(string s){
+        if(mp.ContainsKey(s)){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    public void Add(string s,int val){
+        if(mp.ContainsKey(s)){
+            mp[s]+=val;
+        }else{
+            mp.Add(s,val);
+        }
+    }
+
+}
