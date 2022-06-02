@@ -1,4 +1,5 @@
 // Code by Leonardo Artiles Montero 2022
+namespace MoogleEngine;
 
 
 

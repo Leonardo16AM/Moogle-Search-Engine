@@ -1,4 +1,6 @@
 // Code by Leonardo Artiles Moontero 2022
+namespace MoogleEngine;
+
 
 
 public class trie{

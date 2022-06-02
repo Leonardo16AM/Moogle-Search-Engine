@@ -7,9 +7,9 @@ public class SearchItem{
         this.Score = score;
     }
 
-    public string Title { get; private set; }
+    public string Title { get; set; }
 
-    public string Snippet { get; private set; }
+    public string Snippet { get;  set; }
 
-    public float Score { get; private set; }
+    public float Score { get; set; }
 }
