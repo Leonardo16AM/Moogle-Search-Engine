@@ -1,14 +1,16 @@
+// Code by Leonardo Artiles Montero 2022
 
+namespace MoogleEngine;
 
 
 public class search_engine{
-    // public model model=new model();
+    public model model=new model();
 
     public search_engine(){
         
         var watch=System.Diagnostics.Stopwatch.StartNew();
         Console.WriteLine($" Reading files ...");
-        // model.build_from_txts();
+        model.build_from_txts();
         Console.WriteLine($"Build Time: { watch.ElapsedMilliseconds } ");
     } 
 
@@ -214,30 +216,30 @@ public class search_engine{
     // } 
 
 
-    // public List<vector>  query(string s,int cant=5,bool fast=false){
-    //     Console.WriteLine($"Words {model.words.Count}  Texts:{model.files.Count}");
-    //     Console.WriteLine(s);
-    //     // if(fast==false){
-    //     //     List<vector> result= model.naive_search(s,cant);
-    //     //     result=operators(result,s);
+    public List<SearchItem>  query(string s,int cant=7,bool fast=false){
+        Console.WriteLine($"Words {model.words.Count}  Texts:{model.txt_names.Count}");
+        Console.WriteLine(s);
+        if(fast==false){
+            List<SearchItem> result= model.query(s,cant);
+            // result=operators(result,s);
 
-    //     //     for(int i=0;i<result.Count;i++){
-    //     //         result[i]=snippet(result[i],s);
-    //     //     }
+            // for(int i=0;i<result.Count;i++){
+            //     result[i]=snippet(result[i],s);
+            // }
             
-    //     //     List<vector>nres=new List<vector>();
-    //     //     for(int i=0;i<result.Count;i++){
-    //     //         if(result[i].angle_with>0.00000001){
-    //     //             Console.WriteLine(result[i].path);
-    //     //             nres.Add(result[i]);
-    //     //         }
-    //     //     }
-    //     //     return nres;
-    //     // }else{    
-    //         List<vector> result= model.naive_search(s);    
-    //         return result;
-    //     // }
-    // }
+            // List<vector>nres=new List<vector>();
+            // for(int i=0;i<result.Count;i++){
+            //     if(result[i].angle_with>0.00000001){
+            //         Console.WriteLine(result[i].path);
+            //         nres.Add(result[i]);
+            //     }
+            // }
+            return result;
+        }else{    
+            List<SearchItem> result= model.query(s,cant);  
+            return result;
+        }
+    }
 
 
 }
