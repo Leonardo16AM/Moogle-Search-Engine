@@ -25,7 +25,7 @@ public class search_engine{
 
         string wr="";
         int pos=0;
-        while( pos<snippet_length && pos<v.Snippet.Length){
+        while( pos<snippet_length && pos<ntext.Length){
             wr+=ntext[pos]+" ";
             pos++;
         }
@@ -40,7 +40,7 @@ public class search_engine{
     //     string wr="";
     //     int beg=0;
     //     int pos=0;
-    //     while( pos<snippet_length && pos<v.full_text.Length){
+    //     while( pos<snippet_length && pos<ntext.Length){
     //         wr+=ntext[pos]+" ";
     //         pos++;
     //     }
@@ -201,7 +201,7 @@ public class search_engine{
     } 
 
 
-    public List<SearchItem>  query(string s,int cant=7,bool fast=false){
+    public List<SearchItem>  query(string s,int cant=7,bool fast=true){
         Console.WriteLine($"Words {model.words.Count}  Texts:{model.txt_names.Count}");
         Console.WriteLine(s);
         if(fast==false){
@@ -222,6 +222,9 @@ public class search_engine{
             return nres;
         }else{    
             List<SearchItem> result= model.query(s,cant);  
+            for(int i=0;i<result.Count;i++){
+                result[i]=quick_snippet(result[i],s);
+            }
             return result;
         }
     }

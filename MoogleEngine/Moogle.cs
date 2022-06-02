@@ -3,7 +3,9 @@
 // Add synonims
 // Fix Snippet, some error
 // Separate cases
+// make that Only load files when inits
 
+// bug finding "mojito" (error en quick snippet)
 public static class Moogle{
     public static SearchResult Query(string query,ref search_engine engine) {
 

@@ -15,8 +15,6 @@ public class model{
     public string_map word_index= new string_map(); //index of every word in dict
     
     List<List<int>> frec_on_text =new List<List<int>>(); // frecuency of word on text
-    List<List<double>> tf_idf =new List<List<double>>(); // frecuency of word on text
-
 
     numci.matrix query_matrix= new numci.matrix();
     numci.vector query_vector= new numci.vector();
@@ -27,7 +25,7 @@ public class model{
 
 
 
-    public List<double> TFIDF(List<string> wds,List<int> frec){
+    public List<double> TFIDF(List<string> wds,List<int> frec,int text_size){
         List<double>ret=new List<double>();
 
         for(int i=0;i<wds.Count;i++){
@@ -41,9 +39,9 @@ public class model{
                 int df=word_df[index];
                 
                 if(full_texts.Count!=1)
-                    ret[i]=((double)f/((double)wds.Count))*Math.Log((double)full_texts.Count/df);
+                    ret[i]=((double)f/((double)text_size))*Math.Log((double)full_texts.Count/df);
                 else
-                    ret[i]=((double)f/((double)wds.Count));
+                    ret[i]=((double)f/((double)text_size));
             }
         }
         for(int i=0;i<ret.Count;i++){
@@ -114,10 +112,8 @@ public class model{
 
         for(int i=0;i<proc_texts.Count;i++){
             frec_on_text.Add(new List<int>());
-            tf_idf.Add(new List<double>());
             for(int j=0;j<words.Count;j++){
                 frec_on_text[i].Add(0);
-                tf_idf[i].Add(0.0);
             }
             for(int j=0;j<proc_texts[i].Count;j++){
                 string s=proc_texts[i][j];
@@ -127,8 +123,6 @@ public class model{
                 }
                 frec_on_text[i][index]++;
             }
-            
-            tf_idf[i]=TFIDF(words,frec_on_text[i]);
         }
 
     }
@@ -162,10 +156,8 @@ public class model{
 
         for(int i=0;i<proc_texts.Count;i++){
             frec_on_text.Add(new List<int>());
-            tf_idf.Add(new List<double>());
             for(int j=0;j<words.Count;j++){
                 frec_on_text[i].Add(0);
-                tf_idf[i].Add(0.0);
             }
             for(int j=0;j<proc_texts[i].Count;j++){
                 string s=proc_texts[i][j];
@@ -175,8 +167,6 @@ public class model{
                 }
                 frec_on_text[i][index]++;
             }
-            
-            tf_idf[i]=TFIDF(words,frec_on_text[i]);
         }
     }
 
@@ -229,6 +219,9 @@ public class model{
         List<string> normq=string_utils.normalize_text(q);
         if(!fast) normq=prepare_string(q);
         
+        Console.Write("Searching: ");
+        string_utils.print_list(normq);
+
         string_map wd_frec=new string_map();
         
         List<string> qwds=string_utils.remove_duplicates(normq);
@@ -253,9 +246,9 @@ public class model{
                     txt_f[j]+=frec_on_text[i][index];
                 }
             }
-            query_matrix.Add_list(TFIDF(qwds,txt_f) );
+            query_matrix.Add_list(TFIDF(qwds,txt_f,proc_texts[i].Count) );
         }
-        query_vector.vec=TFIDF(qwds,frec);
+        query_vector.vec=TFIDF(qwds,frec,normq.Count);
     }
 
 
@@ -315,15 +308,6 @@ public class model{
             for(int i=0;i<words.Count;i++){
                 int index=word_index.val(words[i]);
                 Console.WriteLine($" {words[i]} : { frec_on_text[j][index] }");
-                Console.WriteLine("_________________________________________");
-            }
-        }
-        Console.WriteLine("\n============= Printing tf_idf ==============");
-        for(int j=0;j<full_texts.Count;j++){
-            Console.WriteLine(full_texts[j]);
-            for(int i=0;i<words.Count;i++){
-                int index=word_index.val(words[i]);
-                Console.WriteLine($" {words[i]} : { tf_idf[j][index] }");
                 Console.WriteLine("_________________________________________");
             }
         }
