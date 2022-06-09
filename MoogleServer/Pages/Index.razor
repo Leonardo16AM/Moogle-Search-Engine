@@ -2,7 +2,7 @@
 
 <PageTitle>Moogle!</PageTitle>
 
-<h1 class="title"> Moogle!</h1>
+<h1 class="title">Moogle!</h1>
 
 <input class="srch" @bind="query" placeholder="Introduzca su búsqueda">
 
@@ -19,7 +19,7 @@
     <li class="listt">
         <div class="item">
             <p class="ftitle">@item.Title</p>
-            <p>... @item.Snippet ...</p>
+            <p>... @((MarkupString)item.Snippet) ...</p>
             <p class="fscore">... @item.Score ...</p>
         </div>
     </li>
@@ -35,7 +35,6 @@
     private string query = "";
     private SearchResult result = new SearchResult();
     private search_engine engine=new search_engine();
-
     private void RunQuery(){
         result = Moogle.Query(query,ref engine);
     }

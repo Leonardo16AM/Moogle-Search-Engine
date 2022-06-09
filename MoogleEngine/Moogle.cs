@@ -1,11 +1,11 @@
 ﻿namespace MoogleEngine;
 
 // Add synonims
-// Fix Snippet, some error
 // Separate cases
 // make that Only load files when inits
 
 // bug finding "mojito" (error en quick snippet)
+
 public static class Moogle{
     public static SearchResult Query(string query,ref search_engine engine) {
 
@@ -18,7 +18,10 @@ public static class Moogle{
         SearchItem[] items = new SearchItem[ans.Count];
         for(int i=0;i<ans.Count;i++){
             items[i]=ans[i];
+            items[i].Title=items[i].Title.Substring(11);
         }
         return new SearchResult(items, real_query);
     }
 }
+
+

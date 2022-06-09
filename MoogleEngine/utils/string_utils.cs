@@ -106,7 +106,42 @@ public static class string_utils{
         return lst;
     }   
 
+    public static List<string> text_to_list(string text){        
+        // Converts a string to a list  strings
+       
+        string ktext="";
+        for(int i=0;i<text.Length;i++){
+            if( !is_letter(text[i]) &&  text[i]!='-' ){
+                ktext+=" "+text[i]+" ";
+            }else{
+                ktext+=text[i];
+            }
+        }   
 
+        text=ktext;
+       
+        char[] delimiters = {' ', '\t', '\n' };
+        string[] ntext=text.Split(delimiters);
+
+        List<string> lst=new List<string>();
+            
+        for(int i=0;i<ntext.Length;i++){
+            string s=ntext[i];
+           if(s!="") lst.Add(s);
+        }
+
+        return lst;
+    }   
+
+    public static bool is_same(string a,string q){      
+        a=a.ToLower();
+        int ed=edit_distance(a,q);
+        if(q.Length>1 && ed<=1){
+            return true;
+        }
+        return false;
+    }   
+    
 
     public static List<string> get_word_list(List<string> list){        
         // return list of different strings

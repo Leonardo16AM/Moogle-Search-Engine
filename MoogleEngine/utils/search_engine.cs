@@ -12,7 +12,10 @@ public class search_engine{
         
         var watch=System.Diagnostics.Stopwatch.StartNew();
         Console.WriteLine($" Reading files ...");
-        model.build_from_txts();
+        if(!model.built){    
+            model.build_from_txts();
+            model.built=true;
+        }
         Console.WriteLine($"Build Time: { watch.ElapsedMilliseconds } ");
     } 
 
@@ -33,7 +36,7 @@ public class search_engine{
         return v;
     }
 
-    // private vector snippet(vector v,string s, int snippet_length=200){
+    // private SearchItem snippet(SearchItem v,string s, int snippet_length=200){
     //     char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
     //     string[] ntext=v.full_text.Split(delimiters);
 
@@ -46,7 +49,7 @@ public class search_engine{
     //     }
 
     //     model text_model=new model();
-    //     text_model.build_from_lstr(s);
+    //     text_model.build_from_list(s);
 
     //     vector best=text_model.naive_search(wr,1,true)[0];
     //     best.full_text=wr;
@@ -201,6 +204,35 @@ public class search_engine{
     } 
 
 
+    public SearchItem highlight(SearchItem v,string q){
+        List<string>words=string_utils.normalize_text(q);
+        string new_snip="";
+        string snip=v.Snippet;
+
+        List<string>sep_text=string_utils.text_to_list(snip);
+
+        for(int i=0;i<5;i++){
+            Console.WriteLine(sep_text[i]);
+        }
+        for(int j=0;j<words.Count;j++){
+            for(int i=0;i<sep_text.Count;i++){
+                if(sep_text[i].Length>=2){
+                    if(string_utils.is_same( sep_text[i],words[j]) ){
+                        sep_text[i]="<mark>"+sep_text[i]+"</mark>";
+                    }
+
+                }
+            }
+        }
+        for(int i=0;i<sep_text.Count;i++){
+            new_snip+=sep_text[i]+" ";
+        }
+
+        v.Snippet=new_snip;
+        return v;
+    }
+
+
     public List<SearchItem>  query(string s,int cant=7,bool fast=true){
         Console.WriteLine($"Words {model.words.Count}  Texts:{model.txt_names.Count}");
         Console.WriteLine(s);
@@ -224,6 +256,7 @@ public class search_engine{
             List<SearchItem> result= model.query(s,cant);  
             for(int i=0;i<result.Count;i++){
                 result[i]=quick_snippet(result[i],s);
+                result[i]=highlight(result[i],s);
             }
             return result;
         }

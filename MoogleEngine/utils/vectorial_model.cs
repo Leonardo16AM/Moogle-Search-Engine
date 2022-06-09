@@ -20,7 +20,7 @@ public class model{
     numci.vector query_vector= new numci.vector();
     trie suffix_trie=new trie();
     
-
+    public bool built=false;
 
 
 
@@ -200,11 +200,14 @@ public class model{
         }
         norm_vector=real_list;
 
+
         List<string>famil=new List<string>();
         for(int i=0;i<norm_vector.Count;i++){
             famil=string_utils.join_lists(famil,suffix_trie.family_words(norm_vector[i]));
         }
+
         norm_vector=famil;
+
         return norm_vector;
     }
 
