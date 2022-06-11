@@ -85,7 +85,6 @@ public class search_engine{
 
 
     private double op_not_in(List<string> tnorm,List<string> qnorm,string_map word_count){
-
         bool del=false;
         for(int i=0;i<qnorm.Count;i++){
             if(qnorm[i]=="!"){
@@ -93,7 +92,7 @@ public class search_engine{
             }else{
                 if(del){
                     if(word_count.Contains(qnorm[i])){
-                        return 0.0;
+                        return 0;
                     }
                     del=false;
                 }
@@ -211,9 +210,6 @@ public class search_engine{
 
         List<string>sep_text=string_utils.text_to_list(snip);
 
-        for(int i=0;i<5;i++){
-            Console.WriteLine(sep_text[i]);
-        }
         for(int j=0;j<words.Count;j++){
             for(int i=0;i<sep_text.Count;i++){
                 if(sep_text[i].Length>=2){
@@ -233,7 +229,7 @@ public class search_engine{
     }
 
 
-    public List<SearchItem>  query(string s,int cant=7,bool fast=true){
+    public List<SearchItem>  query(string s,int cant=7,bool fast=false){
         Console.WriteLine($"Words {model.words.Count}  Texts:{model.txt_names.Count}");
         Console.WriteLine(s);
         if(fast==false){
@@ -251,13 +247,15 @@ public class search_engine{
                     nres.Add(result[i]);
                 }
             }
-            return nres;
-        }else{    
-            List<SearchItem> result= model.query(s,cant);  
+            
             for(int i=0;i<result.Count;i++){
                 result[i]=quick_snippet(result[i],s);
                 result[i]=highlight(result[i],s);
             }
+
+            return nres;
+        }else{    
+            List<SearchItem> result= model.query(s,cant); 
             return result;
         }
     }
