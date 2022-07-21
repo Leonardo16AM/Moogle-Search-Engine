@@ -200,13 +200,17 @@ public class model{
         }
         norm_vector=real_list;
 
+        List<string>synonims=new List<string>();
+
+        for(int i=0;i<norm_vector.Count;i++){
+            synonims=string_utils.join_lists(synonims,from_api.get_synonims(norm_vector[i]));
+        }
 
         List<string>famil=new List<string>();
         for(int i=0;i<norm_vector.Count;i++){
             famil=string_utils.join_lists(famil,suffix_trie.family_words(norm_vector[i]));
         }
-
-        norm_vector=famil;
+        norm_vector=string_utils.join_lists(famil,synonims);
 
         return norm_vector;
     }

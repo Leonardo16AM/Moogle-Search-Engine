@@ -228,7 +228,7 @@ public class search_engine{
         for(int j=0;j<words.Count;j++){
             for(int i=0;i<sep_text.Count;i++){
                 if(sep_text[i].Length>=2){
-                    if(string_utils.is_same( sep_text[i],words[j]) ){
+                    if(sep_text[i].Length>2 && string_utils.is_same( sep_text[i],words[j]) ){
                         sep_text[i]="<mark>"+sep_text[i]+"</mark>";
                     }
 

@@ -142,7 +142,6 @@ public static class string_utils{
         return false;
     }   
     
-
     public static List<string> get_word_list(List<string> list){        
         // return list of different strings
         List<string>ret=new List<string>();
@@ -199,6 +198,8 @@ public static class string_utils{
         }
         Console.WriteLine();
     }   
+
+    
 }
 
 
