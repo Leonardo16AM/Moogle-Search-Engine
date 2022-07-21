@@ -1,0 +1,25 @@
+@page "/file/{name}"
+
+<PageTitle>Moogle!</PageTitle>
+
+<h1 class="title2">Moogle!</h1>
+
+
+<div class="item">
+    <h2 class="txt_name">@name</h2>
+    <p class="txt_text">@text</p>
+</div>
+
+<footer>
+    <p class="footerr"> Leonardo Artiles Montero 2022 [ github.com/Leonardo16AM ]</p>
+</footer>
+
+
+
+@code {
+    [Parameter]
+    public string name { get; set; }
+    
+    <!-- string asd=name; -->
+    string text=txt_reader.read($"../Content/1984.txt");
+}

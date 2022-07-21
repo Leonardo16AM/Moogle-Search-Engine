@@ -9,6 +9,8 @@ public class SearchItem{
 
     public string Title { get; set; }
 
+    public string Link { get; set; }
+
     public string Snippet { get;  set; }
 
     public float Score { get; set; }

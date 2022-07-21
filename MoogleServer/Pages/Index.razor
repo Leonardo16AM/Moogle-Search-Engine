@@ -18,7 +18,7 @@
 @foreach (var item in result.Items()) {
     <li class="listt">
         <div class="item">
-            <p class="ftitle">@item.Title</p>
+            <a class="ftitle" href=@item.Link>@item.Title</a>
             <p>... @((MarkupString)item.Snippet) ...</p>
             <p class="fscore">... @item.Score ...</p>
         </div>

@@ -10,6 +10,13 @@ public static class txt_reader{
         string content = File.ReadAllText(path, Encoding.UTF8);
         return content;
     }
+    
+    public static string read2(string a,string b){
+        string path=a+b;
+        string content = File.ReadAllText(path, Encoding.UTF8);
+        return content;
+    }
+
     public static List<string> ls(string gpath){
         string[] path = Directory.GetFiles(gpath, "*.*", SearchOption.AllDirectories);
         List<string>ret=new List<string>();

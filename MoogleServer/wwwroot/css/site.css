@@ -10,6 +10,12 @@ html, body {
     font-weight: 600;
 }
 
+.title2{
+    font-family: 'Roboto','Helvetica Neue', Helvetica, Arial; 
+    font-weight: 600;
+    margin-bottom:1%;
+
+}
 .srch{    
 
     font-family: "JetBrains Mono",monospace;
@@ -23,6 +29,21 @@ html, body {
     margin-right: 15px;
     margin-bottom: 10px; 
 }
+
+.txt_name{
+    margin-left:3%;
+    position:relative;
+    display: flex;
+    align-items: flex-start;
+    color:rgb(12, 12, 132);
+}
+
+.txt_text{
+    margin:3%;
+    margin-top:1%;
+}
+
+
 .M{
     appearance: none;
     background-color: rgb(255, 255, 255);

@@ -18,6 +18,7 @@ public static class Moogle{
         for(int i=0;i<ans.Count;i++){
             items[i]=ans[i];
             items[i].Title=items[i].Title.Substring(11);
+            items[i].Link=$"file/{items[i].Title}";
         }
         return new SearchResult(items, real_query);
     }

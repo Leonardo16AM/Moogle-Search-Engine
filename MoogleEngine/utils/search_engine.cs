@@ -36,52 +36,67 @@ public class search_engine{
         return v;
     }
 
-    // private SearchItem snippet(SearchItem v,string s, int snippet_length=200){
-    //     char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
-    //     string[] ntext=v.full_text.Split(delimiters);
+    private SearchItem snippet(SearchItem v,string s, int snippet_length=200){
+        char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
+        string[] ntext=v.Snippet.Split(delimiters);
 
-    //     string wr="";
-    //     int beg=0;
-    //     int pos=0;
-    //     while( pos<snippet_length && pos<ntext.Length){
-    //         wr+=ntext[pos]+" ";
-    //         pos++;
-    //     }
-
-    //     model text_model=new model();
-    //     text_model.build_from_list(s);
-
-    //     vector best=text_model.naive_search(wr,1,true)[0];
-    //     best.full_text=wr;
-        
-    //     string ans=wr;
-    //     double best_ang=best.angle_with;
-    //     if(double.IsNaN(best_ang))best_ang=100;
-        
-
-    //     int last=0;
-    //     for(int i=0;i<v.full_text.Length && pos<ntext.Length;i++){
-    //         wr=wr.Substring(ntext[beg].Length+1);
-    //         wr+=" "+ntext[pos];
-    //         beg++;
-    //         pos++;
+        string wr="";
+        int pos=0;
+        while( pos<snippet_length/2 && pos<ntext.Length){
+            wr+=ntext[pos]+" ";
+            pos++;
+        }
+        string snippet=wr+" ( ... ) ";
 
 
-    //         if(  pos-last>190 && string_utils.is_mayus(wr[1]) ){
-    //             vector newv=text_model.naive_search(wr,1,true)[0];
-    //             if( newv.angle_with<best_ang && !double.IsNaN(newv.angle_with) ){
-    //                 best_ang=newv.angle_with;
-    //                 ans=wr;
-    //                 last=pos;
-    //             }
-    //         }
-    //     }
-        
-    //     best.path=v.path;
-    //     best.angle_with=v.angle_with;
-    //     best.full_text=ans;
-    //     return best;
-    // }
+
+        string[] qtext=s.Split(delimiters);
+
+        int cnt=0;
+        Queue<string>qu=new Queue<string>();
+
+        while(pos<ntext.Count() && qu.Count()<snippet_length/2){
+            qu.Enqueue(ntext[pos]);
+            for(int i=0;i<qtext.Count();i++){
+                if(string_utils.is_same( qtext[i],ntext[pos]) ){
+                    cnt++;
+                }
+            }
+            pos++;
+        }
+        int ans=pos;
+        int  max=cnt;
+
+        for(int i=pos;i<ntext.Count();i++){
+            qu.Enqueue(ntext[pos]);
+            bool fg=false;
+            for(int j=0;j<qtext.Count();j++){
+                if(string_utils.is_same( qtext[j],ntext[i]) ){
+                    cnt++;
+                }
+                if(string_utils.is_same( qtext[j],qu.Peek()) ){
+                    fg=true;
+                }
+            }
+            qu.Dequeue();
+            if(fg){
+                cnt--;
+            }
+
+            if(cnt>max){
+                ans=i;
+                max=cnt;
+            }
+        }
+
+        for(int i=Math.Max(0,ans-snippet_length/2);i<=Math.Min(ans,ntext.Count()-1);i++){
+            snippet=snippet+ntext[i]+" ";    
+        }
+
+
+        v.Snippet=snippet;
+        return v;
+    }
 
 
     private double op_not_in(List<string> tnorm,List<string> qnorm,string_map word_count){
@@ -237,7 +252,7 @@ public class search_engine{
             result=operators(result,s);
 
             for(int i=0;i<result.Count;i++){
-                result[i]=quick_snippet(result[i],s);
+                result[i]=snippet(result[i],s);
             }
             
             List<SearchItem> nres=new List<SearchItem>();
@@ -249,7 +264,6 @@ public class search_engine{
             }
             
             for(int i=0;i<result.Count;i++){
-                result[i]=quick_snippet(result[i],s);
                 result[i]=highlight(result[i],s);
             }
 
