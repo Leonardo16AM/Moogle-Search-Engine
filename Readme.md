@@ -51,19 +51,36 @@ I found an [API](http://sesat.fdi.ucm.es:8080/Web/sinonimos.html) that provides 
 ---
 # Operators
 
+I decided to use 4 operators:
+- `in`: only shows texts in which the word appears.
+- `notin`: does not show the texts in which the word appears.
+- `imp` : Increase the importance of the word
+- `near` : Increases the importance of the document if the words appear close to each other.
+
+So to calculate how important a text is we use the formula:
+
+$ importance = dotproduct*in*notin*imp*near$
+
+Where $dotproduct$ is the original dot product with the query.
+It is then easy to notice that if the word appears in the text `in` it will take the value of 1 and `notin` will be 0.  
+In te case of `near` it will be proportional to the minimum distance between the two elements.
+
+
 ---
 # GUI:  
 I don't really like to code in HTML or CSS, but I tried to create a minimally pretty graphical user interface. I also added the functionality that when you click on a file name it opens a new tab with the file.
 
 ---
 # Computational complexity analysis:
-
+## Search:
+The search has a complexity of $O(Q*T)$ where $Q$ is the number of words and $T$ is the number of texts.
 ## Finding the most similar word:
+The edit distance has a complexity of $O(N^2)$ where $N$ is the number of letters. And LCP has a complexity of $O(N)$. 
 ## Finding the words that are family:
-## Finding synonyms:
+Finding a word in the trie is $O(S)$ where $S$ is the size of the string, and searching the words that are family is $O(S*W)$ where $W$ is the numer of words that are family.
+
 ---
 # Further Optimizations:
 ## K-Dimentional Tree
 ## GPU's go brrrr! 🔥
----
 
