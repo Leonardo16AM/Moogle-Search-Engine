@@ -4,13 +4,15 @@
 
 <h1 class="title">Moogle!</h1>
 
+<link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+
 <input class="srch" @bind="query" placeholder="Introduzca su búsqueda">
 
 <button type="default" class="btn btn-primary" @onclick="RunQuery">Buscar</button>
 
 @if (!string.IsNullOrEmpty(result.Suggestion)) {
     <div class="suggestion">
-        <p>¿Quisiste decir <strong><a class="sugg" href="#">@result.Suggestion</a></strong>?</p>
+        <p class="qd">¿Quisiste decir <a class="sugg" href="#">@result.Suggestion</a>?</p>
     </div>
 }
 

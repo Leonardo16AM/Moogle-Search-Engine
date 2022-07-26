@@ -3,10 +3,14 @@
 
 html, body {
     font-family: 'Roboto','Helvetica Neue', Helvetica, Arial; 
+    background-image: linear-gradient(to right, #efefef, #ffffff, #e8e7e7);
 } 
 
 .title{
     font-family: 'Roboto','Helvetica Neue', Helvetica, Arial; 
+    
+    font-family: 'Abel';
+    font-size:250%;
     font-weight: 600;
 }
 
@@ -67,8 +71,9 @@ a, .btn-link {
 }
 
 .item{
+    background-color: #ffffff;
     border-radius: 7px;
-    box-shadow: rgba(45, 35, 66, .4) 0 1px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-shadow: rgba(30, 30, 30, 0.4) 0 1px 4px,rgba(0, 0, 0, 0.3) 0 7px 13px -3px,rgba(255, 255, 255, 0.5) 0 -3px 0 inset;
     
     margin-bottom: 15px;
     margin-right: 30px;
@@ -86,6 +91,7 @@ a, .btn-link {
 }
 
 .btn-primary {
+    
     align-items: center;
     appearance: none;
     background-image: radial-gradient(100% 100% at 100% 0, rgb(12, 12, 132) 0, rgb(32, 32, 193));
@@ -95,21 +101,43 @@ a, .btn-link {
     color: #fff;
     height: 40px;
     line-height: 1;
-    padding-left: 2.0%;
-    padding-left: 1.5%;
+    padding-left: 1.0%;
     height: 35px;
 }
-  
+.btn-primary:active{
+    appearance: none;
+    transform: scale(0.98);
+}
+
+.srch:focus{
+    border-color: #b32121;
+}
+.btn-primary:focus{
+    appearance: none;
+    margin:0;
+    transform: scale(0.98);
+}
+
+.btn-primary:active{
+    transform: scale(0.98);
+}
+
+.sugg{
+    text-decoration: none;
+    color: rgba(29, 29, 133, 0.921);
+}
+
+.qd{
+    font-size:small;
+}
 
 .ftitle {
+    text-decoration: none;
     color:rgb(12, 12, 132);
     font-weight: 600;
     font-size: large;
 }
 .fscore {
-    color: rgb(12, 12, 132);
-}
-.sugg {
     color: rgb(12, 12, 132);
 }
 .content {
