@@ -11,7 +11,9 @@ public static class Moogle{
         Console.WriteLine("===================Making a new search=======================");
         var watch=System.Diagnostics.Stopwatch.StartNew();
         string real_query=engine.model.recomendation(query);
-        List<SearchItem> ans=engine.query(real_query);   
+        
+        List<SearchItem> ans=engine.query(real_query,7,false);   // Change the last parameter to make a fast search
+
         Console.WriteLine($"Elapsed Time Miliseconds: { watch.ElapsedMilliseconds } ");
         
         SearchItem[] items = new SearchItem[ans.Count];

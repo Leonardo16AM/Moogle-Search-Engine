@@ -4,13 +4,15 @@ namespace MoogleEngine;
 
 
 public class trie{
-    private List<int>[] graph= new List<int>[500000];
-    private string[] node_string= new string[500000];
+    // Suffix Trie
+    private List<int>[] graph= new List<int>[100000000];
+    private string[] node_string= new string[100000000];
     private int last=1;
     private List<int> parent= new List<int>();
     private List<bool> end= new List<bool>();
 
     public int insert(string s){
+        // Inserts a string s in the trie
         int u=0;
         node_string[0]="";
         end.Add(false);
@@ -44,6 +46,7 @@ public class trie{
     }
 
     private List<string> dfs(int node,int dist){
+        // Find  all the words with the last "dist" letters different 
         List<string> ret= new List<string>();
         if(dist>1)return ret;
         if(end[node]){
@@ -57,6 +60,7 @@ public class trie{
     }
 
     public List<string> family_words(string s,int deep=0){
+        // Search family words
         int node=insert(s);
         int orig_node=node;
         while( deep>0 && node!=0 ){

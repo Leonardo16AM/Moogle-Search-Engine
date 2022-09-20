@@ -26,6 +26,7 @@ public class model{
 
 
     public List<double> TFIDF(List<string> wds,List<int> frec,int text_size){
+        // Calculates the TF-IDF of a list of words
         List<double>ret=new List<double>();
 
         for(int i=0;i<wds.Count;i++){
@@ -57,6 +58,7 @@ public class model{
 
 
     public string recomendation(string s){
+        // Recomendates a query 
         string ret="";
         var norm=string_utils.normalize_text_with_quotation(s);
 
@@ -87,15 +89,18 @@ public class model{
 
 
     public void build_from_txts(){
-
+        /// Reads from txts and preprocess
         txt_names=txt_reader.ls("../Content");
 
+
+        Console.WriteLine("1/5 --- Reading and normalizing txts");
         for(int i=0;i<txt_names.Count;i++){
             string text=txt_reader.read(txt_names[i]);  
             full_texts.Add(text);
             proc_texts.Add(string_utils.normalize_text(text));
         }
         
+        Console.WriteLine("2/5 --- Building suffix trie");
 
         for(int i=0;i<proc_texts.Count;i++){
             for(int j=0;j<proc_texts[i].Count;j++){
@@ -103,28 +108,32 @@ public class model{
                 suffix_trie.insert(proc_texts[i][j]);
             }
         }
+        Console.WriteLine("3/5 --- Removing duplicates");
         words=string_utils.remove_duplicates(words);
 
+        Console.WriteLine("4/5 --- Indexing words");
         for(int i=0;i<words.Count;i++){
             word_index.Add(words[i],i);
             word_df.Add(0);
         }
 
+        Console.WriteLine("5/5 --- Calculating word frecuency");
         for(int i=0;i<proc_texts.Count;i++){
             frec_on_text.Add(new List<int>());
             for(int j=0;j<words.Count;j++){
                 frec_on_text[i].Add(0);
             }
-            for(int j=0;j<proc_texts[i].Count;j++){
-                string s=proc_texts[i][j];
-                int index=word_index.val(s);
-                if(frec_on_text[i][index]==0 ){
-                    word_df[index]++; 
+                for(int j=0;j<proc_texts[i].Count;j++){
+                    string s=proc_texts[i][j];
+                    int index=word_index.val(s);
+                    if(frec_on_text[i][index]==0 ){
+                        word_df[index]++; 
+                    }
+                    frec_on_text[i][index]++;
                 }
-                frec_on_text[i][index]++;
-            }
         }
 
+        Console.WriteLine("Finished preprocesing");
     }
 
 
@@ -133,7 +142,7 @@ public class model{
 
 
     public void build_from_list(List<string> new_texts){
-
+        // Creates the vectorial model from a list
         for(int i=0;i<new_texts.Count;i++){
             string text=new_texts[i];  
             full_texts.Add(text);
@@ -175,6 +184,7 @@ public class model{
 
 
     public List<string> prepare_string(string s){
+        // Prepares the query, adds synonims and family words
         List<string>norm_vector=string_utils.normalize_text(s);
         List<string>real_list=new List<string>();
 
@@ -221,6 +231,7 @@ public class model{
 
 
     public void build_matrix_for_query(string q,bool fast=false){
+        // Build the matrix from a given query
         query_matrix=new numci.matrix();
         query_vector=new numci.vector();
         List<string> normq=string_utils.normalize_text(q);
@@ -267,6 +278,7 @@ public class model{
 
 
     public List<SearchItem> query(string s,int cnt=10,bool fast=false){
+        // Return  a sorted list of the "cnt" items 
         build_matrix_for_query(s,fast);
         numci.vector ans=numci.matrix_mult_with_vec(query_matrix,query_vector); 
 
@@ -290,6 +302,7 @@ public class model{
 
 
     public void print(){
+        // Prints the variables for debuging
         Console.WriteLine("\nVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV");
         Console.WriteLine("\n============= Printing txt_names ==============");
         string_utils.print_list(txt_names);

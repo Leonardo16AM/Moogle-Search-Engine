@@ -1,0 +1,210 @@
+Europa (satélite)
+
+Europa es el sexto satélite natural de Júpiter en orden creciente de distancia y el más pequeño de los cuatro satélites galileanos. Fue descubierto en 1610 por Galileo  y nombrado por Europa, la madre del rey Minos de Creta y amante de Zeus. Simon Marius sugirió el nombre tras su descubrimiento, pero este nombre, así como el nombre de los otros satélites galileanos, no fue de uso común hasta mediados del siglo XX. En gran parte de la literatura astronómica temprana aparece mencionado por su designación numeral romana, Júpiter II, o como el segundo satélite de Júpiter. Además de haber sido observado mediante telescopios terrestres, varias sondas espaciales (las primeras a principios de los años 1970) lo han examinado de cerca. Es el sexto satélite más grande del sistema solar.
+Europa
+
+En esta fotografía del hemisferio posterior de Europa en colores naturales, las largas líneas oscuras son fracturas en la corteza helada, alguna de las cuales puede llegar a medir 3000 m de longitud. La característica brillante con una mancha oscura central es el joven cráter Pwyll, nombrado por el dios celta del Inframundo. La imagen fue tomada el 7 de septiembre de 1996 por la nave espacial Galileo a unos 677 000 km. Europa tiene aproximadamente el tamaño de la Luna.
+Descubrimiento
+Descubridor	Galileo Galilei
+Simon Marius
+Fecha	7 de enero de 1610
+Designaciones	Júpiter II
+Categoría	Satélite galileano
+Elementos orbitales
+Inclinación	0,470°
+Semieje mayor	671 100 km
+Excentricidad	0,0101
+Elementos orbitales derivados
+Época	J2000.0
+Periastro o perihelio	664 862 km
+Apoastro o afelio	676 938 km
+Período orbital sideral	3d 13h 14,6min
+Velocidad orbital media	13,740 km/s
+Radio orbital medio	670 900 km
+Satélite de	Júpiter
+Características físicas
+Masa	4,80 x 1022 kg (0.008 veces la Tierra)
+Volumen	1,593 x 1010 m³
+Densidad	3,013 x g/cm³
+Área de superficie	3,09 x 107 km²
+Diámetro	3121,6 km
+Gravedad	1,314 m/s² (0,134 g)
+Velocidad de escape	2,025 km/s
+Periodo de rotación	Rotación síncrona
+Inclinación axial	0,1°
+Albedo	0,67 ± 0,03
+Características atmosféricas
+Presión	0.1 µPa
+Temperatura	50-125 K
+Cuerpo celeste
+Anterior	Ío
+Siguiente	Ganímedes
+
+Ligeramente más pequeño que la Luna, Europa está compuesto principalmente por silicatos, tiene una corteza de hielo de agua  y un probable núcleo de hierro y níquel. Cuenta con una tenue atmósfera compuesta de oxígeno, entre otros gases. Su superficie está estriada por grietas y rayas, mientras que los cráteres son relativamente raros. Tiene la superficie más lisa de cualquier objeto conocido del sistema solar. Esta aparente juventud y suavidad ha dado lugar a la hipótesis de que existe un océano debajo de la superficie, el cual podría servir de morada para la vida. Esta hipótesis propone que el calor de las fuerzas de marea causa que el océano se mantenga líquido y conduzca la actividad geológica igual que lo harían las placas tectónicas. El 8 de septiembre de 2014 la NASA informó de que había encontrado pruebas que apoyaban indicios tempranos de placas tectónicas en la gruesa cubierta helada de Europa, la primera señal de tal actividad geológica en otro mundo distinto de la Tierra. El 12 de mayo de 2015, varios científicos anunciaron que la sal marina del océano subsuperficial podía estar cubriendo algunas características geológicas de Europa, lo que sugiere que el océano está interactuando con el fondo del mar. Esto puede ser importante para determinar si el satélite podría ser apto para la vida.
+Historia
+
+Europa fue descubierta por Galileo el 7 de enero de 1610, fecha en que halló junto a Júpiter «tres estrellas fijas, totalmente invisibles por su pequeño tamaño», según anotó en su diario. A la noche siguiente descubrió una cuarta estrella, y en noches posteriores comprobó que orbitaban en torno al planeta, por lo que dedujo que eran satélites. Se trataba de Ío, Europa, Ganímedes y Calisto. Galileo llamó inicialmente a estas lunas «astros mediceos», en honor a su mecenas, Cosme II de Médicis, pero la propuesta no gustó a otros astrónomos, que buscaron alternativas; así, el alemán Simon Marius, quien aseguraba haber descubierto también las lunas incluso antes que Galileo, propuso nombres basados en la mitología griega, que son los conocidos hoy día. Galileo contraatacó proponiendo que se llamasen Júpiter I, II, III y IV, nombres que fueron usados hasta principios del XX, en que se recuperaron los nombres propuestos por Marius. Las cuatro lunas de Júpiter son también conocidas como «satélites galileanos».
+Órbita y rotación
+Órbitas de Ío, Europa y Ganímedes.
+
+Europa orbita Júpiter en poco más de tres días y medio, con un radio orbital de unos 670 900 kilómetros. Su excentricidad (ε) es de solo 0,009, por lo que su órbita es casi circular, y la inclinación orbital con respecto al plano ecuatorial de Júpiter es pequeña, de 0,470°. Al igual que sus compañeros galileanos, Europa está anclado por marea a Júpiter, con un hemisferio mirando constantemente hacia Júpiter.
+
+La ligera excentricidad de la órbita de Europa, mantenida por las perturbaciones gravitacionales de los demás satélites galileanos, hace que Europa sufra contracciones y distensiones a lo largo de su órbita. Cuando Europa se acerca un poco a Júpiter, la atracción gravitacional de Júpiter aumenta, haciendo que Europa se alargue hacia éste. A medida que Europa se aleja un poco de Júpiter, la fuerza gravitacional disminuye, causando que Europa vuelva de nuevo a una forma más esférica, creando las mareas en su océano. La excentricidad orbital de Europa se ve impulsada continuamente por su resonancia orbital con Io. Por lo tanto, la flexión de marea amasa el interior de Europa y le da una fuente de calor, permitiendo, posiblemente, a su océano permanecer líquido. La última fuente de esta energía es la rotación de Júpiter, la cual es drenada por Ío a través de las mareas que se plantean en Júpiter y se transfiere a Europa y Ganímedes por la resonancia orbital.
+Características físicas
+Estructura interna
+Estructura interna y características de Europa.
+
+La composición de Europa es parecida a la de los planetas interiores, estando compuesta principalmente por rocas silíceas. Tiene una capa externa de agua de unos 100 km de espesor (parte como hielo en la corteza, parte en forma de océano líquido bajo el hielo). Datos recientes sobre el campo magnético observado por la sonda Galileo indican que Europa crea un campo magnético a causa de la interacción con el campo magnético de Júpiter, lo que sugiere la presencia de una capa de fluido, probablemente un océano líquido de agua salada. Puede que también tenga un pequeño núcleo metálico de hierro.
+
+Este campo magnético débil (alrededor de 1/4 de la intensidad del campo magnético de Ganímedes y similar al de Calisto) varía periódicamente al atravesar el intenso campo magnético de Júpiter. El 2 de marzo de 1998 la NASA anunció, a partir de los datos enviados por Galileo, el descubrimiento de pruebas de que hay un material conductor bajo la superficie de Europa, lo más probable un océano salado. Las pruebas espectrográficas sugieren que las zonas rojizas oscuras y otras características de la superficie de Europa parecen ser ricas en sales como el sulfato de magnesio, probablemente depositadas por el agua que emerge del interior al evaporarse. Las sales habitualmente son incoloras o blancas, por lo que debe haber otra sustancia presente que contribuya a dar el color rojizo; se cree que es sulfuro (que quizás provenga de Io), o compuestos de hierro.
+
+En diciembre de 2013 el telescopio Hubble detectó fumarolas de vapor de agua siendo disparadas desde la superficie, lo que confirmó ciertas teorías relacionadas sobre la posible existencia de agua bajo la corteza superficial del satélite. Estas observaciones fueron contrastadas a raíz de la revisión de los datos recogidos por la sonda Galileo en su mayor aproximación, por debajo de los 400 km, el 16 de diciembre de 1997. En estas mediciones se observaron cambios repentinos en los valores del campo magnético, con descensos de hasta 200 nT, y la densidad del plasma, con un rápido aumento hasta los 2.000 cm-3. Mediante diversos modelos se dedujo que dichas mediciones podrían corresponderse con la navegación a través de la fumarola de un géiser del agua líquida bajo la superficie.
+Superficie
+Superficie de Europa; imagen de la sonda Galileo.
+
+La superficie de Europa es muy lisa. Se han observado pocos accidentes geográficos de más de unos cientos de metros de altura. Las importantes marcas entrecruzadas de la superficie de Europa parecen estar causadas por las diferencias de albedo, con escaso relieve vertical. Hay pocos cráteres en Europa, solo tres cráteres mayores de 5 km de diámetro: Pwyll, de 39 km de diámetro, es el más conocido. El albedo de Europa es uno de los mayores de todas las lunas. Esto podría indicar una superficie joven y activa; basándose en estimaciones sobre la frecuencia del bombardeo de cometas que probablemente soporta Europa, su superficie no puede tener más de 30 millones de años. El poco relieve y las marcas visibles en la superficie de Europa se asemejan a las de un océano helado de la Tierra, y se piensa que bajo la superficie helada de Europa hay un océano líquido que se mantiene caliente por el calor generado por las mareas gravitacionales de Júpiter. La temperatura de la superficie de Europa es de 110 K (-163 °C) en el ecuador y de solo 50 K (-223 °C) en los polos. Los mayores cráteres parecen estar rellenos de hielo nuevo y plano; basándose en esto y en la cantidad de calor generado en Europa por las fuerzas de marea, se estima que la corteza de hielo sólido tiene un espesor aproximado de entre 10 y 30 km, lo que puede significar que el océano líquido tiene una profundidad de 90 km.
+Domos, crestas y terreno alterado que incluye placas de la corteza que se cree que se han roto en pedazos.
+
+La característica más llamativa de la superficie de Europa es una serie de vetas oscuras que se entrecruzan por toda la superficie de la luna. Estas vetas se asemejan a las grietas del hielo marino en la Tierra; un examen detallado muestra que las orillas de la corteza de Europa a cada lado de las grietas están desplazadas de su posición original. Las mayores franjas tienen unos 20 km de un lado a otro con difusas orillas externas, estriaciones regulares, y una franja central de material más claro, que se cree que se ha originado por una serie de erupciones volcánicas de agua o géiseres al abrirse la corteza y quedar expuestas las capas más cálidas del interior. El efecto es similar al observado en la Tierra en la cordillera dorsal oceánica o zona rift. Se cree que estas fracturas se han producido en parte por las fuerzas de marea ejercidas por Júpiter. Se piensa que la superficie de Europa se desplaza hasta 30 metros entre la marea alta y baja. Puesto que Europa está anclada por la marea (en marea muerta, como la Luna respecto a la Tierra) con Júpiter y siempre mantiene la misma orientación hacia el planeta, las fuerzas deben seguir un patrón distintivo y predecible. Solo las fracturas más recientes de Europa parecen ajustarse a este patrón predecible; otras fracturas parecen haber ocurrido en orientaciones cada vez más diferentes cuanto más antiguas son. Esto podría explicarse si la superficie de Europa hubiese rotado ligeramente más rápido que su interior, un efecto que es posible, ya que el océano desacopla la superficie de la luna de su manto rocoso y al efecto remolque de la gravedad de Júpiter sobre la corteza exterior de la luna. Las comparaciones de las fotos del Voyager y de la sonda Galileo sugieren que la corteza de Europa rota como mucho una vez cada 10 milenios con relación a su interior.
+Conamara Chaos, región de terreno caótico en Europa.
+
+Otra característica presente en la superficie de Europa son las "pecas" o superficies lenticulares, circulares o elípticas. Muchas son bóvedas, otras hoyos y otras manchas oscuras lisas; otras tienen una textura desigual. Las superficies de las cúpulas parecen trozos de las llanuras más antiguas que los rodean que hubiesen sido empujados hacia arriba.
+
+Una hipótesis sugiere que se formaron a partir de bloques de hielo más calientes que ascendieron respecto al hielo más frío de la corteza, de forma similar a lo que ocurre con las cámaras de magma en la corteza terrestre. Las manchas oscuras lisas pueden haberse formado por agua líquida que ha escapado del interior cuando se fractura la superficie de hielo. Y las pecas irregulares (llamadas regiones de "chaos", por ejemplo Conamara) parecen haberse formado a partir de muchos pequeños fragmentos de corteza sobre manchas oscuras lisas, como icebergs en un mar congelado.
+
+Otra hipótesis alternativa sugiere que estas superficies lenticulares son en realidad zonas de chaos, y los llamados pozos, manchas y colinas son el resultado de una temprana interpretación de la baja resolución de las imágenes de Galileo. Lo que implicaría que el hielo es demasiado delgado para soportar el modelo de diapiro convectivo.
+Atmósfera
+
+Recientes observaciones del telescopio espacial Hubble indican que Europa tiene una atmósfera muy tenue (10−12 bares de presión en la superficie) compuesta de oxígeno. De las lunas del sistema solar, solo siete de ellas (Ío, Calisto, Ganímedes, Titán, Tritón, Encélado y Titania) se sabe que tienen atmósfera. A diferencia del oxígeno de la atmósfera terrestre, el de la atmósfera de Europa es casi con toda seguridad de origen no biológico. Lo más probable es que se genere por la luz del Sol y las partículas cargadas que chocan con la superficie helada de Europa, produciendo vapor de agua que es posteriormente dividido en hidrógeno y oxígeno. El hidrógeno consigue escapar de la gravedad de Europa, pero no así el oxígeno.
+Vida en Europa
+Estructura interior de Europa.
+
+Se ha propuesto que puede existir vida en este hipotético océano bajo el hielo, tal vez sustentada en un entorno similar a aquel existente en las profundidades de los océanos de la Tierra cerca de las chimeneas volcánicas o en el lago Vostok, en la Antártida. No hay pruebas que sustenten esta hipótesis; no obstante, se han hecho esfuerzos para evitar cualquier posibilidad de contaminación. La misión Galileo concluyó en septiembre de 2003 con la colisión de la astronave en Júpiter. Si se hubiese abandonado sin más la nave, no esterilizada, podría haber colisionado en el futuro con Europa, contaminándola con microorganismos terrestres. La introducción de estos microorganismos hubiese hecho casi imposible determinar si Europa había tenido alguna vez su propia evolución biológica, independientemente de la Tierra.
+
+En un reciente estudio se ha estimado que Europa tiene suficiente cantidad de agua líquida y que ésta tiene una elevada concentración de oxígeno, incluso mayor que en nuestros mares. Concentraciones semejantes serían suficientes para mantener no solo microorganismos, sino formas de vida más complejas.
+
+Según Schulze-Makuch, podría haber microorganismos que serían muy similares a los de la tierra, agrupados en unas fumarolas que según la hipótesis, podrían existir al fondo de los mares. Sin embargo, al ser escasas estas fumarolas, no podrían ser muchas ni muy grandes las colonias de estos microorganismos, por lo que en caso de existir formas de vida compleja, no podrían ser mayores de un gramo de masa.
+Europa en la ficción y el cine
+
+    Europa desempeña un papel importante en la película y el libro de Arthur C. Clarke 2010: Odisea dos y su continuación. Formas de vida extraterrestres muy avanzadas se interesan en las primitivas formas de vida bajo el hielo de Europa y mediante los monolitos transforman Júpiter en una estrella (llamada Lucifer) para acelerar la evolución de los "Europanos". En 2061: Odisea tres, Europa se ha convertido en un océano tropical.
+    En la novela de Greg Bear La fragua de Dios (1987), Europa es destruida por extraterrestres. Dos grandes trozos de hielo de Europa son lanzados a colisionar con Marte.
+    En la película Europa Report (2013), el satélite es visitado por la misión espacial Europa One en busca de vida.
+    Europa es escenario del prólogo del videojuego "Call of Duty: Infinite Warfare" en su modo campaña. Además en el modo multijugador se encuentra un mapa jugable descrito como un centro de investigación situado encima de la superficie helada de Europa.
+    El videojuego 2D "Barotrauma" toma lugar en el océano de Europa, donde el jugador tiene encuentros con distintos monstruos.
+
+Exploración
+
+La exploración espacial de Europa comenzó con los sobrevuelos de las sondas Pioneer 10 y 11 en 1973 y 1974 respectivamente. Las fotografías tomadas por estas sondas eran de baja calidad comparadas con las de misiones posteriores. Las dos Voyager cruzaron el sistema de Júpiter en 1979 y proporcionaron imágenes más detalladas de su superficie helada. Al verlas, muchos científicos conjeturaron la posible existencia de un océano subsuperficial. Desde 1995 hasta 2003, la sonda Galileo orbitó alrededor de Júpiter. Es hasta la fecha el más detallado reconocimiento de los satélites galileanos e incluyó la Galileo Europa Mission y la Galileo Millenium Mission, con numerosos sobrevuelos cercanos a Europa. En 2007, la New Horizons fotografió Europa mientras atravesaba el sistema joviano de camino a Plutón.
+Misiones futuras
+
+Las conjeturas de vida extraterrestre han dotado a Europa de gran interés y han conducido a presiones políticas constantes para programar nuevas misiones. Los objetivos de estas misiones van desde el examen de la composición química del satélite hasta la búsqueda de vida extraterrestre en el hipotético océano interno. Las misiones robóticas tendrán que soportar la alta radiación que rodea a Europa y Júpiter. Europa recibe alrededor de 5,4 Sv de radiación al día.
+
+    El programa JUICE (Jupiter Icy Moons Explorer) de la Agencia Espacial Europea (ESA), planea misiones de observación a Europa, cuyo lanzamiento está estimado para el 2022.
+    La NASA cuenta desde 2013 con su programa Europa Clipper, planeado para 2025, que consta de misiones de astrobiología con el fin de encontrar vida en Europa.
+
+Galería
+Imágenes de terrenos caóticos de Europa
+Conamara Chaos, región de terreno caótico en Europa.
+Conamara Chaos, región de terreno caótico en Europa.
+ 
+Placas de la corteza de Europa de hasta 13 km de ancho, que se han roto en pedazos e insertado en nuevas posiciones.
+Placas de la corteza de Europa de hasta 13 km de ancho, que se han roto en pedazos e insertado en nuevas posiciones.
+ 
+Región con forma de manopla y que tiene una textura similar a la matriz de terreno caótico.
+Región con forma de manopla y que tiene una textura similar a la matriz de terreno caótico.
+ 
+Imágenes a color de Europa
+Imagen en colores realzados de la región que rodea al cráter de impacto Pwyll.
+Imagen en colores realzados de la región que rodea al cráter de impacto Pwyll.
+ 
+Composición de tres imágenes en colores realzados de la región Minos Linea en Europa.
+Composición de tres imágenes en colores realzados de la región Minos Linea en Europa.
+ 
+Vista compuesta de Europa combinando imágenes en violeta, verde e infrarrojo: en colores naturales (izquierda) y en colores realzados (derecha).
+Vista compuesta de Europa combinando imágenes en violeta, verde e infrarrojo: en colores naturales (izquierda) y en colores realzados (derecha).
+ 
+Mosaico de Europa en colores naturales.
+Mosaico de Europa en colores naturales.
+ 
+Distintos accidentes geográficos
+Domos, crestas y terreno alterado que incluye placas de la corteza que se cree que se han roto en pedazos.
+Domos, crestas y terreno alterado que incluye placas de la corteza que se cree que se han roto en pedazos.  
+El hemisferio sur de Europa: Thera y Thrace Maculae.
+El hemisferio sur de Europa: Thera y Thrace Maculae.
+ 
+Manchas rojizas y pozos poco profundos se muestran en la superficie estriada y enigmática de Europa.
+Manchas rojizas y pozos poco profundos se muestran en la superficie estriada y enigmática de Europa.
+ 
+Véase también
+
+    Satélite galileano
+    Júpiter (planeta)
+    Lago Vostok
+    Anexo:Cráteres de Europa (satélite)
+
+Referencias
+
+    Blue, Jennifer (9 de noviembre de 2009). «Planet and Satellite Names and Discoverers». USGS.
+    «Overview of Europa Facts». NASA. Consultado el 27 de diciembre de 2007.
+    Datos de la Nasa
+    «Las lunas del sistema solar». www.astronoo.com. Consultado el 23 de febrero de 2016.
+    Chang, K. (2015). Suddenly, It Seems, Water Is Everywhere in Solar System. nytimes.com.
+    Tritt, C. S. (2002). Possibility of Life on Europa. people.msoe.edu.
+    ASU. Tidal Heating. geology.asu.edu.
+    Dyches, P.; Brown, D.; Buckley, M. (2014). Scientists Find Evidence of 'Diving' Tectonic Plates on Europa. jpl.nasa.gov.
+    Dyches, P.; Brown, D. (2015). NASA Research Reveals Europa's Mystery Dark Material Could Be Sea Salt. jpl.nasa.gov.
+    Bell, 2014, p. 128.
+    «Jupiter's Moon - Europa». www.solarviews.com. Consultado el 23 de febrero de 2016.
+    Showman, Adam P.; Malhotra, Renu (1997). «Tidal Evolution into the Laplace Resonance and the Resurfacing of Ganymede» (PDF). Icarus 127 (1): 93-111. Bibcode:1997Icar..127...93S. doi:10.1006/icar.1996.5669.
+    «Tidal Heating». geology.asu.edu. Archivado desde el original el 29 de marzo de 2006.
+    Moore, W. B. (2003). «Tidal heating and convection in Io». Journal of Geophysical Research 108 (E8): 5096. Bibcode:2003JGRE..108.5096M. ISSN 0148-0227. doi:10.1029/2002JE001943. Consultado el 2 de enero de 2008.
+    Jeffrey S. Kargel, Jonathan Z. Kaye, James W. Head, III et al. (2000). «Europa's Crust and Ocean: Origin, Composition, and the Prospects for Life» (PDF). Icarus (Planetary Sciences Group, Brown University) 148 (1): 226-265. Bibcode:2000Icar..148..226K. doi:10.1006/icar.2000.6471.
+    Phillips, Cynthia B.; Pappalardo, Robert T. (20 de mayo de 2014). «Europa Clipper Mission Concept:». Eos, Transactions American Geophysical Union (en inglés) 95 (20): 165-167. Bibcode:2014EOSTr..95..165P. doi:10.1002/2014EO200002. Consultado el 3 de junio de 2014.
+    Cowen, Ron (7 de junio de 2008). «A Shifty Moon». Science News (en inglés).
+    Kivelson, Margaret G.; Khurana, Krishan K.; Russell, Christopher T.; Volwerk, Martin; Walker, Raymond J.; Zimmer, Christophe (2000). «Galileo Magnetometer Measurements: A Stronger Case for a Subsurface Ocean at Europa». Science (en inglés) 289 (5483): 1340-1343. Bibcode:2000Sci...289.1340K. PMID 10958778. doi:10.1126/science.289.5483.1340.
+    «Hubble detecta fumarolas en Europa, la luna de Júpiter». Consultado el 13 de diciembre de 2013.
+    «Evidence of a plume on Europa from Galileo magnetic and plasma wave signatures». Consultado el 16 de mayo de 2018.
+    «Europa: Another Water World? (Project Galileo: Moons and Rings of Jupiter)». NASA, Jet Propulsion Laboratory. 2001. Archivado desde el original el 21 de julio de 2011. Consultado el 9 de agosto de 2007.
+    Arnett, Bill (7 de noviembre de 1996). «Europa». astro.auth.gr.
+    Hamilton, Calvin J. «Jupiter's Moon Europa». solarviews.com.
+    Geissler, P. (1998). «Evolution of Lineaments on Europa: Clues from Galileo Multispectral Imaging Observations». Icarus 135: 107-337. Bibcode:1998Icar..135..107G. doi:10.1006/icar.1998.5980.
+    Figueredo, P. H.; Greeley, R. (2004). «Resurfacing history of Europa from pole-to-pole geological mapping». Icarus 167 (2): 287. Bibcode:2004Icar..167..287F. doi:10.1016/j.icarus.2003.09.016.
+    Hurford, T. A.; Sarid, A. R.; Greenberg, R. (2007). «Cycloidal cracks on Europa: Improved modeling and non-synchronous rotation implications». Icarus 186: 218. Bibcode:2007Icar..186..218H. doi:10.1016/j.icarus.2006.08.026.
+    Kattenhorn, Simon A. (2002). «Nonsynchronous Rotation Evidence and Fracture History in the Bright Plains Region, Europa». Icarus 157 (2): 490-506. Bibcode:2002Icar..157..490K. doi:10.1006/icar.2002.6825.
+    Sotin, Christophe; Head III, James W.; and Tobie, Gabriel (2001). «Europa: Tidal heating of upwelling thermal plumes and the origin of lenticulae and chaos melting» (PDF). Consultado el 20 de diciembre de 2007.
+    Goodman, Jason C.; Collins, Geoffrey C.; Marshall, John; and Pierrehumbert, Raymond T. «Hydrothermal Plume Dynamics on Europa: Implications for Chaos Formation» (PDF). Consultado el 20 de diciembre de 2007.
+    O'Brien, David P.; Geissler, Paul; and Greenberg, Richard; Geissler, Greenberg (Octubre de 2000). «Tidal Heat in Europa: Ice Thickness and the Plausibility of Melt-Through». Bulletin of the American Astronomical Society 30: 1066. Bibcode:2000DPS....32.3802O.
+    Greenberg, Richard (2008). Springer + Praxis Publishing, ed. Unmasking Europa. ISBN 978-0-387-09676-6.
+    Hall, D. T.; Strobel, D. F.; Feldman, P. D.; McGrath, M. A.; Weaver, H. A. (1995). «Detection of an oxygen atmosphere on Jupiter's moon Europa». Nature 373 (6516): 677-681. Bibcode:1995Natur.373..677H. PMID 7854447. doi:10.1038/373677a0.
+    Savage, Donald; Jones, Tammy; Villard, Ray (23 de febrero de 1995). «Hubble Finds Oxygen Atmosphere on Europa». Project Galileo. NASA, Jet Propulsion Laboratory. Consultado el 17 de agosto de 2007.
+    Johnson, Robert E.; Lanzerotti, Louis J.; and Brown, Walter L. (1982). «Planetary applications of ion induced erosion of condensed-gas frosts». Nuclear Instruments and Methods in Physics Research 198: 147. Bibcode:1982NucIM.198..147J. doi:10.1016/0167-5087(82)90066-7.
+    Shematovich, Valery I.; Cooper, John F.; Johnson, Robert E. (Abril de 2003). «Surface-bounded oxygen atmosphere of Europa». EGS – AGU – EUG Joint Assembly (Abstracts from the meeting held in Nice, France): 13094. Bibcode:2003EAEJA....13094S.
+    El Mundo (septiembre, 2003) “La sonda espacial 'Galileo' se desintegra en la atmósfera de Júpiter tras 15 años en órbita”. La decisión […] fue adoptada por la NASA para evitar que se estrellara en la luna Europa […] considerada por los científicos […] como propicia para la vida extraterrestre.
+    Palazzesi, A. 2009. Europa tendría oxígeno suficiente para la vida. Neoteo, 19 de octubre de 2009
+    Daniel Marín. «Los alienígenas del Sistema Solar». Consultado el 10 de mayo de 2015.
+    NASA. The Journey to Jupiter. Extended Tours: GEM and the Millennium Mission. solarsystem.nasa.gov.
+    JPL (2007). PIA09246: Europa. photojournal.jpl.nasa.gov.
+    David, L. (2006). Europa Mission: Lost In NASA Budget. space.com.
+    Friedman, L. (2005). Projects: Europa Mission Campaign; Campaign Update: 2007 Budget Proposal. planetary.org.
+    Chandler, D. L. (2002). Thin ice opens lead for life on Europa. newscientist.com.
+    Muir, H. (2002) Europa has raw materials for life. newscientist.com.
+    The John J. McCarthy Obs. (2015). Europe: A Fatal Attraction. Galactic Observer 8 (1): p. 9.
+    «JUICE». ESA, Science & Technology.
+    «Mission JUICE/Laplace (ESA)». Laboratoire d'études spatiales et d'instrumentation en astrophysique (LESIA) (en francés).
+    «Europa Clipper Mission Concept: Exploring Jupiter’s Ocean Moon». John Wiley & Sons, Ltd.
+
+Bibliografía
+
+    Bell, Jim (2014). El libro de la astronomía. Kerkdriel: Librero. ISBN 978-90-8998-357-2.
+
+Enlaces externos
+
+    Wikimedia Commons alberga una categoría multimedia sobre Europa.
+    Europa, a Continuing Story of Discovery at NASA.
+    The Calendars of Jupiter.
+
+
+    Datos: Q3143
+    Multimedia: Europa (moon)
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

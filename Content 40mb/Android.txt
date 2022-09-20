@@ -1,0 +1,376 @@
+Android
+
+Android es un sistema operativo móvil desarrollado por Google, basado en el Kernel de Linux y otros software de código abierto. Fue diseñado para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas, relojes inteligentes, automóviles y televisores.
+Android
+Parte de la familia Linux
+
+
+
+
+Pantalla de Inicio de Android 9.0 Pie
+Desarrollador
+Google
+Open Handset Alliance
+https://www.android.com
+Información general
+Modelo de desarrollo	Código abierto
+Lanzamiento inicial	23 de septiembre de 2008 (info)
+Última versión estable	9.0 "Pie"
+6 de agosto de 2018 (10 meses y 6 días)
+Última versión en pruebas	Android Q (info)
+03 de abril de 2019 (2 meses y 9 días)
+Tipo de mercado	Teléfonos inteligentes
+Tabletas
+Televisión inteligente
+Android TV
+Android Auto
+Android One
+Wear OS
+Escrito en	Java (UI), C (núcleo), C++
+Núcleo	Núcleo de Linux Modificado
+Tipo de núcleo	Monolítico
+Interfaz gráfica predeterminada	Material Design
+Plataformas admitidas	32 y 64 bits ARM, x64, x86, MIPS y MIPS64
+Sistema de gestión de paquetes	Google Play, APK y alternativas como F-Droid y Aptoide
+Método de actualización	OTA
+Play Store
+Licencia	Apache 2.0 y GNU GPL 2
+Estado actual	En desarrollo
+Idiomas	Multilingüe
+En español	 
+Soporte técnico
+activo
+
+Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y que adquirió en 2005. Android fue presentado en 2007 junto con la fundación del Open Handset Alliance (un consorcio de compañías de hardware, software y telecomunicaciones) para avanzar en los estándares abiertos de los dispositivos móviles. La versión básica de Android es conocida como Android Open Source Project (AOSP). Android es el sistema operativo móvil más utilizado del mundo, con una cuota de mercado superior al 80 % al año 2017, muy por encima de IOS.
+
+Según los documentos secretos filtrados en 2013 y 2014, el sistema operativo es uno de los objetivos de las agencias de inteligencia internacionales.
+Historia
+
+En julio de 2005, la multinacional Google compra Android Inc. El 5 de noviembre de 2007 se crea la Open Handset Alliance, un conglomerado de fabricantes y desarrolladores de hardware, software y operadores de servicio. El mismo día se anuncia la primera versión del sistema operativo: Android 1.0 Apple Pie. Los terminales con Android no estarían disponibles hasta el año 2008. Las unidades vendidas de teléfonos inteligentes con Android se ubican en el primer puesto en los Estados Unidos, en el segundo y tercer trimestres de 2010, con una cuota de mercado de 43.6 % en el tercer trimestre. A escala mundial alcanzó una cuota de mercado del 50.9 % durante el cuarto trimestre de 2011, más del doble que el segundo sistema operativo. (iOS de Apple, Inc.)
+
+Tiene una gran comunidad de desarrolladores creando aplicaciones para extender la funcionalidad de los dispositivos. A principios de 2018 se superaban ya los dos millones de aplicaciones disponibles en Google Play, la tienda de aplicaciones oficial de Android; a estas habría que añadir las disponibles en otras tiendas no oficiales, como Samsung Apps, de Samsung, SlideME, de Java, y Amazon Appstore. Google Play es la tienda de aplicaciones en línea administrada por Google, aunque existe la posibilidad de obtener software externamente. La tienda F-Droid es completamente de código abierto así como sus aplicaciones, una alternativa al software privativo. Los programas están escritos en el lenguaje de programación Java. No obstante, no es un sistema operativo libre de malware, aunque la mayoría de ello es descargado de sitios de terceros.
+
+El anuncio del sistema Android se realizó el 5 de noviembre de 2007 junto con la creación de la Open Handset Alliance, un consorcio de 78 compañías de hardware, software y telecomunicaciones dedicadas al desarrollo de estándares abiertos para dispositivos móviles. Google liberó la mayoría del código de Android bajo la licencia Apache, una licencia libre y de código abierto.
+
+La estructura del sistema operativo Android se compone de aplicaciones que se ejecutan en un framework Java de aplicaciones orientadas a objetos sobre el núcleo de las bibliotecas de Java en una máquina virtual Dalvik con compilación en tiempo de ejecución hasta la versión 5.0, luego cambió al entorno Android Runtime (ART).
+
+Las bibliotecas escritas en lenguaje C incluyen un administrador de interfaz gráfica (surface manager), un framework OpenCore, una base de datos relacional SQLite, una Interfaz de programación de API gráfica OpenGL ES 2.0 3D, un motor de renderizado WebKit, un motor gráfico SGL, SSL y una biblioteca estándar de C Bionic. El sistema operativo está compuesto por 12 millones de líneas de código, incluyendo 3 millones de líneas de XML, 2.8 millones de líneas de lenguaje C, 2.1 millones de líneas de Java y 1.75 millones de líneas de C++.
+Reemplazo de Dalvik por ART
+
+Hasta la versión 4.4.3 Android utiliza Dalvik como máquina virtual con la compilación justo a tiempo (JIT) para ejecutar Dalvik dex-code (Dalvik ejecutable), que es una traducción de Java bytecode. Siguiendo el principio JIT, además de la interpretación de la mayoría del código de la aplicación, Dalvik realiza la compilación y ejecución nativa de segmentos de código seleccionados que se ejecutan con frecuencia (huellas) cada vez que se inicia una aplicación. Android 4.4 introdujo el ART (Android Runtime) como un nuevo entorno de ejecución, que compila el Java bytecode durante la instalación de una aplicación. Se convirtió en la única opción en tiempo de ejecución en la versión 5.0.
+HTC Dream o T-Mobile G1, el primer dispositivo lanzado comercialmente con Android (2008).
+Etimología
+
+Tanto el nombre Android (androide en español) como Nexus One hacen alusión a la novela de Philip K. Dick ¿Sueñan los androides con ovejas eléctricas?, que posteriormente fue adaptada al cine como Blade Runner. Tanto el libro como la película se centran en un grupo de androides llamados replicantes del modelo Nexus 6.
+
+El logotipo es el robot Andy.
+Adquisición por parte de Google
+
+En julio de 2005, Google adquirió Android Inc., una pequeña compañía de Palo Alto, California fundada en 2003. Entre los cofundadores de Android que se fueron a trabajar a Google están Andy Rubin (cofundador de Danger), Rich Miner (cofundador de Wildfire Communications, Inc.), Nick Sears (alguna vez VP en T-Mobile), y Chris White (quien encabezó el diseño y el desarrollo de la interfaz en WebTV). En aquel entonces, poco se sabía de las funciones de Android Inc. fuera de que desarrollaban software para teléfonos móviles. Esto dio pie a rumores de que Google estaba planeando entrar en el mercado de los teléfonos móviles. También en ese año se creo la mascota de Android: "Andy", como un androide verde simbolizando la traducción literal de Android Inc. La diseñadora del proyecto fue Irina Blok.
+
+En Google, el equipo liderado por Rubin desarrolló una plataforma para dispositivos móviles basada en el núcleo Linux que fue promocionado a fabricantes de dispositivos y operadores con la promesa de proveer un sistema flexible y actualizable. Se informó que Google había alineado ya una serie de fabricantes de hardware y software y señaló a los operadores que estaba abierto a diversos grados de cooperación por su parte.
+
+La especulación sobre que el sistema Android de Google entraría en el mercado de la telefonía móvil se incrementó en diciembre de 2006. Reportes de BBC y The Wall Street Journal señalaron que Google quería sus servicios de búsqueda y aplicaciones en teléfonos móviles y estaba muy empeñado en ello. Medios impresos y en línea pronto reportaron que Google estaba desarrollando un teléfono con su marca.
+
+En septiembre de 2007, «InformationWeek» difundió un estudio de Evalueserve que reportaba que Google había solicitado diversas patentes en el área de la telefonía móvil.
+Open Handset Alliance
+
+El 5 de noviembre de 2007 la Open Handset Alliance, un consorcio de varias compañías entre las que están Texas Instruments, Broadcom Corporation, Nvidia, Qualcomm, Samsung Electronics, Sprint Nextel, Intel, LG, Marvell Technology Group, Motorola, y T-Mobile; se estrenó con el fin de desarrollar estándares abiertos para dispositivos móviles. Junto con la formación de la Open Handset Alliance, la OHA estrenó su primer producto, Android, una plataforma para dispositivos móviles construida sobre la versión 2.6 de Linux.
+
+El 9 de diciembre de 2008, se anunció que 15 nuevos miembros se unirían al proyecto Android, incluyendo PacketVideo, ARM Holdings, Atheros Communications, Asustek, Garmin, Softbank, Sony Ericsson, Huawei, Toshiba, Vodafone y ZTE.
+
+El 24 de febrero de 2014, Nokia presentó sus teléfonos inteligentes corriendo Android 4.1 Jelly Bean (aunque corriendo una versión propia, tomando la base de AOSP). Se trata de los Nokia X, X+ y XL.
+Eric Schmidt, Andy Rubin y Hugo Barra, en conferencia de prensa 2012 para anunciar tableta Nexus 7 de Google
+Herramienta del gobierno de EEUU
+Véase también: Guerra comercial entre China y Estados Unidos
+
+El 19 de mayo de 2019 Google anunció oficialmente que deja de prestar servicio a los usuarios de móviles Huawei en lo que se refiere a actualizaciones del mismo y, en el futuro a permitir a los mismos la utilización de sus aplicaciones (Gmail, google maps, etc). La razón es el conflicto comercial entre EE.UU. y China que llevó al gobierno estadounidense a incluir a la empresa fabricante en la lista negra de colaboradores con el gobierno chino, si bien no se han presentado pruebas de ningún tipo.
+
+Este hecho, que supone un duro golpe económico-empresarial a Huawei, ha suscitado serias dudas sobre la fiabilidad del sistema Android, ya que este tipo de acciones pueden extenderse a acciones de otro tipo, con una motivación tanto política como comercial. Dada la dependencia del sistema, acciones semejantes se pueden emprender por parte de Google contra cualquier tipo de aparatos que lo utilizan o generar órdenes molestas (vía teléfono, altavoces inteligentes, automóviles conectados, etc) o el espionaje a través de los equipos conectados (cámaras, micrófonos, etc).
+Historial de actualizaciones
+
+Android ha visto numerosas actualizaciones desde su liberación inicial. Estas actualizaciones al sistema operativo base típicamente arreglan fallos y agregan nuevas funciones. Generalmente cada actualización del sistema operativo Android es desarrollada bajo un nombre en código de un elemento relacionado con dulces en orden alfabético.
+
+La reiterada aparición de nuevas versiones que, en muchos casos, no llegan a funcionar correctamente en el hardware diseñado para versiones previas, hacen que Android sea considerado uno de los elementos promotores de la obsolescencia programada.
+
+Android ha sido criticado muchas veces por la fragmentación que sufren sus terminales al no ser soportado con actualizaciones constantes por los distintos fabricantes. Se creyó que esta situación cambiaría tras un anuncio de Google en el que comunicó que los fabricantes se comprometerán a aplicar actualizaciones al menos 18 meses desde su salida al mercado, pero esto al final nunca se concretó y el proyecto se canceló. Google actualmente intenta enmendar el problema con su plataforma actualizable Servicios de Google Play (que funciona en Android 2.2 y posteriores), separando todas las aplicaciones posibles del sistema (como Maps, el teclado, Youtube, Drive, e incluso la propia Play Store) para poder actualizarlas de manera independiente, e incluyendo la menor cantidad posible de novedades en las nuevas versiones de Android.
+Características
+
+Características y especificaciones actuales:
+Diseño de dispositivo 	La plataforma es adaptable a pantallas de mayor resolución, VGA, biblioteca de gráficos 2D, biblioteca de gráficos 3D basada en las especificaciones de la OpenGL ES 2.0 y diseño de teléfonos tradicionales.
+Almacenamiento 	SQLite, una base de datos liviana, que es usada para propósitos de almacenamiento de datos.
+Conectividad 	Android soporta las siguientes tecnologías de conectividad: GSM/EDGE, IDEN, CDMA, EV-DO, UMTS, Bluetooth, Wi-Fi, LTE, HSDPA, HSPA+, NFC y WiMAX, GPRS, UMTS y HSDPA+.
+Mensajería 	SMS y MMS son formas de mensajería, incluyendo mensajería de texto, además del servicio de Firebase Cloud Messaging (FCM) siendo la nueva versión de Google Cloud Messaging (GCM) bajo la marca Firebase con los nuevos SDK para realizar el desarrollo de mensajería en la nube mucho más sencillo.
+Navegador web 	El navegador web incluido en Android está basado en el motor de renderizado de código abierto WebKit, emparejado con el motor JavaScript V8 de Google Chrome. El navegador por defecto de Ice Cream Sandwich obtiene una puntuación de 100/100 en el test Acid3.
+Soporte de Java 	Aunque la mayoría de las aplicaciones están escritas en Java, no hay una máquina virtual Java en la plataforma. El bytecode Java no es ejecutado, sino que primero se compila en un ejecutable Dalvik y se ejecuta en la Máquina Virtual Dalvik, Dalvik es una máquina virtual especializada, diseñada específicamente para Android y optimizada para dipositivos móviles que funcionan con batería y que tienen memoria y procesador limitados. A partir de la versión 5.0, se utiliza el Android Runtime (ART). El soporte para J2ME puede ser agregado mediante aplicaciones de terceros como el J2ME MIDP Runner.
+Soporte multimedia 	Android soporta los siguientes formatos multimedia: WebM, H.263, H.264 (en 3GP o MP4), MPEG-4 SP, AMR, AMR-WB (en un contenedor 3GP), AAC, HE-AAC (en contenedores MP4 o 3GP), MP3, MIDI, Ogg Vorbis, WAV, JPEG, PNG, GIF y BMP.
+Soporte para streaming 	Streaming RTP/RTSP (3GPP PSS, ISMA), descarga progresiva de HTML (HTML5 <video> tag). Adobe Flash Streaming (RTMP) es soportado mediante el Adobe Flash Player. Se planea el soporte de Microsoft Smooth Streaming con el port de Silverlight a Android. Adobe Flash HTTP Dynamic Streaming estará disponible mediante una actualización de Adobe Flash Player.
+Soporte para hardware adicional 	Android soporta cámaras de fotos, de vídeo, pantallas táctiles, GPS, acelerómetros, giroscopios, magnetómetros, sensores de proximidad y de presión, sensores de luz, gamepad, termómetro, aceleración por GPU 2D y 3D.
+Entorno de desarrollo 	Incluye un emulador de dispositivos, herramientas para depuración de memoria y análisis del rendimiento del software. Inicialmente el entorno de desarrollo integrado (IDE) utilizado era Eclipse con el plugin de Herramientas de Desarrollo de Android (ADT). Ahora se considera como entorno oficial Android Studio, descargable desde la página oficial de desarrolladores de Android.
+Google Play 	Google Play es un catálogo de aplicaciones gratuitas o de pago en el que pueden ser descargadas e instaladas en dispositivos Android sin la necesidad de un PC.
+Multi-táctil 	Android tiene soporte nativo para pantallas capacitivas con soporte multitáctil que inicialmente hicieron su aparición en dispositivos como el HTC Hero. La funcionalidad fue originalmente desactivada a nivel de kernel (posiblemente para evitar infringir patentes de otras compañías). Más tarde, Google publicó una actualización para el Nexus One y el Motorola Droid que activa el soporte multitáctil de forma nativa.
+Bluetooth 	El soporte para A2DF y AVRCP fue agregado en la versión 1.5; el envío de archivos (OPP) y la exploración del directorio telefónico fueron agregados en la versión 2.0; y el marcado por voz junto con el envío de contactos entre teléfonos lo fueron en la versión 2.2. Los cambios incluyeron:
+Videollamada 	Android soporta videollamada a través de Hangouts (antiguo Google Talk) desde su versión HoneyComb.
+Multitarea 	Multitarea real de aplicaciones está disponible, es decir, las aplicaciones que no estén ejecutándose en primer plano reciben ciclos de reloj.
+Características basadas en voz 	La búsqueda en Google a través de voz está disponible como "Entrada de Búsqueda" desde la versión inicial del sistema.
+Tethering 	Android soporta tethering, que permite al teléfono ser usado como un punto de acceso alámbrico o inalámbrico (todos los teléfonos desde la versión 2.2, no oficial en teléfonos con versión 1.6 o inferiores mediante aplicaciones disponibles en Google Play (por ejemplo PdaNet). Para permitir a un PC usar la conexión de datos del móvil Android se podría requerir la instalación de software adicional.
+Arquitectura
+Arquitectura del sistema Android
+
+Los componentes principales del sistema operativo de Android (cada sección se describe en detalle):
+
+    Aplicaciones: las aplicaciones base incluyen un cliente de correo electrónico, programa de SMS, calendario, mapas, navegador, contactos y otros. Todas las aplicaciones están escritas en lenguaje de programación Java.
+    Marco de trabajo de aplicaciones: los desarrolladores tienen acceso completo a los mismas API del entorno de trabajo usados por las aplicaciones base. La arquitectura está diseñada para simplificar la reutilización de componentes; cualquier aplicación puede publicar sus capacidades y cualquier otra aplicación puede luego hacer uso de esas capacidades (sujeto a reglas de seguridad del framework). Este mismo mecanismo permite que los componentes sean reemplazados por el usuario.
+    Bibliotecas: Android incluye un conjunto de bibliotecas de C/C++ usadas por varios componentes del sistema. Estas características se exponen a los desarrolladores a través del marco de trabajo de aplicaciones de Android. Algunas son: System C library (implementación biblioteca C estándar), bibliotecas de medios, bibliotecas de gráficos, 3D y SQLite, entre otras.
+    Runtime de Android: Android incluye un set de bibliotecas base que proporcionan la mayor parte de las funciones disponibles en las bibliotecas base del lenguaje Java. Cada aplicación Android corre su propio proceso, con su propia instancia de la máquina virtual Dalvik. Dalvik ha sido escrito de forma que un dispositivo puede correr múltiples máquinas virtuales de forma eficiente. Dalvik ejecutaba hasta la versión 5.0 archivos en el formato de ejecutable Dalvik (.dex), el cual está optimizado para memoria mínima. La Máquina Virtual está basada en registros y corre clases compiladas por el compilador de Java que han sido transformadas al formato.dex por la herramienta incluida dx. Desde la versión 5.0 utiliza el ART, que compila totalmente al momento de instalación de la aplicación.
+    Núcleo Linux: Android depende de Linux para los servicios base del sistema como seguridad, gestión de memoria, gestión de procesos, pila de red y modelo de controladores. El núcleo también actúa como una capa de abstracción entre el hardware y el resto de la pila de software.
+
+Seguridad, privacidad y vigilancia
+Pantalla de Android 4.4.2 KitKat
+
+Según un estudio de Symantec de 2013, demuestra que en comparación con iOS, Android es un sistema explícitamente menos vulnerable. El estudio en cuestión habla de 13 vulnerabilidades graves para Android y 387 vulnerabilidades graves para iOS. El estudio también habla de los ataques en ambas plataformas, en este caso Android se queda con 113 ataques nuevos en 2012 a diferencia de iOS que se queda en 1 solo ataque. Incluso así Google y Apple se empeñan cada vez más en hacer sus sistemas operativos más seguros incorporando más seguridad tanto en sus sistemas operativos como en sus mercados oficiales.
+
+Se han descubierto ciertos comportamientos en algunos dispositivos que limitan la privacidad de los usuarios, de modo similar a iPhone, pero ocurre al activar la opción Usar redes inalámbricas en el menú Ubicación y seguridad, avisando que se guardarán estos datos, y borrándose al desactivar esta opción, pues se usan como una caché y no como un registro tal como hace iPhone.
+Véase también: Datos acerca de la vigilancia mundial (2013 a la fecha)
+
+Como parte de las amplias revelaciones sobre vigilancia masiva filtradas en 2013 y 2014, se descubrió que las agencias de inteligencia estadounidenses y británicas, la Agencia de Seguridad Nacional (NSA) y el Cuartel General de Comunicaciones del Gobierno (GCHQ), respectivamente, tienen acceso a los datos de los usuarios de dispositivos Android. Estas agencias son capaces de leer casi toda la información del teléfono como SMS, geolocalización, correos, notas o mensajes. Documentos filtrados en enero de 2014, revelaron que las agencias interceptan información personal a través de Internet, redes sociales y aplicaciones populares, como Angry Birds, que recopilan información para temas comerciales y de publicidad. Además, según The Guardian, el GCHQ tiene una wiki con guías de las diferentes aplicaciones y redes de publicidad para saber los diferentes datos que pueden ser interceptados. Una semana después de salir esta información a la luz, el desarrollador finlandés Rovio, anunció que estaba reconsiderando sus relaciones con las distintas plataformas publicitarias y exhortó a la industria en general a hacer lo mismo.
+
+Las informaciones revelaron que las agencias realizan un esfuerzo adicional para interceptar búsquedas en Google Maps desde Android y otros teléfonos inteligentes para recopilar ubicaciones de forma masiva. La NSA y el GCHQ insistieron en que estas actividades cumplen con las leyes nacionales e internacionales, aunque The Guardian afirmó que «las últimas revelaciones podrían sumarse a la creciente preocupación pública acerca de cómo se acumula y utiliza la información, especialmente para aquellos fuera de los EE. UU. que gozan de menos protección en temas de privacidad que los estadounidenses».
+Versiones
+
+Las versiones de Android reciben, en inglés, el nombre de diferentes postres o dulces. En cada versión el postre o dulce elegido empieza por una letra distinta, conforme a un orden alfabético:
+Android 7.0
+Letra	Nombre	Versión	Traducción
+A	Apple Pie	1.0	Tarta de manzana
+B	Banana Bread	1.1	Pan de plátano
+C	Cupcake	1.5	Magdalena
+D	Donut	1.6	Donut
+E	Éclair	2.0 / 2.1	Palo de crema
+F	Froyo	2.2	Yogur helado
+G	Gingerbread	2.3	Pan de jengibre
+H	Honeycomb	3.0 / 3.1 / 3.2	Panal
+I	Ice Cream Sandwich	4.0	Sándwich de helado
+J	Jelly Bean	4.1 / 4.2 / 4.3	Gominola
+K	KitKat	4.4	Kit Kat
+L	Lollipop	5.0 / 5.0.1 / 5.0.2 / 5.1	Piruleta
+M	Marshmallow	6.0 / 6.0.1	Malvavisco
+N	Nougat	7.0 / 7.1 / 7.1.1 / 7.1.2	Turrón
+O	Oreo	8.0 / 8.1	Oreo
+P	Pie	9.0	Pastel
+Q	Q	10.0	Q
+Cuota de mercado
+
+Las versiones de Android más utilizadas hasta finales del 2018 son:
+
+    Android Oreo 8.x (21,5 %)
+    Android Nougat 7.x (28,2 %)
+    Android Marshmallow 6.x (21,3 %)
+    Android Lollipop 5.x (17,9 %)
+    Android KitKat 4.4 (7,6 %)
+    Android Jelly Bean 4.x (3,0 %)
+    Anteriores (0,5 %)
+
+Usos y dispositivos
+
+El sistema operativo Android se usa en teléfonos inteligentes, ordenadores portátiles, netbooks, tabletas, Google TV, relojes de pulsera, auriculares, receptores decodificadores integrados y otros dispositivos.
+
+La plataforma de hardware principal de Android es la arquitectura ARM. Hay soporte para x86 en el proyecto Android-x86, y Google TV utiliza una versión especial de Android x86.
+Android 8.0
+
+El primer teléfono disponible en el mercado para ejecutar Android fue el HTC Dream, dado a conocer al público el 22 de octubre de 2008. A principios de 2010 Google ha colaborado con HTC para lanzar su producto estrella en dispositivos Android, el Nexus One. Google ha continuado la comercialización de la gama Nexus en 2010 con el Samsung Nexus S, en 2011 con el Galaxy Nexus en 2012 con el Nexus 4 y las tabletas Nexus 7 y Nexus 10 en 2014 con el Nexus 6 y la tableta Nexus 9. Estos dispositivos son utilizados para el desarrollo e implementación de Android, siendo los dispositivos que estrenan las nuevas versiones disponibles. En la actualidad existen aproximadamente 1 000 000 de aplicaciones para Android y se estima que 1 500 000 teléfonos móviles se activan diariamente, y en 2013 se llegó a los 1000 millones de teléfonos inteligentes Android en el mundo.[cita requerida]
+
+iOS y Android 2.3.3 Gingerbread pueden ser configurado para un arranque dual en un iPhone o iPod Touch liberados con la ayuda de OpeniBoot y iDroid.
+Diseño y desarrollo
+
+Android es considerado como uno de los modelos de negocio más exitosos, pues su desarrollo estratégico contempla los factores que más se tienen en cuenta dentro de las herramientas y metodologías desarrollados por expertos en negocios. Este sistema operativo se ha convertido en un modelo a seguir por desarrolladores de tendencias y negocios de alto impacto.
+
+Android, al contrario que otros sistemas operativos para dispositivos móviles como iOS o Windows Phone, se desarrolla de forma abierta y se puede acceder tanto al código fuente como a la lista de incidencias donde se pueden ver problemas todavía no resueltos y reportar problemas nuevos.
+
+El que se tenga acceso al código fuente no significa que se pueda tener siempre la última versión de Android en un determinado móvil, ya que el código para soportar el hardware (controladores) de cada fabricante normalmente no es público, así que faltaría un trozo básico del firmware para poder hacerlo funcionar en dicho terminal, y porque las nuevas versiones de Android suelen requerir más recursos, por lo que los modelos más antiguos quedan descartados por razones de poca RAM, velocidad de procesador, etc.
+
+En un principio, Android era eminentemente un sistema operativo pensado para usar con teclado, y gracias a un cursor poder navegar entre las aplicaciones. Desde su comienzo, Android ha sido altamente personalizable. Poco después, antes del lanzamiento del primer teléfono Android, esta filosofía cambió para convertirse en eminentemente táctil, y poder competir contra el iPhone, presentado un año y nueve meses antes.
+Aplicaciones
+
+Las aplicaciones se desarrollan habitualmente en el lenguaje Java con Android Software Development Kit (Android SDK), pero están disponibles otras herramientas de desarrollo, incluyendo un kit de Desarrollo Nativo para aplicaciones o extensiones en C o C++, Google App Inventor, un entorno visual para programadores novatos y varios marcos de aplicaciones basadas en la web multiteléfono. También es posible usar las bibliotecas Qt gracias al proyecto Necesitas SDK.
+
+El desarrollo de aplicaciones para Android no requiere aprender lenguajes complejos de programación. Todo lo que se necesita es un conocimiento aceptable de Java y estar en posesión del kit de desarrollo de software o SDK provisto por Google el cual se puede descargar gratuitamente.
+
+Todas las aplicaciones están comprimidas en formato APK, que se pueden instalar sin dificultad desde cualquier explorador de archivos en la mayoría de dispositivos.
+Google Play
+
+Google Play es la tienda y plataforma en línea de software desarrollado por Google para dispositivos Android. "Play Store" es una aplicación que se encuentra instalada en la mayoría de los dispositivos Android que permite a los usuarios descargar aplicaciones publicadas para diferentes necesidades del usuario como apps de música, juegos, noticias, clima, educación, compras, salud, deportes, mapas y más por los desarrolladores tanto de Google y otros más aunque hay aplicaciones que se deben comprar para descargar por medio de ciertas formas de pago que Google Play pone a disposición como por PayPal, tarjeta de crédito y canjeo de códigos de Play Store para poder usar algunas aplicaciones no gratuitas como juegos principalmente. Para que el usuario pueda usar esta plataforma de Play Store es necesario asociar una cuenta de Gmail con contraseña y usar los beneficios de Google Play. Google retribuye a los desarrolladores el 70 % del precio de las aplicaciones. Esta aplicación reemplazó a Market. Por otra parte, los usuarios pueden instalar aplicaciones desde otras tiendas virtuales (tales como Amazon Appstore  o SlideME) o directamente en el dispositivo si se dispone del archivo APK de la aplicación.
+Android Pay
+
+El sistema de pago que le permite comprar usando un teléfono con Android 4.4 o superior y que el teléfono tenga NFC y el local de compra acepten pagos sin contacto.
+Descripción del logo de Android
+Logo
+
+El logotipo de la palabra Android fue diseñado con la fuente Droid, hecha por Ascender Corporation.
+
+El verde es el color del robot de Android que distingue al sistema operativo. El color print es PMS 376C y color GBA en hexadecimal es #A4C639, como se específica en la Android Brand Guidelines.
+Tipografía
+
+La tipografía de Android se llama Norad, solo usada en el texto del logo. Para Ice Cream Sandwich se introduce una tipografía llamada Roboto, que, según los propios creadores, está pensada para aprovechar mejor la legibilidad en los dispositivos de alta resolución. Más tarde, en 2014 y con Android 5.0 Lollipop, se introduce un rediseño de Roboto. En 2018, con la llegada de Android Pie, Google renueva el diseño del sistema operativo y reemplaza a Roboto por Google Sans.
+Cuota de mercado
+
+La compañía de investigación de mercado Canalys estima que en el segundo trimestre de 2009, Android tendría 2.8 % del mercado de teléfonos inteligentes en el ámbito mundial.
+
+En febrero de 2010, ComScore dijo que la plataforma Android tenía el 9 % del mercado de teléfonos inteligentes en los Estados Unidos, como estaba tasado por los operadores. Esta cifra fue superior al estimado anterior de noviembre de 2009, el cual fue del 9 %. Para finales del tercer trimestre de 2010, el mercado de Android en los Estados Unidos había crecido en un 21.4 %.
+
+En mayo de 2010, Android superó en ventas a iPhone, su principal competidor. De acuerdo a un informe del grupo NPD, Android obtuvo un 28 % de ventas en el mercado de los Estados Unidos, un 8 % más que en el trimestre anterior. En el segundo trimestre de 2010, los dispositivos iOS incrementaron su participación en un 1 %, indicando que Android está tomando mercado principalmente de RIM. Adicionalmente, los analistas apuntaron que las ventajas de que Android fuera un sistema multicanal, multioperador, le permitiría duplicar el rápido éxito que obtuvo el sistema Windows Mobile de Microsoft.
+
+A principios de octubre de 2010, Google agregó 20 países a su lista de lugares geográficos donde los desarrolladores pueden enviar aplicaciones. Para mediados de octubre, la compra de aplicaciones estaba disponible en un total de 32 países.
+
+En noviembre de 2013, Andy Rubin dijo que se activaban 1 500 000 dispositivos diariamente y también. En diciembre de 2011 Andy Rubin dijo que se activaban 700 000 dispositivos diariamente, anteriormente en julio de 2011 se declaró que se activan unos 550 000 dispositivos Android cada día. en comparación con diciembre de 2010 que se activaban 300 000 dispositivos móviles con Android, y los 100 000 que se activaban en mayo de 2010.
+
+En abril de 2013, se hizo público que Android alcanzó el 92 % en ventas de nuevos smartphones para el trimestre comprendido entre diciembre de 2012 y febrero de 2013 en España, seguido de iOS con un 4.4 %
+Demanda de Oracle
+
+A través de un comunicado de prensa, Oracle anunció el 12 de agosto de 2010 una demanda contra Google por violación de propiedad intelectual en el uso de Java en el sistema operativo Android. La razón citada: «Al desarrollar Android, Google a sabiendas, infringió directa y repetidamente la propiedad intelectual de Oracle en relación con Java. Esta demanda busca remediar apropiadamente su infracción».
+
+Sin embargo, el 1 de junio de 2012, se celebró el juicio fallando a favor de Google, siendo así que no violaba ninguna patente de Oracle.
+Véase también
+Mascota de Android hecha con latas, en Nueva York
+
+    APK (formato)
+
+    Anexo:Historial de versiones de Android
+    Android 2.3 · Android Gingerbread
+    Android Honeycomb 3.x · Android Honeycomb/Android 3.x
+    Android 4.0 · Android Ice Cream Sandwich
+    Android 4.1 · Android Jelly Bean
+    Android 4.4 · Android KitKat
+    Android 5.0 · Android Lollipop
+    Cuenta de Google
+    CyanogenMod
+    Dalvik (máquina virtual de Android)
+    Google Chrome OS
+    Google Play
+    GPL
+    Interfaz natural de usuario
+    LineageOS
+    MIUI
+    Replicant
+    Symbian
+    Tethering
+    TouchWiz
+    BB10
+    Windows Phone
+    Windows 10 Mobile
+    Firefox OS
+
+Notas
+
+Al proceso de liberación de las restricciones impuestas por software en los teléfonos inteligentes, relojes inteligentes y tabletas, es decir a los dispositivos con sistema operativo Android, se le denomina Android rooting.
+
+Referencias
+
+    «Philosophy and Goals». Android Open Source Project (en inglés). Google. Archivado desde el original el 1 de mayo de 2012. Consultado el 21 de abril de 2012.
+    «Licenses». Android Open Source Project (en inglés). Open Handset Alliance. Consultado el 22 de octubre de 2008.
+    Elgin, Ben (17 de agosto de 2005). «Google Buys Android for Its Mobile Arsenal». Bloomberg Businessweek (en inglés). Bloomberg. Archivado desde el original el 24 de febrero de 2011. Consultado el 20 de febrero de 2012.
+    «Industry Leaders Announce Open Platform for Mobile Devices» (en inglés). Open Handset Alliance. 5 de noviembre de 2007. Consultado el 17 de febrero de 2012.
+    «Los acuerdos entre Google y los fabricantes». Consultado el 1 de octubre de 2014.
+    Mahapatra, Lisa (11 de noviembre de 2013). «Android Vs. iOS: What’s The Most Popular Mobile Operating System In Your Country?». Consultado el 30 de enero de 2014.
+    Elmer-DeWitt, Philip (10 de enero de 2014). «Don't mistake Apple's market share for its installed base». CNN. Archivado desde el original el 30 de enero de 2014. Consultado el 30 de enero de 2014.
+    Yarow, Jay (28 de marzo de 2014). «This Chart Shows Google's Incredible Domination Of The World's Computing Platforms». Consultado el 23 de abril de 2014.
+    «Samsung sells more smartphones than all major manufacturers combined in Q1». Consultado el 12 de mayo de 2014.
+    «Kantar - Ventas de smartphones: Android, imparable». es.kantar.com. Consultado el 23 de agosto de 2017.
+    «La historia de Android». malavida.com. Consultado el 17 de agosto de 2015.
+    «Android hits top spot in U.S. smartphone market». 4 de agosto de 2010. Consultado el 4 de agosto de 2010.
+    Gabriel Madway (4 de agosto de 2010). «Google's Android leads U.S. smartphones». Reuters. Consultado el 4 de agosto de 2010.
+    «Android Most Popular Operating System in U.S. Among Recent Smartphone Buyers | Nielsen Wire». Blog.nielsen.com. 5 de octubre de 2010. Consultado el 29 de octubre de 2010.
+    «Google's Android software dominates U.S. smartphone market». Mercurynews.com. Consultado el 7 de enero de 2012.
+    «Android Markey sobrepasa las 250.0000 aplicaciones». 14 de julio de 2011. Consultado el 14 de julio de 2010.
+    David Murphy. «Extraponlating the Apple-Android Showdown: Who's Right?». pcmag.com. Consultado el 24 de agosto de 2010.
+    Shankland, Stephen (12 de noviembre de 2007). «Google's Android parts ways with Java industry group». CNET News.
+    Guerrero, Sebastián (28 de febrero de 2011). «Evolución del malware en dispositivos Android». securitybydefault.com. Consultado el 27 de abril de 2011.
+    Jackson, Rob (10 de diciembre de 2008). «Sony Ericsson, HTC Androids Set For Summer 2009». Android Phone Fans. Consultado el 3 de septiembre de 2009.
+    «Android Overview». Open Handset Alliance. Consultado el 23 de septiembre de 2008.
+    -, ART (7 de junio de 2016). «ART». -. -. Consultado el 7 de junio de 2016.
+    «Is the Google Phone an Unauthorized Replicant? - Bits Blog - NYTimes.com».
+    Markoff, John (4 de noviembre de 2007). «I, Robot: The Man Behind the Google Phone». New York Times. Consultado el 14 de octubre de 2008.
+    Kirsner, Scott (2 de septiembre de 2007). «Introducing the Google Phone». The Boston Globe. Consultado el 24 de octubre de 2008.
+    «T-Mobile Brings Unlimited Multiplayer Gaming to US Market with First Launch of Nokia N-Gage Game Deck». Nokia. 23 de septiembre de 2003. Archivado desde el original el 10 de julio de 2009. Consultado el 5 de abril de 2009.
+    Elgin, Ben (17 de agosto de 2005). «Google Buys Android for Its Mobile Arsenal». BusinessWeek. Consultado el 23 de abril de 2009.
+    Block, Ryan (28 de agosto de 2007). «Google is working on a mobile OS, and it's due out shortly». Engadget. Consultado el 6 de noviembre de 2007.
+    Sharma, Amol; Delaney, Kevin J. (2 de agosto de 2007). «Google Pushes Tailored Phones To Win Lucrative Ad Market». The Wall Street Journal. Consultado el 6 de noviembre de 2007.
+    «Google admits to mobile phone plan». directtraffic.org. Google News. 20 de marzo de 2007. Archivado desde el original el 12 de octubre de 2007. Consultado el 6 de noviembre de 2007.
+    McKay, Martha (21 de diciembre de 2006). «Can iPhone become your phone?; Linksys introduces versatile line for cordless service». The Record. p. L9. «And don't hold your breath, but the same cell phone-obsessed tech watchers say it won't be long before Google jumps headfirst into the phone biz. Phone, anyone?»
+    Ackerman, Elise (30 de agosto de 2007). «Blogosphere Aflutter With Linux-Based phone Rumors». Linux Insider. Archivado desde el original el 11 de octubre de 2007. Consultado el 7 de noviembre de 2007.
+    Claburn, Thomas (19 de septiembre de 2007). «Google's Secret Patent Portfolio Predicts gPhone». InformationWeek. Consultado el 6 de noviembre de 2007.
+    Pearce, James Quintana (20 de septiembre de 2007). «Google's Strong Mobile-Related Patent Portfolio». mocoNews.net. Archivado desde el original el 9 de noviembre de 2007. Consultado el 7 de noviembre de 2007.
+    Martínez, Jennifer (10 de diciembre de 2008). «CORRECTED — UPDATE 2-More mobile phone makers back Google's Android». Reuters (Thomson Reuters). Consultado el 13 de diciembre de 2008.
+    Kharif, Olga (9 de diciembre de 2008). «Google's Android Gains More Powerful Followers». BusinessWeek. McGraw-Hill. Consultado el 13 de diciembre de 2008.
+    Jamie Lendino (16 de diciembre de 2011), Google's Android Update Alliance Is Already Dead, pcmag.com
+    «Balky carriers and slow OEMs step aside Google is defragging Android». Ars Technica.com. 2 de septiembre de 2013. Consultado el 18 de octubre de 2014.
+    «What is Android?». Android Developers. 21 de julio de 2009. Consultado el 3 de septiembre de 2009.
+    Topolsky, Joshua (12 de noviembre de 2007). «Google's Android OS early look SDK now available». Engadget. Consultado el 12 de noviembre de 2007.
+    «Android Supported Media Formats». Android Developers. Consultado el 1 de mayo de 2009.
+    «Android J2ME MIDP RUNNER». Netmite.com. Consultado el 7 de enero de 2012.
+    Musil, Steven (11 de febrero de 2009). «Report: Apple nixed Android's multitouch». CNET News. Consultado el 3 de septiembre de 2009.
+    Ziegler, Chris (2 de febrero de 2010). «Nexus One gets a software update, enables multitouch». Engadget. Consultado el 2 de febrero de 2010.
+    «Android 1.5 Platform Highlights». Android Developers. abril de 2009. Consultado el 3 de septiembre de 2009.
+    «Android 2.0 Platform Highlights». Android Developers. Consultado el 27 de octubre de 2009.
+    «Android 2.2 Platform Highlights». Android Developers. 20 de mayo de 2010. Archivado desde el original el 23 de mayo de 2010. Consultado el 23 de mayo de 2010.
+    «Speech Input for Google Search». Android Developers. Archivado desde el original el 12 de noviembre de 2010. Consultado el 3 de noviembre de 2010.
+    JR Raphael (6 de mayo de 2010). «Use Your Android Phone as a Wireless Modem». PCWorld. Consultado el 3 de noviembre de 2010.
+    «Android es más seguro que iOS, pero es mucho más atacado según Symantec». 16 de abril de 2013.
+    González, Juan Carlos (23 de abril de 2011). «Android también almacena datos de la localización del usuario». Consultado el 23 de abril de 2011.
+    Staff (7 de septiembre de 2013). «Privacy Scandal: NSA Can Spy on Smart Phone Data». Consultado el 26 de mayo de 2013.
+    Ball, James. «Angry Birds and 'leaky' phone apps targeted by NSA and GCHQ for user data | World news». The Guardian. Consultado el 26 de mayo de 2014.
+    Ball, James (28 de enero de 2014). «Angry Birds firm calls for industry to respond to NSA spying revelations | World news». The Guardian. Consultado el 26 de mayo de 2014.
+    «Google anuncio Android 5.0 Lollipop». Archivado desde el original el 5 de noviembre de 2015. Consultado el 15 de octubre de 2014.
+    «Android 6.0 Marshmallow». Consultado el 17 de agosto de 2015.
+    https://developer.android.com/about/dashboards/
+    «i'm Watch». Live.imwatch.it. Consultado el 7 de enero de 2012.
+    «Análisis Comprar Qviart Undro 2 | Decodificadores y receptores satélite Qviart: Combo, Unic, Undro, Mini.». decoqviart.com. Consultado el 17 de octubre de 2016.
+    Jolie O'Dell (12 de mayo de 2011). «Androids Unite: How Ice Cream Sandwich Will End the OS Schism». Mashable. Consultado el 9 de junio de 2011.
+    Laura June (6 de septiembre de 2010). «Toshiba AC100 Android smartbook hits the United Kingdom». Engadget. Consultado el 9 de junio de 2011.
+    «Run Android on your netbook or desktop». How-To Geek. Consultado el 7 de enero de 2012.
+    «Android-x86 - Porting Android to x86».
+    «T-Mobile Unveils the T-Mobile G1 - the First Phone Powered by Android». HTC. Consultado el 19 de mayo de 2009. AT&T's first device to run the Android OS was the Motorola Backflip.
+    Wray, Richard (14 de marzo de 2010). «Google forced to delay British launch of Nexus phone». The Guardian (London).
+    David Wang (19 de mayo de 2010). «How to Install Android on Your iPhone». pcworld.com.
+    «Idroidproject.org». Idroidproject.org. Consultado el 8 de agosto de 2011.
+    «Código fuente de Android» (en inglés).
+    «Lista de incidencias de Android» (en inglés).
+    «This was the original 'Google Phone' presented in 2006» (en inglés).
+    «Android SDK». Developer.android.com. Consultado el 7 de enero de 2012.
+    Ganapati, Priya (11 de junio de 2010). «Independent App Stores Take On Google’s Android Market». Wired News. Consultado el 2 de febrero de 2011.
+    «Cómo instalar en el tablet las aplicaciones que se descargan en el ordenador». 23 de junio de 2011. Consultado el 7 de enero de 2012.
+    «Android Pay: el nuevo app y sistema de pagos móviles de Google». CNET en Español. Consultado el 30 de abril de 2017.
+    Woyke, Elizabeth (26 de septiembre de 2008). «Android's Very Own Font». Forbes.
+    «Brand Guidelines». Android. 23 de marzo de 2009. Consultado el 30 de octubre de 2009.
+    «Android Brand Guidelines». Android. 23 de marzo de 2009. Consultado el 10 de abril de 2010.
+    «Canalys: iPhone outsold all Windows Mobile phones in Q2 2009». AppleInsider. 21 de agosto de 2009. Consultado el 21 de septiembre de 2009.
+    «comScore Reports February 2010 U.S. Mobile Subscriber Market Share». Comscore.com. 5 de abril de 2010. Consultado el 24 de diciembre de 2010. «RIM, 42.1%; Apple, 25.4%; Microsoft, 15.1%; Google (Android), 9.0%; Palm, 5.4%; others, 3.0%».
+    «comScore Reports September 2010 U.S. Mobile Subscriber Market Share». Comscore.com. 3 de noviembre de 2010. Consultado el 24 de diciembre de 2010.
+    Greg Sandoval (2 de agosto de 2010). «More signs iPhone under Android attack». Consultado el 4 de agosto de 2010.
+    «Google expands Android's reach, accepting paid apps from 20 more countries, selling to 18 more». Engadget. 1 de octubre de 2010. Consultado el 29 de octubre de 2010.
+    «Ya se activan más de 700.000 Android cada día». TICbeat. 21 de diciembre de 2011. Consultado el 7 de enero de 2012.
+    «550.000 terminales Android activados cada día». Siliconnews.es. 15 de julio de 2011. Consultado el 7 de enero de 2012.
+    «Andy Rubin: over 300,000 Android phones activated daily». Engadget. 9 de diciembre de 2010. Consultado el 24 de diciembre de 2010.
+    Arthur, Charles (25 de junio de 2010). «Eric Schmidt's dog whistle to mobile developers: abandon Windows Phone». The Guardian (London).
+    «Android ya está en 9 de cada 10 nuevos smartphones». 17 de abril de 2013. Consultado el 19 de abril de 2013.
+    Esains, Victoria (13 de agosto de 2010). «Oracle demanda a Google por violar propiedad intelectual de Java con Android». Consultado el 23 de abril de 2011.
+    Peñarredonda, José Luis (1 de junio de 2012). «Google gana definitivamente su juicio contra Oracle». enter.co (en inglés). Consultado el 29 de julio de 2012. 
+
+Enlaces externos
+
+    Wikimedia Commons alberga una categoría multimedia sobre Android.
+    Sitio web oficial de Android
+
+Sergey Brin presenta la plataforma Android en YouTube (en inglés)
+
+    Google Play
+    Android en YouTube
+    Android en Twitter
+    Android en Facebook
+    Android en Instagram
+    Android en Google+
+
+
+    Datos: Q94
+    Multimedia: Android (operating system)
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

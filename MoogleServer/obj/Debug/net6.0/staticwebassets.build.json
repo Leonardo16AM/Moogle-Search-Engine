@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o9oUq+xdrvpoXBBHyNQXGVbTzQ5kszgCYBpf2RapEHY=",
+  "Hash": "lIS5LQGXCtSy98KYjVKeqOE8L3hYM1nS7d0ylyP3sQA=",
   "Source": "MoogleServer",
   "BasePath": "_content/MoogleServer",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MoogleServer/wwwroot",
+      "Name": "MoogleServer\\wwwroot",
       "Source": "MoogleServer",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MoogleServer.styles.css",
       "SourceId": "MoogleServer",
       "SourceType": "Computed",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "MoogleServer.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css"
+      "OriginalItemSpec": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MoogleServer.styles.css"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MoogleServer.bundle.scp.css",
       "SourceId": "MoogleServer",
       "SourceType": "Computed",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "MoogleServer.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/leonardo/UH/Moogle/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MoogleServer.bundle.scp.css"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/open-iconic/README.md",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\css\\site.css",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/favicon.ico",
+      "Identity": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\favicon.ico",
       "SourceId": "MoogleServer",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/leonardo/UH/Moogle/MoogleServer/wwwroot/",
+      "ContentRoot": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleServer\\wwwroot\\",
       "BasePath": "_content/MoogleServer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     }
   ]
 }

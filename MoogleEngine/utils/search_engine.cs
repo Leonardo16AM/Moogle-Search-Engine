@@ -9,20 +9,21 @@ public class search_engine{
    
    
     public search_engine(){
-        
+        // Build the search engine
         var watch=System.Diagnostics.Stopwatch.StartNew();
         Console.WriteLine($" Reading files ...");
         if(!model.built){    
             model.build_from_txts();
             model.built=true;
         }
-        Console.WriteLine($"Build Time: { watch.ElapsedMilliseconds } ");
+        Console.WriteLine($"Build Time: { watch.ElapsedMilliseconds/1000 } ");
     } 
 
 
 
 
     private SearchItem quick_snippet(SearchItem v,string s, int snippet_length=200){
+        //Fast snippet
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
         string[] ntext=v.Snippet.Split(delimiters);
 
@@ -37,6 +38,7 @@ public class search_engine{
     }
 
     private SearchItem snippet(SearchItem v,string s, int snippet_length=200){
+        // Snippet 
         char[] delimiters = {' ', ',', '.', ':',';', '\t', '\n'};
         string[] ntext=v.Snippet.Split(delimiters);
 
@@ -100,6 +102,7 @@ public class search_engine{
 
 
     private double op_not_in(List<string> tnorm,List<string> qnorm,string_map word_count){
+        // Operator "!"         
         bool del=false;
         for(int i=0;i<qnorm.Count;i++){
             if(qnorm[i]=="!"){
@@ -118,7 +121,7 @@ public class search_engine{
     }
 
     private double op_obl_in(List<string> tnorm,List<string> qnorm,string_map word_count){
-
+        // Operator "^"
         bool del=false;
         for(int i=0;i<qnorm.Count;i++){
             if(qnorm[i]=="^"){
@@ -137,7 +140,7 @@ public class search_engine{
     }
 
     private double op_more_imp(List<string> tnorm,List<string> qnorm,string_map word_count){
-
+        // Operator "*"
         bool del=false;
         int cnt=0;
         double ret=1.0;
@@ -160,7 +163,7 @@ public class search_engine{
     }
 
     private double op_near(List<string> tnorm,List<string> qnorm){
-
+        // Operator "~"
         double ret=1.0;
 
           for(int i=0;i<qnorm.Count;i++){
@@ -193,6 +196,7 @@ public class search_engine{
     }
 
     public double calculate_importance(SearchItem v,string q){
+        // Calculates importance index
         List<string> tnorm=string_utils.normalize_text(v.Snippet);
         List<string> qnorm=string_utils.normalize_text_with_quotation(q);
         string_map word_count=new string_map();
@@ -210,6 +214,7 @@ public class search_engine{
 
     
     List<SearchItem> operators(List<SearchItem> v,string s){
+        // Operators
         for(int i=0;i<v.Count;i++){
             v[i].Score=(float)calculate_importance(v[i],s);
         }
@@ -219,6 +224,7 @@ public class search_engine{
 
 
     public SearchItem highlight(SearchItem v,string q){
+        // Highlights words searched
         List<string>words=string_utils.normalize_text(q);
         string new_snip="";
         string snip=v.Snippet;
@@ -245,6 +251,7 @@ public class search_engine{
 
 
     public List<SearchItem>  query(string s,int cant=7,bool fast=false){
+        // Runs the query
         Console.WriteLine($"Words {model.words.Count}  Texts:{model.txt_names.Count}");
         Console.WriteLine(s);
         if(fast==false){
@@ -269,7 +276,10 @@ public class search_engine{
 
             return nres;
         }else{    
-            List<SearchItem> result= model.query(s,cant); 
+            List<SearchItem> result= model.query(s,cant,fast); 
+            for(int i=0;i<result.Count;i++){
+                result[i]=quick_snippet(result[i],s);
+            }
             return result;
         }
     }

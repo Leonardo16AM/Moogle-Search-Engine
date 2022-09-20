@@ -1,0 +1,372 @@
+Alan Turing
+
+Alan Mathison Turing, OBE (Paddington, Londres, 23 de junio de 1912-Wilmslow, Cheshire, 7 de junio de 1954), fue un matemático, lógico, científico de la computación, criptógrafo, filósofo, biólogo teórico, maratoniano y corredor de ultradistancia británico.
+Alan Turing
+
+Foto de pasaporte de Alan Turing a los 16 años
+Información personal
+Nombre en inglés	Alan Mathison Turing
+Nacimiento	23 de junio de 1912
+Maida Vale (Reino Unido de Gran Bretaña e Irlanda) o Warrington Lodge (Reino Unido de Gran Bretaña e Irlanda)
+Fallecimiento	7 de junio de 1954 (41 años)
+Wilmslow (Reino Unido)
+Causa de la muerte	Intoxicación cianhídrica
+Residencia	Maida Vale y Guildford
+Nacionalidad	Británica
+Religión	Ateísmo
+Familia
+Padres	Julius Mathison Turing
+Ethel Sara Stoney
+Educación
+Educado en	
+
+    Universidad de Princeton
+    Universidad de Cambridge
+    Sherborne School (desde 1926)
+    King's College (1931-1934)
+
+Supervisor doctoral	Alonzo Church
+Alumno de	
+
+    Alonzo Church
+
+Información profesional
+Ocupación	Informático teórico, matemático, profesor universitario, criptógrafo y lógico
+Área	Criptoanálisis, ciencias de la computación, matemáticas, lógica y criptografía
+Empleador	
+
+    Universidad de Cambridge
+    Laboratorio Nacional de Física (Reino Unido)
+    GCHQ (1938-1945)
+    Universidad de Mánchester (desde 1948)
+
+Obras notables	
+
+    Computing machinery and intelligence
+    Problema de la parada
+    máquina de Turing
+    Test de Turing
+
+Miembro de	
+
+    Royal Society
+
+Carrera deportiva
+Deporte	Atletismo
+Distinciones	
+
+    Miembro de la Royal Society
+    Oficial de la Orden del Imperio británico
+    Orden del Imperio británico
+    Royal Society
+    Premio Smith (1936)
+
+Información criminal
+Cargo(s) criminal(es)	gran indecencia
+Firma	
+Web
+Sitio web	
+www.turingarchive.org
+
+Es considerado uno de los padres de la ciencia de la computación y precursor de la informática moderna. Proporcionó una influyente formalización de los conceptos de algoritmo y computación: la máquina de Turing. Formuló su propia versión que hoy es ampliamente aceptada como la tesis de Church-Turing (1936).
+
+Durante la segunda guerra mundial, trabajó en descifrar los códigos nazis, particularmente los de la máquina Enigma, y durante un tiempo fue el director de la sección Naval Enigma de Bletchley Park. Se ha estimado que su trabajo acortó la duración de esa guerra entre dos y cuatro años. Tras la guerra, diseñó uno de los primeros computadores electrónicos programables digitales en el Laboratorio Nacional de Física del Reino Unido y poco tiempo después construyó otra de las primeras máquinas en la Universidad de Mánchester.
+
+En el campo de la inteligencia artificial, es conocido sobre todo por la concepción del test de Turing (1950), un criterio según el cual puede juzgarse la inteligencia de una máquina si sus respuestas en la prueba son indistinguibles de las de un ser humano.
+
+La carrera de Turing terminó súbitamente tras ser procesado por homosexualidad en 1952. Dos años después de su condena, murió —según la versión oficial por suicidio; sin embargo, su muerte ha dado lugar a otras hipótesis, incluida la del asesinato—. El 24 de diciembre de 2013, la reina Isabel II promulgó el edicto por el que se exoneró oficialmente al matemático, quedando anulados todos los cargos en su contra.
+Biografía
+
+Turing nació en Maida Vale, Londres, aunque fue concebido en Chatrapur (India británica). Su padre Julius Mathison Turing (1873-1974) era miembro del cuerpo de funcionarios británicos en la India. Julius y su esposa Ethel querían que su hijo Alan naciera en el Reino Unido y regresaron a Paddington, donde finalmente nació.
+Su infancia
+
+El matemático británico pasó gran parte de su infancia en la India, dado que su padre trabajaba en la Administración Colonial del país. Desde muy pequeño Turing mostró un gran interés por la lectura (se cuenta que aprendió a leer por sí solo en tres semanas), por los números y los rompecabezas. Sus padres lo inscribieron en el colegio St. Michael cuando tenía seis años; su profesora se percató enseguida de la genialidad de Turing. Sus ansias de conocimiento y experimentación llegaban hasta tal punto que a los ocho años, atraído por la química, diseñó un pequeño laboratorio en su casa. Su carrera escolar estuvo marcada, por un lado, por sus aptitudes y su facilidad por las matemáticas y, por el otro, por su carácter inconformista que le llevaba a seguir sus propias ideas y apartarse del rígido (e ilógico, según su parecer) sistema educativo.
+
+Como curiosidad, cabe decir que Turing recorrió alrededor de 90 kilómetros en bicicleta durante la huelga general de 1926 para poder ir a la escuela, dato que nos hace entender cómo, más adelante, además de científico, fue un atleta notable de rango casi olímpico. Con poco más de quince años, entró en contacto con el trabajo de Albert Einstein y, además de entender sus bases, comprendió sus críticas a las leyes de Newton a partir de un texto en el que no se explicitaba tal cometido.
+Estudios
+Estatua del autor y su retrato de fondo.
+
+Entre enero de 1922 y 1926, Turing estudió en la preparatoria Hazelhurst, una escuela independiente en el pueblo de Frant en Sussex (hoy East Oriental).
+
+En 1926, con catorce años, ingresó en el internado de Sherborne en Dorset. Su primer día de clase coincidió con una huelga general en Inglaterra, pero su determinación por asistir a clase era tan grande que recorrió en solitario, con su bicicleta, los más de 96 kilómetros que separaban Southampton de su escuela, pasando la noche en una posada. Tal hazaña fue recogida en la prensa local.
+
+La inclinación natural de Turing hacia la matemática y la ciencia no le atrajo el respeto de sus profesores de Sherborne, cuyo concepto de educación hacía mayor énfasis en los clásicos. En la escuela de Sherbone, ganó la mayor parte de los premios matemáticos que se otorgaban y, además, realizaba experimentos químicos por su cuenta aunque la opinión del profesorado respecto a la independencia y ambición de Turing no era demasiado favorable. A pesar de ello, Turing continuó mostrando una singular habilidad para los estudios que realmente le gustaban, y llegó a resolver problemas muy avanzados para su edad (16 años) sin ni siquiera haber estudiado cálculo elemental.
+Christopher Morcom
+
+Christopher Morcom estudiaba junto con Turing en la escuela de Sherborne y ambos compartían la pasión por la ciencia. Durante las clases de matemática o física, se intercambiaban notas de comentarios sobre rompecabezas. Chistopher inivitó a Alan a conocer a su madre, una artista. Alan se enamoró de él. Fue su primer amor y la primera persona la cuál creyó en sus ideas y con quién podía continuar desarrollándolas. El 13 de febrero de 1930, solo unas pocas semanas después de su última temporada en Sherborne, Christopher Morcom falleció debido a complicaciones de la tuberculosis bovina, contraída tras beber leche de alguna vaca infectada. Al recordarlo Turing afirmaba: «Mis recuerdos más vívidos de Chris son casi siempre de las cosas tan amables que me decía».
+
+Desde entonces la fe religiosa de Turing se hizo pedazos, y se volvió ateo. También se obsesionó por entender la naturaleza de la conciencia, su estructura y orígenes. Adoptó la convicción de que todos los fenómenos, incluyendo el funcionamiento del cerebro humano, son materialistas. Sin embargo, siguió creyendo en la supervivencia del espíritu después de la muerte.
+La Universidad y sus estudios sobre computabilidad
+El King's College de Cambridge, donde estudió en 1931 y se convirtió en miembro en 1935. Su sala de computación lleva actualmente su nombre.
+
+Debido a su falta de voluntad para esforzarse con la misma intensidad en el estudio de los clásicos que en el de la ciencia y la matemática, Turing suspendió sus exámenes finales varias veces y tuvo que ingresar en la escuela universitaria que eligió en segundo lugar, King's College, Universidad de Cambridge, en vez de en la que era su primera elección, Trinity. Tras su graduación, se trasladó a la Universidad estadounidense de Princeton, donde trabajó con el lógico A. Church. Recibió las enseñanzas de Godfrey Harold Hardy, un respetado matemático que ocupó la cátedra Sadleirian en Cambridge, y que posteriormente, fue responsable de un centro de estudios e investigaciones matemáticas entre 1931 y 1934. En 1935 Turing fue nombrado profesor del King's College.
+Solución al problema de decisión
+
+El Entscheidungsproblem, que se traduce como «problema de decisión», fue un reto en lógica simbólica para encontrar un algoritmo general que decidiera si una fórmula de cálculo de primer orden es un teorema. El problema fue planteado inicialmente por Lebinz en el siglo XVII luego de construir su máquina mecánica de cálculo. David Hilbert formalizó el problema en el VII Congreso Internacional de Matemáticas (Bolonia, 1928), planteando la búsqueda de un procedimiento algorítimico válido para solucionar las posibles cuestiones matemáticas, a través de tres preguntas:
+
+    ¿Son las matemáticas completas?
+    ¿Son las matemáticas consistentes?
+    ¿Son las matemáticas decidibles?”
+
+Si bien Hilbert suponía que la respuesta a las preguntas era afirmativa, Kurt Gödel, meditante los teoremas de Incompletitud demostró que las dos primeras preguntas no podrían serlo ya que, tal como afirma Gödel:
+
+«En cualquier formalización consistente de las matemáticas que sea lo bastante fuerte para definir el concepto de los números naturales, se puede construir una afirmación que ni se puede demostrar ni se puede refutar dentro de ese sistema», mientras que el segundo afirma: «Ningún sistema consistente se puede usar para demostrarse a sí mismo».
+
+Sin embargo, no podían resolver la última pregunta. La dificultad estaba en la ausencia de significado de lo que se entiende por un «procedimiento mecánico». En 1936, Alan Turing en su trabajo En números computables, introduce el concepto de la máquina de Turing y, junto a Alonzo Church demostraron ambos que es imposible escribir tal algoritmo. Como consecuencia, es también imposible decidir con un algoritmo general si ciertas frases concretas de la aritmética son ciertas o falsas.
+Tesis Church-Turing
+
+La tesis de Church-Turing formula hipotéticamente la equivalencia entre los conceptos de función computable y máquina de Turing, que expresado en lenguaje corriente vendría a ser: «Todo algoritmo es equivalente a una máquina de Turing». No es en sí un teorema matemático: es una afirmación formalmente indemostrable, una hipótesis que, no obstante, tiene una aceptación prácticamente universal.
+
+La tesis Church-Turing postula que cualquier modelo computacional existente tiene las mismas capacidades algorítmicas, o un subconjunto, de las que tiene una máquina de Turing.
+La máquina de Turing
+
+En su estudio Los números computables, con una aplicación al Entscheidungsproblem (publicado en 1936), Turing reformuló los resultados obtenidos por Kurt Gödel en 1931 sobre los límites de la demostrabilidad y la computación, sustituyendo al lenguaje formal universal descrito por Gödel por lo que hoy se conoce como máquina de Turing, unos dispositivos formales y simples.
+
+Turing demostró que dicha máquina era capaz de resolver cualquier problema matemático que pudiera representarse mediante un algoritmo. Las máquinas de Turing siguen siendo el objeto central de estudio en la teoría de la computación. Llegó a probar que no había ninguna solución para el problema de decisión, Entscheidungsproblem, demostrando primero que el problema de la parada para las máquinas de Turing es irresoluble: no es posible decidir algorítmicamente si una máquina de Turing dada llegará a pararse o no. Aunque su demostración se publicó después de la demostración equivalente de Alonzo Church respecto a su cálculo lambda, el estudio de Turing es mucho más accesible e intuitivo. También fue pionero con su concepto de «máquina universal (de Turing)», con la tesis de que dicha máquina podría realizar las mismas tareas que cualquier otro tipo de máquina. Su estudio también introduce el concepto de números definibles.
+Máquinas oracle
+
+La mayor parte de 1937 y 1938 la pasó en la Universidad de Princeton, estudiando bajo la dirección de Alonzo Church. Entre 1938 y 1939 volvió a Inglaterra y estudió filosofía de las matemáticas. En 1938 obtuvo el Doctorado en Princeton; en su discurso introdujo el concepto de hipercomputación, en el que ampliaba las máquinas de Turing con las llamadas máquinas oracle, las cuales permitían el estudio de los problemas para los que no existe una solución algorítmica.
+
+Tras su regreso a Cambridge en 1939, asistió a las conferencias de Ludwig Wittgenstein sobre las bases de las matemáticas. Ambos discutieron y mantuvieron un vehemente desencuentro, ya que Turing defendía el formalismo matemático y Wittgenstein criticaba que la matemática estaba sobrevalorada y no descubría ninguna verdad absoluta.
+Análisis criptográfico (desciframiento de códigos)
+El Bombe replicaba la acción de varias máquinas Enigma.
+
+Un día después de la declaración de guerra de Gran Bretaña, en septiembre de 1939, Turing fue convocado a Bletchley Park, donde se encontraba el Servicio Británico de Descifrado. Las nueve mil personas que trabajaban allí, se dedicaron a intentar interpretar las comunicaciones alemanas cifradas en código morse.
+
+El cifrado lo hacían a través de una máquina de sistema rotatorio llamada Enigma (máquina). Enigma había sido inventada en 1918 por Arthur Scherbius. Era similar a una máquina de escribir, en la cual cada vez que una letra era pulsada, era sustituida por otra mediante el uso de tres rotores internos (las máquinas militares llegaron a usar cinco), cuyo resultado era más de 10 000 billones de configuraciones distintas. Debido al carácter portátil de la máquina, los operadores podían estar ubicados en los puestos de mando, interior de los tanques, submarinos, en bombardeos, etc. Independientemente de su locación, los operadores, llevaban las instrucciones de cómo debían colocarse los rotores, y las posiciones cambiaban cada pocos días.
+
+El equipo liderado por Turing, a través de ecuaciones y cálculos, encontraron pautas en los mensajes con lo que pudieron detectar una pequeña parte de su funcionamiento. Sin embargo, todavía no podían descifrarlos. Fue entonces, cuando Turing se preguntó:
+
+"¿Y si para luchar contra una máquina como Enigma hiciese falta otra máquina?"
+
+A raíz de esta pregunta, Turing pudo poner en práctica sus teorías: diseñó la máquina Bombe. Bombe buscaba la configuración de los rotores de la máquina alemana, implementando una cadena de deducciones lógicas para cada combinación posible. Gracias a las mejoras del matemático, Gordon Welchman, el 14 de marzo de 1940, el primer prototipo estaba terminado. Al cabo de un tiempo disponían con más de 200 Bombes.
+
+Los trabajos del Servicio Británico Descifrado, dirigidos por Turing, fueron determinantes para acortar la guerra. Algunos historiadores afirman que su trabajó acortó 2 años la duración de la guerra, salvando alrededor de 14 millones de vidas. Al final la guerra, las bombas se desmantelaron y todo el trabajo permaneció en secreto hasta los setenta. En 1974 el capitán W.F. Winterbotham escribió el libro The Ultra Secret.
+Estudios sobre las primeras computadoras
+El test de Turing es una prueba que propuso Alan Turing buscando una manera de demostrar la existencia de inteligencia en una máquina.
+
+De 1945 a 1948 Turing vivió en Richmond, Londres, donde trabajó en el Laboratorio Nacional de Física (NPL). En 1947 empezó a trabajar en el diseño del ACE (Automatic Computer Engine o Motor de Computación Automática). Paralelamente, existía un proyecto similar en Estados Unidos llamado EDVAC de Von Neumann. El ACE de Turing se diferenciaba en que incluía la implementación de funciones aritméticas en circuitos electrónicos. Su deseo era crear una máquina pudiera ser configurada para hacer cálculos algebraicos, desencriptar códigos, manipular archivos y jugar al ajedrez. Aunque diseñar el ACE era factible, el secretismo que reinaba durante la guerra desembocó en retrasos para iniciar el proyecto por lo que Turing se sintió desilusionado.
+
+Tiempo más tarde creó el Abbreviated Code Instruction, que dio origen de los lenguajes de programación. En 1947 se tomó un año sabático en Cambridge, tiempo durante el cual escribió un trabajo pionero sobre la inteligencia artificial que no fue publicado en vida. En 1948, con la ayuda de Frederic Calland Williams, se dio, por primera vez, la demostración del principio de la máquina de Turing.
+
+Mientras se encontraba en Cambridge y a pesar de su ausencia, se siguió construyendo el prototipo piloto del ACE, que ejecutó su primer programa en mayo de 1950. Aunque la versión completa del ACE de Turing jamás fue construida, el diseño de otras computadoras en todo el mundo le debió mucho a su concepción.
+
+A mediados de 1948 fue nombrado director delegado del laboratorio de computación de la Universidad de Mánchester y trabajó en el software de una de las primeras computadoras reales, la Manchester Mark I. Durante esta etapa también realizó estudios más abstractos y en su artículo de octubre de 1950 «Computing machinery and intelligence» Turing trató el problema de la inteligencia artificial y propuso un experimento que hoy se conoce como test de Turing, con la intención de definir una prueba estándar por la que una máquina podría catalogarse como «sensible» o «sintiente». En el documento, Turing sugirió que en lugar de construir un programa para simular la mente adulta, sería mejor producir uno más simple para simular la mente de un niño y luego someterlo a educación. Una forma invertida de la prueba de Turing se usa ampliamente en Internet, el test CAPTCHA que está diseñado para determinar si un usuario es un humano y no una computadora.
+Test de Turing
+
+El Test de Turing es un método para determinar si una máquina puede pensar.
+
+Nace de un juego de imitación, en donde hay tres personas: un interrogador, un hombre y una mujer. El interrogador está separado de los otros dos, y solo puede comunicarse con ellos a través de un lenguaje que entiendan. El objetivo del interrogador es descubrir quién es la mujer, y quién es el hombre, mientras que el de los otros dos, es convencerlo que son la mujer. En su artículo de 1950, «Computing machinery and intelligence», Turing sustituye a uno de los interrogados por una computadora y cambia los objetivos del juego: reconocer a la máquina.
+
+«Una computadora puede ser llamada inteligente si logra engañar a una persona haciéndole creer que es un humano» - Alan Turing
+
+La forma de hacer pasar el test a una máquina consiste básicamente en una persona hablando con una computadora en otra habitación mediante un sistema de chat. Si la persona es incapaz de determinar si habla con un humano o con una computadora, entonces la computadora se considera inteligente.
+
+Hace 60 años, un grupo de jueces someten a preguntas a una serie de computadoras e intentan hilar una conversación con su interlocutor invisible. Al finalizar, deciden si se han estado comunicando con un ser humano o una máquina.
+
+En el año 2014, por primera vez, el chatbot de Eugene Gootsman, logró convencer a 30 jueces que estaban participando en la prueba de que estaban chateando con un niño ucraniano de 13 años.
+Primer programa de ajedrez por computadora
+
+Entre 1948 y 1950 en conjunto con un antiguo compañero, D. G. Champernowne, empezó a escribir un programa de ajedrez para un ordenador que aún no existía. En 1952 trató de implementarlo en el Ferranti Mark 1, pero por falta de potencia, el ordenador no fue capaz de ejecutar el programa. En su lugar Turing jugó una partida en la que reprodujo manualmente los cálculos que hubiera hecho el ordenador, costando alrededor de hora y media en efectuar un movimiento. Una de las partidas llegó a registrarse, y el programa perdió frente a un colega de Turing, Alick Glennie. Su test fue significativo, característicamente provocativo y una gran contribución para empezar el debate alrededor de la inteligencia artificial que aún hoy continúa.
+Estudios sobre cibernética
+
+Trabajó junto a Norbert Wiener en el desarrollo de la cibernética. Esta rama de estudios se genera a partir de la demanda de sistemas de control que exige el progresivo desarrollo de las técnicas de producción a partir del siglo XX. La cibernética pretende establecer un sistema de comunicación entre el hombre y la máquina como premisa fundamental para administrar los sistemas de control. Sus estudios profundizaron en esta relación estableciendo el concepto de interfaz y cuestionando los límites de simulación del razonamiento humano.
+Estudios sobre la formación de patrones y la biología matemática
+
+Turing trabajó desde 1952 hasta que falleció en 1954 en la biología matemática, concretamente en la morfogénesis. Publicó un trabajo sobre esta materia titulado «Fundamentos químicos de la morfogénesis» en 1952. Su principal interés era comprender la filotaxis de Fibonacci, es decir, la existencia de los números de Fibonacci en las estructuras vegetales. Utilizó ecuaciones de reacción-difusión que actualmente son cruciales para entender la formación de patrones en el campo de biología del desarrollo ontogenético (embriología). Sus trabajos posteriores no se publicaron hasta 1992 en el libro Obras completas de A. M. Turing.
+
+Las teorías de Turing han ido ganando la aceptación de biólogos experimentales, como uno de los mecanismos mediante los cuales células que son genéticamente idénticas pueden diferenciarse y dar origen a organismos complejos.
+Procesamiento por homosexualidad y muerte de Turing
+
+La carrera profesional de Turing se vio truncada cuando lo procesaron por su homosexualidad. En 1952, Arnold Murray, un amante de Turing, ayudó a un cómplice a entrar en la casa de Turing para robarle. Turing acudió a la policía a denunciar el delito. Durante la investigación policial Turing reconoció su homosexualidad, con lo que se le imputaron los cargos de «indecencia grave y perversión sexual» (los actos de homosexualidad eran ilegales en el Reino Unido en esa época), los mismos que a Oscar Wilde más de 50 años antes.
+
+Convencido de que no tenía de qué disculparse, no se defendió de los cargos y fue condenado. Según su ampliamente difundido proceso judicial, se le dio la opción de ir a prisión o de someterse a castración química mediante un tratamiento hormonal de reducción de la libido. Finalmente escogió las inyecciones de estrógenos, que duraron un año y le produjeron importantes alteraciones físicas, como la aparición de pechos o un apreciable aumento de peso, que lo condujeron a padecer de disfunción eréctil.
+Estatua de Alan M. Turing en Whitworth Gardens, Mánchester, Reino Unido.
+
+En una carta de esta época a su amigo Norman Routledge, Turing escribió en forma de falso silogismo una reflexión, relacionando el rechazo social que provoca la homosexualidad con el desafío intelectual que supone demostrar la posibilidad de inteligencia en los ordenadores. En particular, le preocupaba que los ataques a su persona pudieran oscurecer sus razonamientos sobre la inteligencia artificial:
+
+        Turing cree que las máquinas piensan
+        Turing yace con hombres
+        Luego las máquinas no piensan
+
+Dos años después del juicio, en 1954, falleció por envenenamiento con cianuro, aparentemente tras comerse una manzana envenenada que no llegó a ingerir completamente, en un contexto que se estimó oficialmente como suicidio. Varias personas pensaron que su muerte fue intencionada, aunque su madre intentó negar la causa de su muerte, atribuyéndola a una ingestión accidental provocada por la falta de precauciones de Turing en el almacenamiento de sustancias químicas de laboratorio. Los últimos años de su vida fueron amargos y reservados. Esta muerte no esclarecida ha dado lugar a diversas hipótesis incluida la del asesinato.
+
+El 10 de septiembre de 2009, el primer ministro del Reino Unido, Gordon Brown, emitió un comunicado declarando sus disculpas en nombre de su gobierno por el trato que recibió Alan Turing durante sus últimos años de vida. Este comunicado fue consecuencia de una movilización pública solicitando al Gobierno que ofreciera disculpas oficialmente por la persecución contra Alan Turing. Sin embargo, en 2012 el gobierno británico de David Cameron denegó el indulto al científico, aduciendo que la homosexualidad era considerada entonces un delito. Finalmente, el 24 de diciembre de 2013 recibió el indulto de todo tipo de culpa, por orden de la reina Isabel II.
+Reconocimiento póstumo
+Placa conmemorativa en la antigua casa de Turing.
+Estatua de Turing en la Universidad de Surrey.
+
+El 23 de junio de 2001 se inauguró una estatua de Turing en Mánchester. Se encuentra en Sackville Park, entre el edificio de la Universidad de Mánchester en la calle de Whitworth y la gay village de la calle del Canal. Coincidiendo con el 50.º aniversario de su muerte, se descubrió una placa conmemorativa en su antiguo domicilio, Hollymeade, en Wilmslow el 7 de junio de 2004.
+
+La Association for Computing Machinery otorga anualmente el Premio Turing a personas destacadas por sus contribuciones técnicas al mundo de la computación. Este premio está ampliamente considerado como el equivalente del Premio Nobel en el mundo de la computación.
+
+El Instituto Alan Turing fue inaugurado por el UMIST (Instituto de Ciencia y Tecnología de la Universidad de Mánchester) y la Universidad de Mánchester en el verano de 2004.
+
+El 5 de junio de 2004 se celebró un acontecimiento conmemorativo de la vida y la obra de Turing en la Universidad de Mánchester, organizado por el British Logic Colloquium y la British Society for the History of Mathematics.
+
+El 28 de octubre de 2004 se descubrió una estatua de bronce de Alan Turing esculpida por John W. Mills en la Universidad de Surrey. La estatua conmemora el 50.º aniversario de la muerte de Turing. Representa a Turing transportando sus libros a través del campus.
+
+El 23 de junio de 2012, día en el que se conmemoró el centenario del nacimiento de Turing, Google presentó entre sus habituales doodles una pequeña máquina de Turing capaz de comparar dos cadenas de caracteres binarios.
+
+Una leyenda urbana asegura que el logo de Apple Computers (mordisco de la manzana) rinde homenaje a Turing y su suicidio comiendo una manzana envenenada con cianuro. Incluso, el arco iris en el logo sería un homenaje a la homosexualidad de Turing. Sin embargo, estas suposiciones fueron desmentidas por Rob Janoff, creador del logo de Apple y de hecho, los colores ni siquiera se muestran en el mismo orden que en la bandera arco iris, dado que esta fue diseñada dos años más tarde de la creación de dicha imagen.
+Turing en el cine
+
+    El telefilme británico dirigido por Alex Garland, Ex Machina (2015), en el que se trata de hacer pasar la prueba de Turing a una androide con inteligencia artificial.[cita requerida]
+    El telefilme británico Breaking the Code (1996), en el que Derek Jacobi parece en el papel de Alan Turing, es una adaptación de la obra de teatro homónima de Hugh Whitemore, que se estrenó en 1986.
+    The Imitation Game (2014, dirigida por Morten Tyldum, con Benedict Cumberbatch y Keira Knightley) cuenta la vida del matemático Alan Turing y su decisiva influencia en el desarrollo de la Segunda Guerra Mundial. En ella, se explica cómo se descifraron los códigos secretos de la compleja máquina Enigma que utilizaban los nazis para el intercambio de mensajes.
+    Bletchley Park, serie en Netflix acerca de los trabajos británicos para descifrar los códigos alemanes durante la Segunda Guerra Mundial.
+
+Turing en la literatura
+
+    Turing es uno de los personajes de la sección de la Segunda Guerra Mundial del Criptonomicón, de Neal Stephenson.
+    La obra de teatro Breaking the Code, de Hugh Whitemore, trata sobre la vida y la muerte de Turing.
+    En la novela de John L. Casti titulada El quinteto de Cambridge (1998), perteneciente al género de ficción científica, uno de los personajes centrales es Alan Turing.
+    El cuento de ciencia ficción Oracle (2000), de Greg Egan, es protagonizado por un alter ego de Turing en una línea temporal paralela y con un nombre distinto.
+    En la novela de ciencia-ficción 2001, de Arthur C. Clarke, se hacen constantes referencias a Turing y a su test de máquinas en el caso de HAL.
+    En la novela de Edmundo Paz Soldán titulada El delirio de Turing (2003), uno de los personajes se inspira en Turing y a otro le ponen de sobrenombre el mismo.
+    En la novela de ciencia-ficción Neuromante, de William Gibson, se menciona a La Policía Turing, que vigila la aparición de inteligencias artificiales en el ciberespacio.
+    En la novela La tienda de los suicidas, de Jean Teulé, uno de los hijos de la familia Tuvache lleva el nombre de Alan por Alan Turing.
+    En la novela gráfica "Enigma: La extraña vida de Alan Turing" podemos encontrar una biografía de Alan Turing escrita por Francesca Riccioni e ilustrada por Tuono Pettinato traducida al castellano por Víctor Balcells Matas para NORMA Editorial (2015).
+    En la novela El enigma Turing de David Lagercrantz (Áncora & Delfín, 2018), se reconstruye la investigación policial que Scotland Yard llevó a cabo cuando Turing fue encontrado muerto en su casa de Wilmslow, Inglaterra.
+
+Turing en la música
+
+    El dúo musical Matmos publicó en 2006 un EP de tres canciones llamado For Alan Turing. En uno de sus temas, una de las máquinas Enigma originales es sampleada.
+    El grupo Hidrogenesse publicó en 2012 su disco Un dígito binario dudoso. Recital para Alan Turing, que también está dedicado al matemático.
+    La banda madrileña Nostalghia publicó a finales de enero de 2019 el álbum Sociedad Turing en alusión al británico
+
+Véase también
+
+    Máquina oráculo
+    Máquina universal de Turing
+    Máquina de Turing alternante
+    Máquina de Turing probabilística
+    Turing completo
+    Número computable
+    Colossus
+
+Referencias
+
+    Aaron Brown (20 de enero de 2015). «Notebook used by Alan Turing to crack the Enigma Code to sell at auction for $1million» (en inglés).
+    The Guardian.
+    Copeland, Jack. «Alan Turing: el descifrador de códigos que salvó millones de vidas». BBC News Technology. Consultado el 26 de abril de 2016.
+    «Turing, condenado por gay, recibe el perdón real 60 años después de su muerte.» El País. Consultado el 31 de diciembre de 2013.
+    «Turing, Alan Mathison, (23 June 1912–7 June 1954), Reader in Mathematics, Manchester University, since 1948». Who Was Who (en inglés) (Oxford University Press). doi:10.1093/ww/9780199540884.013.u243891.
+    Hofstadter, Douglas R. (1985). Metamagical Themas: Questing for the Essence of Mind and Pattern. Basic Books. p. 484. ISBN 978-0-465-04566-2. OCLC 230812136.
+    «ALAN TURING ARCHIVE SHERBORNE SCHOOL (ARCHON CODE: GB1949)». Sherborne School, Dorset.
+    1945-, Hofstadter, Douglas R., (1985). Metamagical themas : questing for the essence of mind and pattern. Basic Books. ISBN 0465045405. OCLC 11475807. Consultado el 24 de septiembre de 2018.
+    «Alan Turing: el fantasma que inventó la informática». XLSemanal. 12 de febrero de 2012. Consultado el 28 de septiembre de 2018.
+    «Christopher Collan Morcom».
+    «The Alan Turing Internet Scrapbook».
+    «Alan Turing y los procesos mentales de Christopher Morcom».
+    Teuscher, 2004.
+    Paul Gray, Alan Turing Time Magazine's Most Important People of the Century, p. 2.
+    «El problema de la decidibilidad. Alan M. Turing III | Hablando de Ciencia». Hablando de Ciencia. 30 de noviembre de 0001. Consultado el 1 de octubre de 2018.
+    «Nace Alan Turing, uno de los padres de la computación y la criptografía. | Todo Ciencia». www.todociencia.com.ar. Consultado el 1 de octubre de 2018.
+    «El problema de la decidibilidad. Alan M. Turing III | Hablando de Ciencia». Hablando de Ciencia. 30 de noviembre de 0001. Consultado el 2 de octubre de 2018.
+    «Alan Turing, precursor de la informática y la inteligencia artificial».
+    Alan Turing: El pionero de la era de la información.
+    «El enigma de «Enigma»: cuando las matemáticas ganaron la guerra». ABC. Consultado el 2 de octubre de 2018.
+    Noragueda, César (6 de agosto de 2015). «Las matemáticas de Alan Turing acabaron con Hitler». Hipertextual. Consultado el 1 de octubre de 2018.
+    «La historia del genio que logró descifrar el Código Enigma». culturizando.com | Alimenta tu Mente. 4 de mayo de 2017. Consultado el 2 de octubre de 2018.
+    Copeland, Jack (Prof.) (18 de junio de 2012). «Alan Turing: The codebreaker who saved 'millions of lives'». BBC News Technology (en en-EN) (Reino Unido). Consultado el 1 de enro de 2019.
+    varios, EDICIONES EL PAIS, S.L.,Año Turing,. «Alan Turing: El descifrado de la máquina Enigma». El Año de Turing (en inglés). Consultado el 2 de octubre de 2018.
+    «Alan Turing: el héroe de la II Guerra Mundial condenado por homosexualidad». nmas1.org. Consultado el 2 de octubre de 2018.
+    «Un ordenador logra superar por primera vez el test de Turing». El Mundo. Consultado el 2 de octubre de 2018.
+    «¿Qué mide realmente el test de Turing?». VIX. Consultado el 2 de octubre de 2018.
+    varios, EDICIONES EL PAIS, S.L.,Año Turing,. «Turing y el ajedrez». El Año de Turing (en inglés). Consultado el 2 de octubre de 2018.
+    «Validan una teoría de Alan Turing 60 años después de su muerte». ABC. 16 de marzo de 2014.
+    Leavitt, David (2006). The man who knew too much: Alan Turing and the invention of the computer. Nueva York: W. W. Norton. ISBN 0-393-05236-2.
+    Justo, Marcelo (25 de junio de 2012). «Un experto cuestiona el suicidio del matemático Alan Turing». ABC. Consultado el 15 de noviembre de 2012.
+    Hodges, 1986, p. 488.
+    «Una disculpa para el matemático que cazó a los nazis.». El País. 31 de agosto de 2009. Consultado el 31 de agosto de 2009.
+    BBC News (11 de septiembre de 2009). «PM apology after Turing petition» (en inglés). Consultado el 7 de febrero de 2012.
+    (en inglés) «Government rejects pardon request for Alan Turing.» BBC. Consultado el 31 de diciembre de 2013.
+    Público.es (7 de febrero de 2012). «Reino Unido niega el indulto póstumo al padre de la inteligencia artificial, condenado por sodomía en 1952». Archivado desde el original el 10 de febrero de 2012. Consultado el 7 de febrero de 2012.
+    The University of Surrey, Guildford, Surrey (24 de octubre de 2004). «The Earl of Wessex unveils statue of Alan Turing» (en inglés). Archivado desde el original el 23 de octubre de 2007. Consultado el 11 de septiembre de 2009.
+    «Interview with Rob Janoff, designer of the Apple logo | creativebits™». creativebits.org. Consultado el 15 de agosto de 2017.
+    «Alan Turing: a multitude of lifes in fiction.» - BBC (en inglés).
+    Matmos release For Alan Turing
+
+Bibliografía
+
+    Copeland, Jack B. (2004). The Essential Turing. USA: Oxford University Press. ISBN 0-19-825080-0.
+    — (2013). Alan Turing. El pionero de la era de la información. España: Turner. ISBN 978-84-15832-12-6.
+    Hodges, Andrew (1986). The Enigma of Intelligence. UK: Unwin Paperbacks. ISBN 0-04-510060-8.
+    Lahoz-Beltra, Rafael (2009). Turing. Del primer ordenador a la inteligencia artificial. España: Nivola.
+    Sevenster, Arjen; Gandy, R.O., eds. (1992, 2001). Collected Works of A.M. Turing. en cuatro volúmenes: Pure Mathematics, Mathematical Logic, Mechanical intelligence, Morphogenesis. Elsevier.
+    Teuscher, Christof, ed. (2004). Alan Turing: Life and Legacy of a Great Thinker (en inglés). Springer-Verlag. ISBN 3-540-20020-7. OCLC 53434737 62339998.
+    Agar, Jon (2001). Turing and the Universal Machine. Duxford: Icon. ISBN 978-1-84046-250-0.
+    Agar, Jon (2003). The government machine: a revolutionary history of the computer. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01202-7.
+    Alexander, C. Hugh O'D. (c. 1945). Cryptographic History of Work on the German Naval Enigma. The National Archives, Kew, Reference HW 25/1.
+    Beavers, Anthony (2013). «Alan Turing: Mathematical Mechanist». En Cooper, S. Barry; van Leeuwen, Jan. Alan Turing: His Work and Impact. Waltham: Elsevier. pp. 481-485. ISBN 978-0-12-386980-7.
+    Beniger, James (1986). The control revolution: technological and economic origins of the information society. Cambridge, Massachusetts: Harvard University Press. ISBN 0-674-16986-7.
+    Babbage, Charles (1864). Campbell-Kelly, Martin, ed. Passages from the life of a philosopher. Rough Draft Printing (publicado el 2008). ISBN 978-1-60386-092-5.
+    Bodanis, David (2005). Electric Universe: How Electricity Switched on the Modern World. New York: Three Rivers Press. ISBN 0-307-33598-4. OCLC 61684223.
+    Bruderer, Herbert: Konrad Zuse und die Schweiz. Wer hat den Computer erfunden? Charles Babbage, Alan Turing und John von Neumann Oldenbourg Verlag, Múnich 2012, XXVI, 224 p. ISBN 978-3-486-71366-4
+    Campbell-Kelly, Martin; Aspray, William (1996). Computer: A History of the Information Machine. New York: Basic Books. ISBN 0-465-02989-2.
+    Ceruzzi, Paul (1998). A History of Modern Computing. Cambridge, Massachusetts, and London: MIT Press. ISBN 0-262-53169-0.
+    Chandler, Alfred (1977). The Visible Hand: The Managerial Revolution in American Business. Cambridge, Massachusetts: Belknap Press. ISBN 0-674-94052-0.
+    Church, Alonzo (1936). «An Unsolvable Problem of Elementary Number Theory». American Journal of Mathematics 58 (2): 345. ISSN 0002-9327. JSTOR 2371045. doi:10.2307/2371045.
+    Cooper, S. Barry; van Leeuwen, Jan (2013). Alan Turing: His Work and Impact. New York: Elsevier. ISBN 978-0-12-386980-7.
+    Copeland, B. Jack (2004a). «Colossus: Its Origins and Originators». IEEE Annals of the History of Computing 26 (4): 38-45. doi:10.1109/MAHC.2004.26.
+    Copeland, B. Jack (ed.) (2004b). The Essential Turing. Oxford: Oxford University Press. ISBN 0-19-825079-7. OCLC 156728127.
+    Copeland (ed.), B. Jack (2005). Alan Turing's Automatic Computing Engine. Oxford: Oxford University Press. ISBN 0-19-856593-3. OCLC 224640979.
+
+	
+
+    Copeland, B. Jack (2006). Colossus: The secrets of Bletchley Park's code-breaking computers. Oxford University Press. ISBN 978-0-19-284055-4.
+        Hilton, Peter (2006). «Living with Fish: Breaking Tunny in the Newmanry and Testery». Colussus. in Copeland, 2006, pp. 189–203
+    Edwards, Paul N (1996). The closed world: computers and the politics of discourse in Cold War America. Cambridge, Massachusetts: MIT Press. ISBN 0-262-55028-8.
+    Gannon, Paul (2007) [2006]. Colossus: Bletchley Park's Greatest Secret. London: Atlantic Books. ISBN 978-1-84354-331-2.
+    Hodges, Andrew (1983). Alan Turing : the enigma. London: Burnett Books. ISBN 0-09-152130-0.
+    Hochhuth, Rolf (1988). Alan Turing: en berättelse. Symposion. ISBN 978-91-7868-109-9.
+    Leavitt, David (2007). The man who knew too much: Alan Turing and the invention of the computer. Phoenix. ISBN 978-0-7538-2200-5.
+    Levin, Janna (2006). A Madman Dreams of Turing Machines. New York: Knopf. ISBN 978-1-4000-3240-2.
+    Lewin, Ronald (1978). Ultra Goes to War: The Secret Story. Classic Military History (Classic Penguin edición). London, England: Hutchinson & Co (publicado el 2001). ISBN 978-1-56649-231-7.
+    Lubar, Steven (1993). Infoculture. Boston, Massachusetts and New York: Houghton Mifflin. ISBN 0-395-57042-5.
+    Mahon, A.P. (1945). The History of Hut Eight 1939-1945. UK National Archives Reference HW 25/2. Consultado el 10 de diciembre de 2009.
+    Oakley, Brian, ed. (2006). The Bletchley Park War Diaries: July 1939 — August 1945 (2.6 edición). Wynne Press.
+    O'Connell, H; Fitzgerald, M (2003). «Did Alan Turing have Asperger's syndrome?». Irish Journal of Psychological Medicine (Irish Institute of Psychological Medicine) 20: 28-31. ISSN 0790-9667. doi:10.1017/s0790966700007503.
+    O'Connor, John J.; Robertson, Edmund F., «Alan Mathison Turing» (en inglés), MacTutor History of Mathematics archive, Universidad de Saint Andrews, http://www-history.mcs.st-andrews.ac.uk/Biographies/Turing.html.
+    Petzold, Charles (2008). "The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine". Indianapolis: Wiley Publishing. ISBN 978-0-470-22905-7
+    Smith, Roger (1997). Fontana History of the Human Sciences. London: Fontana.
+    Sipser, Michael (2006). Introduction to the Theory of Computation. PWS Publishing. ISBN 0-534-95097-3.
+    Weizenbaum, Joseph (1976). Computer Power and Human Reason. London: W.H. Freeman. ISBN 0-7167-0463-3
+    Turing, A. M. (1937) [Delivered to the Society noviembre 1936]. «On Computable Numbers, with an Application to the Entscheidungsproblem». Proceedings of the London Mathematical Society. 2 42. pp. 230-65. doi:10.1112/plms/s2-42.1.230. and Turing, A.M. (1938). «On Computable Numbers, with an Application to the Entscheidungsproblem: A correction». Proceedings of the London Mathematical Society. 2 43 (1937). pp. 544-6. doi:10.1112/plms/s2-43.6.544.
+
+    Turing, Sara Stoney (1959). Alan M Turing. W Heffer. La madre de Turing, que le sobrevivió por muchos años, escribió esta biografía de 157 páginas de su hijo, glorificando su vida. Fue publicado en 1959, por lo que no se pudo cubrir su trabajo era. Apenas 300 copias fueron vendidas (Sara Turing con Lyn Newman, 1967, Biblioteca del universidad de St John, Cambridge). Con un prólogo de seis páginas de Lyn Irvine incluye reminiscencias y es frecuentemente citado. Fue republicado por Cambridge University Press en 2012 en honor al centenario de su nacimiento, y se incluye un nuevo prólogo de Martin Davis, así como memorias nunca antes publicadas del hermano mayor John F. Turing.
+
+    Whitemore, Hugh; Hodges, Andrew (1988). Breaking the code. S. French. This 1986 Hugh Whitemore play tells the story of Turing's life and death. In the original West End and Broadway runs, Derek Jacobi played Turing and he recreated the role in a 1997 television film based on the play made jointly by the BBC and WGBH, Boston. La obra la publicó Amber Lane Press, Oxford, ASIN: B000B7TM0Q
+
+    Williams, Michael R. (1985) A History of Computing Technology, Englewood Cliffs, New Jersey: Prentice-Hall, ISBN 0-8186-7739-2
+    https://www.hablandodeciencia.com/articulos/2012/03/01/el-problema-de-la-decidibilidad-alan-m-turing-iii/. Falta el |título= (ayuda)
+    Yates, David M. (1997). Turing's Legacy: A history of computing at the National Physical Laboratory 1945-1995. London: London Science Museum. ISBN 0-901805-94-7. OCLC 123794619.
+
+Enlaces externos
+
+    Wikiquote alberga frases célebres de o sobre Alan Turing.
+    Wikimedia Commons alberga una galería multimedia sobre Alan Turing.
+    O'Connor, John J.; Robertson, Edmund F., «Alan Mathison Turing» (en inglés), MacTutor History of Mathematics archive, Universidad de Saint Andrews, http://www-history.mcs.st-andrews.ac.uk/Biographies/Turing.html.
+    Una breve biografía de Turing, en inglés
+    Una biografía de Turing aún más breve, en inglés
+    Alan Turing — Hacia una mente digital: 1.ª Parte, en inglés
+    Máquinas de computación e inteligencia — Texto íntegro del artículo de Turing, en inglés.
+    Descubrimiento en Hollymeade de la placa conmemorativa del 50º aniversario de la muerte de Turing, en inglés
+    Alan Turing y la morfogénesis, en inglés
+    The Turing Archive
+    Turing Day 2002
+    Turing 2004: A celebration of his life and achievements
+    «Alan Turing, el fantasma que inventó la informática»
+    http://cryptome.org/2013/12/turing-pardon.pdf Copia de la orden real del 24 de diciembre de 2013
+    Biografías y Vidas
+    Biografía de Turing
+    Test de Turing
+    Turing y el Ajedrez
+
+
+    Datos: Q7251
+    Multimedia: Alan Turing
+    Citas célebres: Alan Mathison Turing
+
+This article is issued from Wikipedia. The text is licensed under Creative Commons - Attribution - Sharealike. Additional terms may apply for the media files.

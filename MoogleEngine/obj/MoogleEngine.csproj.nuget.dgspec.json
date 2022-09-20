@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/leonardo/UH/Moogle/MoogleEngine/MoogleEngine.csproj": {}
+    "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleEngine\\MoogleEngine.csproj": {}
   },
   "projects": {
-    "/home/leonardo/UH/Moogle/MoogleEngine/MoogleEngine.csproj": {
+    "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleEngine\\MoogleEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leonardo/UH/Moogle/MoogleEngine/MoogleEngine.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleEngine\\MoogleEngine.csproj",
         "projectName": "MoogleEngine",
-        "projectPath": "/home/leonardo/UH/Moogle/MoogleEngine/MoogleEngine.csproj",
-        "packagesPath": "/home/leonardo/.nuget/packages/",
-        "outputPath": "/home/leonardo/UH/Moogle/MoogleEngine/obj/",
+        "projectPath": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleEngine\\MoogleEngine.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leona\\OneDrive\\Desktop\\Moogle\\MoogleEngine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
