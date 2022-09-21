@@ -31,15 +31,17 @@ main[b-gaqtyc956i] {
     align-items: center;
 }
 
-    .top-row[b-gaqtyc956i]  a, .top-row .btn-link[b-gaqtyc956i] {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-    }
+.top-row[b-gaqtyc956i]  a, .top-row .btn-link[b-gaqtyc956i] {
+    white-space: nowrap;
+    margin-left: 1.5rem;
+}
 
-    .top-row a:first-child[b-gaqtyc956i] {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+.top-row a:first-child[b-gaqtyc956i] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
 
 @media (max-width: 640.98px) {
     .top-row:not(.auth)[b-gaqtyc956i] {

@@ -2,7 +2,9 @@
 
 <PageTitle>Moogle!</PageTitle>
 
-<h1 class="title"> Moogle!</h1>
+<h1 class="title">Moogle!</h1>
+
+<link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
 
 <input class="srch" @bind="query" placeholder="Introduzca su búsqueda">
 
@@ -10,7 +12,7 @@
 
 @if (!string.IsNullOrEmpty(result.Suggestion)) {
     <div class="suggestion">
-        <p>¿Quisiste decir <strong><a class="sugg" href="#">@result.Suggestion</a></strong>?</p>
+        <p class="qd">¿Quisiste decir <a class="sugg" href="#">@result.Suggestion</a>?</p>
     </div>
 }
 
@@ -18,8 +20,8 @@
 @foreach (var item in result.Items()) {
     <li class="listt">
         <div class="item">
-            <p class="ftitle">@item.Title</p>
-            <p>... @item.Snippet ...</p>
+            <a class="ftitle" href=@item.Link>@item.Title</a>
+            <p>... @((MarkupString)item.Snippet) ...</p>
             <p class="fscore">... @item.Score ...</p>
         </div>
     </li>
@@ -35,7 +37,6 @@
     private string query = "";
     private SearchResult result = new SearchResult();
     private search_engine engine=new search_engine();
-
     private void RunQuery(){
         result = Moogle.Query(query,ref engine);
     }

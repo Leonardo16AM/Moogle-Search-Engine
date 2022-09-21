@@ -1,13 +1,12 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
-Console.WriteLine("==================== Scanning files ...");
-
-Console.WriteLine("Scanned files ");
-
+Console.WriteLine("===================-----------");
 
 
 var builder = WebApplication.CreateBuilder(args);
+
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();

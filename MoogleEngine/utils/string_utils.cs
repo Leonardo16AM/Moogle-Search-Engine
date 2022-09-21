@@ -1,4 +1,5 @@
 // Code by Leonardo Artiles Montero 2022
+namespace MoogleEngine;
 
 
 
@@ -9,7 +10,7 @@ public static class string_utils{
         int n=a.Length;
         int m=b.Length;
 
-        int[,] dp=new int[n+1,m+1]; // Dynamic programming table to make memorization
+        int[,] dp=new int[n+1,m+1]; // Dynamic programming table 
 
         for(int i=0;i<=n;i++){
             for(int j=0;j<=m;j++){
@@ -47,6 +48,7 @@ public static class string_utils{
 
 
     public static bool is_letter(char mander){  
+        // Returns true if a given char is a letter
         return (mander>='a'&&mander<='z')||(mander>='A'&&mander<='Z')||
         mander=='á'||mander=='é'||mander=='í'||mander=='ó'||mander=='ú'||mander=='ñ'||
         mander=='Á'||mander=='Á'||mander=='Í'||mander=='Ó'||mander=='Ú'||mander=='Ñ'||
@@ -54,6 +56,7 @@ public static class string_utils{
         mander=='6'||mander=='7'||mander=='8'||mander=='9';
     }
     public static bool is_mayus(char mander){  
+        // Returns true if the char is an uppercase letter
         return (mander>='A' && mander<='Z');
     } 
 
@@ -105,10 +108,45 @@ public static class string_utils{
         return lst;
     }   
 
+    public static List<string> text_to_list(string text){        
+        // Converts a string to a list  strings
+       
+        string ktext="";
+        for(int i=0;i<text.Length;i++){
+            if( !is_letter(text[i]) &&  text[i]!='-' ){
+                ktext+=" "+text[i]+" ";
+            }else{
+                ktext+=text[i];
+            }
+        }   
 
+        text=ktext;
+       
+        char[] delimiters = {' ', '\t', '\n' };
+        string[] ntext=text.Split(delimiters);
 
+        List<string> lst=new List<string>();
+            
+        for(int i=0;i<ntext.Length;i++){
+            string s=ntext[i];
+           if(s!="") lst.Add(s);
+        }
+
+        return lst;
+    }   
+
+    public static bool is_same(string a,string q){   
+        // Returns if two strings can be the same   
+        a=a.ToLower();
+        int ed=edit_distance(a,q);
+        if(q.Length>1 && ed<=1){
+            return true;
+        }
+        return false;
+    }   
+    
     public static List<string> get_word_list(List<string> list){        
-        // return list of different strings
+        // Return a list of different words
         List<string>ret=new List<string>();
         Dictionary<string,int> dict= new Dictionary<string,int>();
         for(int i=0;i<list.Count;i++){
@@ -123,7 +161,7 @@ public static class string_utils{
     }   
 
     public static List<string> remove_duplicates(List<string> list){        
-        // return list of different strings
+        // Remove duplicates from a list of words
         List<string>ret=new List<string>();
         Dictionary<string,int> dict= new Dictionary<string,int>();
         for(int i=0;i<list.Count;i++){
@@ -135,13 +173,15 @@ public static class string_utils{
         return ret;
     }   
 
-    public static List<string> set_normalize_text(string text){        
+    public static List<string> set_normalize_text(string text){   
+        // Normalizes the text     
         List<string>ret=normalize_text(text);
         ret=remove_duplicates(ret);
         return ret;
     }  
 
-    public static List<string> join_lists(List<string> a,List<string> b){        
+    public static List<string> join_lists(List<string> a,List<string> b){     
+        // Append a list to another   
         for(int i=0;i<b.Count;i++){
             a.Add(b[i]);
         }
@@ -163,4 +203,39 @@ public static class string_utils{
         }
         Console.WriteLine();
     }   
+
+    
+}
+
+
+
+public class string_map{
+    Dictionary<string,int> mp = new Dictionary<string,int>();
+
+    public int val(string s){
+        if(mp.ContainsKey(s)){
+            return mp[s];
+        }else{
+            mp.Add(s,0);
+        }
+        return 0;
+    }
+
+
+    public bool Contains(string s){
+        if(mp.ContainsKey(s)){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    public void Add(string s,int val){
+        if(mp.ContainsKey(s)){
+            mp[s]+=val;
+        }else{
+            mp.Add(s,val);
+        }
+    }
+
 }
