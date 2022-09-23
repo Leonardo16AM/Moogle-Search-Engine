@@ -1,10 +1,15 @@
 # Moogle!
+> Proyecto de Programación I. Facultad de Matemática y Computación. Universidad de La Habana. Curso 2022.
 
 ![](moogle.png)
 
-> Proyecto de Programación I. Facultad de Matemática y Computación. Universidad de La Habana. Curso 2022.
 
 ---
+
+# Arquitectura básica del proyecto
+![](arch.png)
+
+
 # Search Engine:
 The search engine uses vectorial models to find the text that most closely resembles the query.First we vectorize the text and the queries using `TF-IDF` :
   
@@ -68,7 +73,7 @@ In te case of `near` it will be proportional to the minimum distance between the
 
 ---
 # GUI:  
-I don't really like to code in HTML or CSS, but I tried to create a minimally pretty graphical user interface. I also added the functionality that when you click on a file name it opens a new tab with the file.
+I tried to create a minimally pretty graphical user interface and I also added the functionality that when you click on a file name it opens a new tab with the full file.
 
 ---
 # Computational complexity analysis:
@@ -82,5 +87,6 @@ Finding a word in the trie is $O(S)$ where $S$ is the size of the string, and se
 ---
 # Further Optimizations:
 ## K-Dimentional Tree
+The first of the optimizations that i thought 
 ## GPU's go brrrr! 🔥
 ## Words embedings
