@@ -7,7 +7,7 @@
 
 <div class="item">
     <h2 class="txt_name">@name</h2>
-    <p class="txt_text">@text</p>
+    <p class="txt_text">@txt_reader.read($"../Content/{name}")</p>
 </div>
 
 <footer>
@@ -18,8 +18,6 @@
 
 @code {
     [Parameter]
-    public string name { get; set; }
-    
+    public string? name { get; set; }
     <!-- string asd=name; -->
-    string text=txt_reader.read($"../Content/1984-.txt");
 }

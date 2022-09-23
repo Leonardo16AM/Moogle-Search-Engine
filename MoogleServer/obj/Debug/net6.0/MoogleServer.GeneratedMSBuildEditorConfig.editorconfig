@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MoogleServer
 build_property.RootNamespace = MoogleServer
-build_property.ProjectDir = c:\Users\leona\OneDrive\Desktop\Moogle\MoogleServer\
+build_property.ProjectDir = D:\Moogle\MoogleServer\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\leona\OneDrive\Desktop\Moogle\MoogleServer
+build_property.MSBuildProjectDirectory = D:\Moogle\MoogleServer
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/App.razor]
+[D:/Moogle/MoogleServer/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/Pages/File.razor]
+[D:/Moogle/MoogleServer/Pages/File.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/_Imports.razor]
+[D:/Moogle/MoogleServer/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/Pages/Index.razor]
+[D:/Moogle/MoogleServer/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-56lu1l4lic
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/Shared/MainLayout.razor]
+[D:/Moogle/MoogleServer/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0m1jt7h6x2
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/Pages/_Host.cshtml]
+[D:/Moogle/MoogleServer/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/leona/OneDrive/Desktop/Moogle/MoogleServer/Pages/_Layout.cshtml]
+[D:/Moogle/MoogleServer/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
