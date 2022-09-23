@@ -286,3 +286,9 @@ public class search_engine{
 
 
 }
+
+
+
+public static class global_se{
+    public static search_engine engine=new search_engine();
+}

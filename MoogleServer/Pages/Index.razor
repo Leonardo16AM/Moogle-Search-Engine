@@ -36,7 +36,8 @@
 @code {
     private string query = "";
     private SearchResult result = new SearchResult();
-    private search_engine engine=new search_engine();
+    private search_engine engine=global_se.engine;
+
     private void RunQuery(){
         result = Moogle.Query(query,ref engine);
     }

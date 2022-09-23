@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1903899080,
-        "Kind": "Components.Component",
-        "Name": "MoogleServer.Pages.Index",
-        "AssemblyName": "MoogleServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MoogleServer.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 827889718,
-        "Kind": "Components.Component",
-        "Name": "MoogleServer.Pages.Index",
-        "AssemblyName": "MoogleServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MoogleServer.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MoogleServer.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 114861556,
         "Kind": "Components.Component",
         "Name": "MoogleServer.Pages.File",
@@ -94,6 +61,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "MoogleServer.Pages.File",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1903899080,
+        "Kind": "Components.Component",
+        "Name": "MoogleServer.Pages.Index",
+        "AssemblyName": "MoogleServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MoogleServer.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 827889718,
+        "Kind": "Components.Component",
+        "Name": "MoogleServer.Pages.Index",
+        "AssemblyName": "MoogleServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MoogleServer.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MoogleServer.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
