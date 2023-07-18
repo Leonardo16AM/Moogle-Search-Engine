@@ -1,9 +1,6 @@
 # Moogle!
-> Proyecto de Programación I. Facultad de Matemática y Computación. Universidad de La Habana. Curso 2022.
 
 ![](moogle.png)
-> El informe estará escrito en español y en inglés. Lo hice en varios días y en algunos quería escribir en ingles y otros en español.
-
 ---
 
 # Architecture of the proyect
