@@ -1,4 +1,4 @@
-# Moogle!
+# Moogle Search Engine
 
 ![](moogle.png)
 ---
