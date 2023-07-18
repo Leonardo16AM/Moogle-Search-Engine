@@ -3,7 +3,7 @@
 ![](moogle.png)
 ---
 
-# Architecture of the proyect
+# Architecture 
 To run the proyect is recomended to use ```dotnet watch run --project MoogleServer```. Once the program is running, it will start preprocessing the files. When a query is made, the project will call the ```engine query``` function in the ```Moogle.cs``  file.
     
 ![](arch.png)  
